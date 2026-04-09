@@ -1,0 +1,1944 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Celigo -> 
+Celigo Platform, data is moving from one point to another. This is called a flow.
+A flow can include more than two endpoints. A flow can do more than just move data. It can transform, remove, filter, and process data in other ways. 
+
+Connection ->
+A connection is how the Celigo Platform communicates with the application
+
+Integration -> 
+Folder containing flows
+
+Endpoint -> 
+Application, database, or other data source used in a flow
+
+Flow -> 
+Stream of data between two or more systems
+
+Important -> 
+The endpoints refer to the application or data source, NOT the data itself. 
+
+Source & Destination ->
+At least two endpoints in flow - 
+The endpoint providing the data (source) 
+The endpoint receiving the data (destination) 
+
+Import & Export ->
+Export - A configuration record for data pulled from a source 
+Import - A configuration record for data brought into a destination 
+
+Lookup ->
+We can also create a lookup. Like an export, a lookup retrieves data from an endpoint.
+Unlike an export, the information from a lookup doesn't send a data record into a flow. 
+Instead, a lookup merges data to an existing record. 
+This data usually provides context or complementary information for the existing record, which is needed for the flow.
+Lookup could be done with in same endpoint as well as another endpoint
+
+
+Components ->
+1.connections
+2.exports
+3.imports
+4.lookups
+these are standalone resource objects being independent from a flow or integration means these components can be used in multiple flows or integrations.
+When reusing a standalone resource object (whether it's a connection, export, import, or lookup), it's still one object.
+If you make a change to that object in any of its uses, that change is made everywhere the object is used.
+hence, it's recommended to create a new component (connection, export, import, or lookup) for each flow.
+
+Example , 
+A flow component is used in two flows. In Flow B, the component was changed. What will happen to the component in Flow A?
+Ans.It changed when the component changed in Flow B.
+
+Appear on an integration tile ->
+Status - You'll see either a green dot with the word "Success" or a red dot with the number of errors for the last 30 days.
+Connection Down - A broken link icon will appear if a connection within the integration is not working.
+Permissions - If you have permissions, this icon will appear. Its appearance depends on what type of permissions you have.
+No of Active flows , not all flows
+
+
+Navigations ->
+1.Navigating to Flow Builder : Tools -> Flow builder   OR   Create -> Flow
+2.Resources Menu : Resources -> Resources
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+API -> application programming interface - way to communicate with a system.
+API receive a call and trigger events, which transfer data and connect applications. Here we use Web API
+
+
+API -----API Gateway(Request)-----> Server
+Server -----API Gateway(Responce)-----> API 
+	
+IMP API documentations ->
+https://shopify.dev/docs/api/admin
+https://developer.salesforce.com/developer-centers/integration-apis
+https://developers.hubspot.com/docs/api/overview
+
+protocols -> APIs have guidelines on how data requests are submitted and formatted.
+IMP -> The application’s developer determines which API works with the application.
+
+
+Methods for APIs which use HTTP ->
+1.GET - Signals a need to retrieve information from the server and return it in a response
+2.POST - Usually creates a new resource/record on a server; some systems use this as a way to retrieve data
+3.PUT - Updates a resource/record on a server 
+4.PATCH - Modifies an existing resource/record; unlike PUT, this doesn't replace the whole entry
+5.DELETE - Removes a resource/record
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Databases -> 
+These are database management systems, which access and manage a collection of organized information.
+
+Universal connectors -> These are connectors which interact with several systems and provide custom control when connecting with an application.
+If an application isn't listed by its name, you can use a universal connector to connect to nearly any endpoint. 
+
+Connectors -> These are applications which already have key settings configured. This simplifies the flow building process. 
+You may hear these referred to as "pre-built connectors" or "application-specific connectors".
+
+Data Loader -> As mentioned in the Tools menu review, Data loader is another source option. 
+It allows you to upload a source file. The file types accepted are:CSV (or any delimited text file), JSON,XLSX and XML
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Adding a source -> Adding a destination -> Mapping fields -> Preview -> Run flow
+
+Type of Mapping ->
+Mapping is part of the flow builder or data loader process where you will tell integrator.io where data from the source application needs to go when it is imported into the destination application. 
+
+Standard Mapping -> The default mapping type is standard mapping. 
+This is used when you have a field from the source that will go into a field in the destination. 
+For example, lets say the source has a customer name field and the destination has a Name field, this mapping type will work to move the customer's name from the source application to the destination application.
+
+Hard-Coded Mapping -> Hard-Coded Mapping is for when you have a field in the destination application that will always be the same across all records. 
+For a field that will be hard-coded, you will need to enter the value for this field. 
+A great example of this is a checkbox, this is a great way to map whether you want that checkbox to be checked or not across all records!
+
+Multi-Field Mapping -> Multi-Field Mapping is when you want to take more than one field from the source application and combine those fields into one field in the destination application, or transform data from the source application using field variables. 
+More information on field variables can be found here. 
+
+Lookup Mapping -> Lookup field mapping allows you to use a table or other location to populate fields. 
+There are two options when you are setting up a lookup mapping, dynamic and static.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Integration Apps -> This hold their own subscription and are maintained by the developer of the app. To use an integration app, you must have a Celigo Platform subscription for that specific application.
+
+Templates -> This allow you to install a place to get started for integration two apps. These count against your subscription. You will need to configure these templates and can customize them to fit your needs. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.Export records from source application is the standard export. 
+It runs whenever your flow is scheduled to run or whenever the Run button is manually selected.
+
+2.Listen for real-time data from source application is runs whenever the source application records are updated. 
+This type of export is called a webhook listener. It’s not available for all connectors.
+Celigo platform is listening for a webhook. A webhook itself is provided by source applications that support webhook technology. 
+Some applications refer to this by different names. For example, SMS Twilio calls webhooks "Status Callbacks." 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Connection -> 
+
+Authentication ->
+Use when creating a connection
+Logs the Celigo platform into the connector 
+Varies type based on the application used
+
+Verification ->
+Use when creating a webhook
+Verifies information the Celigo platform sent through a webhook connection is legitimate
+Four types: Basic, HMAC, Secret URL, and Token
+
+
+The table below lists an overview of the types : 
+Basic-> Uses username and password credentials from an external system -> Authentication and Verification
+Cookie -> Places pieces of data into each http request header sent to the application; a session-based method. -> Authentication
+Custom -> Allows you to define a unique authentication method not listed as another option. User must configure http request fields, which can be encrypted or unencrypted -> Authentication
+Digest -> Calls server to receive data, which it then sends back to the server encrypted with the username and other information -> Authentication
+HMAC ->	Allows you to set what type of encryption and encoding needs to be done. Encrypted values sent across with secret keys; most secure -> Verification
+OAuth 2.0 -> Gives limited access to HTTP service on behalf of an account -> Authentication
+Secret URL -> Creates a custom parameter inside the listener URL to verify the URL is valid; sent only once; least secure -> Verification
+Token -> Issues API key and password after verified server request. This is used to communicate with the server and expires after a certain amount of time. Path field to locate this must be specified in the Celigo platform -> Authentication and Verification
+WSSE -> Use when a connecting application expecting crypto hash generated out of the username and the password. This value is sent over as part of the header. This type is available for HTTP connectors -> Authentication
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Export -> Export could me one or many from different sources
+
+connector -> we should rely on an application-specific connector form, so you don't have to navigate or ignore fields irrelevant to your integration; however, a universal connector like REST API form can occasionally be helpful for API updates that have not yet been accounted for by an application-specific connector form.
+ 
+Type Of Export -> 
+1.All - Exports all available records associated with the API
+2.Delta - Only exports new or updated records since the last time the data flow was run. Not all APIs allow this option.
+3.Once - Exports records once and marks them as synced. During the next flow run, these synced records will be skipped. 
+4.Limit - Exports a set limit of records.
+
+
+Pages ->
+The Celigo platform puts exported records into pages. 
+These pages are chunks of data, which are more manageable for processing. 
+They move through the flow one by one, until the export is complete. 
+By default, there are 20 records per page. This page size can be modified in export settings in the Advanced section. 
+This doesn't apply to webhook listeners, where data is sent in real-time and often a single record.
+
+
+Total File Size -> 
+While you can adjust the number of records per page, that doesn't affect the total file size allowed.
+The limit is 5 MB per page. Fewer records per page doesn't necessarily result in a smaller file size. 
+As shown in the examples on the right, total file size is dependent on the amount of data in a record.
+
+
+Multiple Exports Flow ->
+Each export will run separately from the other exports.
+Data being sent in one export will not touch the data from another export.
+Ex. we have export 1 and 2 each export have 3 pages , 
+So page 1 , 2 and 3 of export 1 will transfer to destination and then page 1 , 2 and 3 of export 2 will transfer to destination 
+
+
+
+“What would you like to do?” field includes -> 
+
+1.Import records into destination application - 
+Records from the flow are put into the destination application.
+This import type is used if no other steps are needed to generate the data you want to send to the destination application.
+
+
+2.Look up additional files (per record)
+–Data from the destination/lookup application is added to the original data in the flow. 
+The "additional files" option is only available for applications that have APIs with Blob export capabilities.  Use this import option to include files associated with each record as a Blob file and add the Blob file to each record pushed to the destination.
+
+
+3.Look up additional records (per record)
+–Data from the destination/lookup application is added to the original data in the flow.
+Use this import option when additional information is needed, which isn't available from the initial source application export.
+
+
+4.Transfer files into the destination application
+–Data is moved out of the source application and into the destination application
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+One to Many -> When a single record internally needs to create multiple records, choose Yes for "One to many." 
+This would be the case if a parent record contains child records.
+
+
+Operation ->
+
+1.Insert/Add- 
+Use if only importing new records. Select "Ignore existing records" checkbox to avoid duplicate records.
+
+
+2.Update -
+Select if only importing changes to existing records. Select "Ignore missing records" checkbox to avoid errors if records aren't found.
+
+
+3.Insert/update - 
+Use to update existing record or create new record, if needed. This is available for all API types.
+
+
+4.Upsert (only available for REST and SOAP APIs) - 
+Use to update existing record or create new record, if needed, when there's an external ID field on the imported record and the exported record. 
+This is faster than insert/update, because the external ID can be used, instead of performing a lookup to check if the operation is an insert/update.
+
+
+5.Delete -
+Use to permanently delete records. This operation can't be reversed.
+To prevent accidental deletions, use an Update operation to make a record inactive instead. Also, avoid errors for records not found by selecting the "Ignore missing records" checkbox. 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Lookups in Flow Builder ->
+Lookups pull and merge additional information into a data flow. This data complements the data from the source or adds context to it. 
+For example, Hair Concierge recently updated some of its products. 
+To keep track of which orders received which version of a product, the hair care company wants to match product details with the products in the orders. To do that, Hair Concierge can add a lookup that pulls product details and combines that information with the exported order data, before the flow reaches Salesforce. 
+
+Lookup data can come from:
+1.A separate connection from the sources 
+2.The same connection using a different API
+
+Lookup ->
+Exports data that merges with source data to provide context or complement it
+Never the last step of a flow
+Requires results mapping
+
+Import -> 
+Instructs how to place exported data into the flow or destination application
+Last step of the flow
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Field Mapping, Lookup Mapping & Multi-Field Mapping ->
+
+
+Types of data in mapping ->
+Boolean (a value of either true or false)
+Date
+Number
+Number array (a series of numbers)
+String (represents text)
+String array (a series of text, such as a phrase)
+
+
+Discard if empty->
+As the name states, the Celigo platform will discard a field when the mapped value is empty.
+
+
+Immutable (only applicable for NetSuite imports)->
+By default, if a record fails to import and the Celigo platform identifies a specific field causing the error, the platform will remove the field and retry importing the record.
+
+
+
+Field/Import Mapping Type: Lookup
+The lookup field mapping type is used when you take data from the export record and need to translate it before it goes into the import record. There are two types of lookup mapping:
+Static
+Dynamic
+
+Static Lookup
+
+Requires entering values into a mapping table
+Uses a mapping table to translate a value from the export field to the value for the import
+Works best for fields with a small list of values in both the export and import that don’t change often, such as currency and shipping method
+
+Dynamic Lookup
+
+Available for select connectors
+Searches import application for values specified to use for mapping
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Lookup Option: Action to take if unique match not found
+
+Fail record - This is the default action. It excludes the record from the import and flags the record as failed.
+
+Use empty string as default value - This sets the import record field as empty and deletes the error-generating data in that field.
+
+
+Use null as default value
+–
+This sets the import record field as null and deletes the error-generating data in that field.
+
+
+Use custom default value
+–
+You'll enter a default lookup value, after selecting this option. That value will be entered in the import record field, and the error generating data in the field will be deleted. 
+
+
+
+
+Important items to note about dynamic lookups:
+
+A destination value is being mapped to a destination value. The difference is the destination value found is usually from a different destination API than where it's being mapped.
+The dynamic lookup settings window is where references to the source can be added for filters/searches.
+The source field on a mapping row isn't used in dynamic lookups, so it can be blank. (This is shown in screenshots below.) Some users add a source field on the mapping row to serve as a note to themselves about what the dynamic lookup involves, but it has no function in the dynamic lookup process.
+The user-created filter needs to return only one value or the dynamic lookup will fail. This is why fields like ID numbers are usually used in dynamic lookups. Email addresses or names are fields which may match more than one record.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Field/Import Mapping Type: Multi-Field Mapping ->
+We can merge multiple fields and save it in destination field , during merging we can add space usually this use to create any unique Id
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Array -> In celigo we have json array data which we could store in field , 
+there could be multiple json array or array inside array
+Ex 1.
+{
+{
+Tshirt[
+{
+ 'color':'red',
+ 'size':'small'
+ 
+},
+{
+ 'color':'green',
+ 'size':'x-small'
+ 
+
+},
+{
+ 'color':'white',
+ 'size':'xx-small'
+
+}
+]
+}
+}
+
+//T-shirt[*] to call complete array 
+Ex2.
+"T-shirts": [ 
+{           --------------------|
+"Style": [			
+"Mens",
+"Womens",				
+"Childrens"			|
+],
+"Sizes": [
+"X-Small",
+"Small",
+"Medium",			|  --------T-shirt[0]
+"Large",
+"X-Large"
+],
+"Colors": [
+"Red",
+"Green",			|
+"Blue",
+"Black",
+"White"
+]
+} ------------------------------|
+{-------------------------------|
+"Style": [
+"Unisex",
+"Boys",
+"Girls"
+],------------------------------| ----------T-shirt[1]
+T-shirts[1]
+.
+.
+.
+}-------------------------------|
+To access any index value : T-shirts[0].Sizes[*].
+T-shirts[*].Sizes[*] // this will return error 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Results Mappings (inside a source for lookup)
+
+Every lookup in a flow requires results mapping. This type of mapping instructs the Celigo platform how to handle the data resulting from a lookup. Results mapping:
+
+carries data retrieved from the lookup into the next step of the flow
+is applied at the record level
+gives the data a source record field name to use later in the flow
+shows five options: 
+data - result record of lookup
+errors - error from processed record
+status code - http status code from processing record
+ignored - true/false, indicate wheather record process throuth this step is ignored 
+dataURI - link the data which gathered in processing 
+
+
+
+Source record field
+A source record field name needs to be assigned to hold the lookup result data. This can be an existing field name or a new one.
+The data with its assigned record field name will be merged into the source exported data. It can be used later in the flow.
+Note: If you assign an existing name which is at the top level of the source data's JSON object, the lookup results data will overwrite that field.
+
+
+Response Mappings (between source and destination)
+
+Response mapping instructs the Celigo platform how to handle an import/destination application's response to data. While lookups require results mapping, an import/destination does not require response mapping.
+
+Response mapping takes place between two imports/destinations, since the data from response mapping flows into another endpoint. Because of this, it can't be the last step in a flow.
+
+
+Response mapping:
+
+Is applied at the record level
+
+Shows the following options: 
+id - id of data imported
+errors - error from processed record
+status code - http status code from processing record
+ignored - true/false, indicate wheather record process throuth this step is ignored 
+dataURI - link the data which gathered in processing 
+_json - return json formatted response of import
+headers - header value of responece
+
+
+Source record field - hold data will merged to flow into source record for later use in flow
+
+
+Mapper 2.0:
+Handlebars Expression
+It's available for:
+
+HTTP and REST API-based imports
+
+File transfer imports like FTP, AS2, and Google Drive
+
+
+The handlebars expression option replaced the multi-field mapping type in Mapper 2.0.
+
+This field mapping type allows you to open the handlebars editor, where you can see input and preview the output of your handlebar expression. 
+handle bar template -> 
+1.Name : {{record._Parent.name}} //Name: John
+2.{{TShirt[1].colors}}
+
+Standard, hard-coded, and lookup appear in both Mapper 1.0 & 2.0. 
+But multi-field mapping, which is available in Mapper 2.0, was replaced with Handlebars expression in Mapper 2.0.
+
+
+
+Filters allow flexibility to select which data proceeds through the flow, based on user-defined criteria.
+
+Because of that ability, filters can eliminate the need to clean up data after it has been integrated into the destination application. 
+Type of Filter : 
+1.Import filter (Input) - Excludes records that do not meet criteria ONLY from the filtered step, not the steps that follow. Can appear on any step in the flow except the first step
+2.Export filter (Output) - Excludes records that do not meet criteria from proceeding through the flow.Can appear on export or lookup flow steps.
+
+Filters can be found in a flow in the following locations:
+1.Before a lookup
+2.After an export
+3.Before an import
+
+
+Rules:
+1.Boolean selector - AND OR NOT
+2.Record field
+3.Operator drop down menu - equal , greater , empty etc
+4.value - input filter search for within selected field
+5.operand setting
+6.add rule
+7.add group
+
+
+Ex.Export Record which created prior to 2023 - 
+field - record.create_at
+operator- less than
+value - 1/1/2023
+
+
+Flow Branching -
+Instead of making seperate flow for each criteria, 
+Branching allows data to flow in certain directions based on defined criteria. 
+If the records match the criteria, it proceeds through to the next sequential steps of the branch. 
+If the data does not match the criteria, it moves to the next branch.
+
+Type of matching in branching : 
+1.First matching : First matching flows records sequentially through the branches. Records proceed through the first branch where the record matches the branching criteria. 
+And matching will stop once criteria meet in first matched branch , This is the only branch where they proceed.
+2.All Matching : All Matching means records will proceed through all branches where the conditions are met, regardless of the sequence in which the branches appear.
+Criteria will match to all branches if it match then proceed and if it not matched then criteria will match to other next branches
+
+
+
+Using JavaScript in Flow Branching (Developer mode should enable in profile)
+You can add branching using rules or JavaScript. 
+The examples shown so far used rules for branching. Rules is the default mode when the Edit branching window opens.
+1.Create script : Resouces -> Script
+2.Edit braching -> Toggle to javascript -> Add script
+
+
+
+
+Merge branch : You can merge a flow item with an existing flow branch. Select the merge branch icon and drag it to the desired target.
+Unmerging Branch : To unmerge a branch, select the broken link icon next to the gray branch icon.
+Delete branch : Edit branch -> right 3 dots -> Delete
+
+
+
+Transition Settings:icon (a door with an arrow pointing right)
+also known as retry options, tell the Celigo platform how to handle records that fail when the flow is run.
+When a record in a flow fails, by default, the Celigo platform pauses on that step, stopping the record from continuing in the flow. 
+There's a second option available: Proceed to the next application regardless. When this option is selected, the failed record skips the import where it failed and continues through the other steps of the flow.
+Transition settings allow you to transform data after it is imported.
+
+
+Transformations: Plus sign -> tansfer icon
+A transformation is a way to change source data before it's processed in the flow
+
+1.renaming fields
+2.removing fields
+3.reorganizing fields
+4.changing data formats
+
+
+
+
+Transformation Methods:
+
+1.Rules 2.0 (Transformation 2.0):
+
+Allows for complex transformations
+Is user friendly
+Processes any level of nested arrays
+Supports JSON Path for selecting source record fields
+Supports handlebars expressions for:
+Referencing custom settings fields
+Building custom field values using formulas
+
+
+2.JavaScript:
+Provides full control
+Is ideal for developers who prefer coding
+
+
+3.JavaScript preSavePage Hooks(IMP):Plus sign -> hook icon
+Allows working with larger data structure
+Performs operations, such as:
+merging
+deleting, and 
+creating more records within a page
+
+
+
+
+
+Transformation 2.0 Modes:
+
+Modify input record {} (Default)-
+This mode is recommended when making very targeted changes, such as modifying a single field. 
+This mode allows you to select the fields you want to transfer and keep the rest of the dataset without editing all the fields.
+
+
+
+Create output record {} from input record {}-
+This mode creates a new output record from the source record. You can choose only the elements you need from the source record.
+
+
+Create output rows [] from input record {}-
+This mode transforms record-based data to row-based data. 
+Row-based data includes multiple rows with a key column, which must always be kept together in the same file. Use this mode when sending records to a CSV file.
+
+
+
+
+JSON Path and Handlebars :
+This can be used in the Transformation 2.0 input field to select fields from the source record. 
+
+JSON : 
+$ - References root object or array element
+. or [ ] - Uses child operators to reference paths with either dot notation, bracket notation, or a mix of both.
+Use bracket notation with single or double quotes if the property name contains special characters or spaces
+* - Selects all elements in an object or array
+
+Ex.
+$.firstName->
+[
+    "Sally"
+]
+
+$.address->	
+[
+{
+     "streetAddress": "1 Inter Grate",
+     "city": "Web",
+     "postalCode": "123-12225"
+   }
+] 
+ 
+$.address.city->
+[
+   "Web"
+]
+
+
+
+
+Handlebars expressions:
+You can also use handlebars expressions when you need to generate an output field that isn't a single field from the source record. 
+The ability to use handlebars expressions is a powerful tool, as it allows you to generate any value you can think of for your output field.
+
+Ex.
+{{record.address.city}} : {{record.address.postalCode}} //Output - Web : 123-12225
+
+
+
+
+Flow Schedule : 
+Flows using standard exports can be scheduled. Real-time exports, which use webhook listeners, cannot. As covered in an earlier course, those are triggered by the source
+The two schedule types are: 
+Preset: This is the default option. There are 10 preset options ranging from weekly to every 15 minutes.
+
+Cron expression: This is a customizable option. It can specify month, day of month, day of week, hour, and minute.
+
+
+
+After the question mark in the Schedule field, there are five positions:
+
+Minute (0-59)
+Hour (0-23)
+Day of the month (1-31)
+Month (1-12)
+Day of the Week (0-6 with 0 as Sunday)
+The positions are separated by spaces. An asterisk represents "every".
+
+Minute	Hour	Day of Month	Month	Day of the Week
+20	6	1,15		*	*
+
+
+
+The minute and hour options also allow you to select "every n minutes/hours". Those usually appear as */n in the Schedule field. Examples: 
+
+*/10 in minutes = every 10 minutes
+
+*/23 in hours = every 23 hours
+
+Note: In schedules where every n minutes is used and n is greater than 10, the format changes. The * in the expression changes to 10-59. 
+For example: 10-59/15 = every 15 minutes.
+
+This is to indicate the flow will run every 15 minutes starting at 10 past the hour. (This shift was added so all flows don't start at the same time.)
+
+
+
+
+Schedule Override for Exports:
+In addition to a flow schedule, individual exports can also be scheduled. This is helpful when you have multiple exports that need to run on different schedules in the same flow. 
+To schedule an export, select the plus (+) sign in the export bubble, and select the Schedule Overrride calendar icon. The Flow schedule override window will appear. This includes the same options that are in the Flow schedule window.
+
+
+
+Schedule a Flow to Run after Another : Select flow -> Schedule icon -> Setting icon -> Next Integration flow
+
+
+
+
+Error Troubleshooting:
+
+Step 1: Identify the Source
+
+There are two general sources of errors:
+
+Internal	
+In the error list, these are listed as a step in the flow process.
+Examples: Lookup, Transformation, Response Mapping.	
+
+External
+In the error list, external errors show the application name.
+Examples: Mailchimp, Shopify, ADP.
+
+
+
+
+Step 2: Identify the Error Classification
+
+Next to the Source column in the error list is the Classification column. Based on an error's properties :
+
+
+Value-
+A phone number isn't formatted as expected.
+A new value is sent for a status field that can't be changed.
+
+
+Missing-
+A required field is empty or missing.
+A resource can't be found at the file path provided.
+
+Connection-
+The user doesn't have permission to access or edit a record.
+An incorrect username or password was used.
+
+Intermittent-
+A connection timed out.
+This operation may work when retried.
+
+
+Rate limit-
+Too Many Requests
+You exceeded your quota for the requested resource.
+This classification was previously labeled "Governance."
+
+
+Too large-
+Your query request was running for too long.
+ Response stream exceeded limit of 5242880 bytes.
+CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY.
+This classification was previously labeled "Governance."
+
+
+Parse-
+A token doesn't conform to the expected syntax of the input language.
+
+Duplicate-
+The destination already has an existing record. 
+The lookup system finds more than one matching result.
+
+Step 3: Identify the Error Category
+Most errors fall into one of three categories: 
+connection error,
+permissions error, or
+data error. 
+
+Step 4: Follow Troubleshooting Steps for the Error Category
+With the error category identified, you can proceed using troubleshooting steps for that category. Let's begin by looking at connection errors.
+This can be addressed with the following steps:
+
+Troubleshooting Connection Errors - 
+Retry the step or restart the flow - 
+The error may have been temporary. In the error list, select the checkbox next to the errors to retry or you can retry them all. Open the Retry drop-down box and make your selection. 
+
+Check the connector status in the Celigo Platform - 
+Check the connections for each of the endpoints. A red dot next to a connection indicates it's offline. Edit the connection to see if any credentials or other settings need to be adjusted or re-entered.
+
+Check the application's status online - 
+Many applications have a status page, where the company can alert users of any problems. If the endpoint you're using has such a page, refer to it to see if there are outstanding issues that may affect the flow. 
+
+Contact the application's support team - 
+Some errors are caused by issues outside an application's interaction with the Celigo Platform. Contact the application's support team for assistance. Providing them with the error message and code could help pinpoint the issue.
+
+
+Troubleshooting Permissions Errors - 
+Check the error message
+Verify credentials and/or permissions in the Celigo Platform
+Review permissions in the endpoint/application's external system
+
+
+Troubleshooting Data Errors - 
+Errors classified as Parse, Value, or Duplicate are often types of data errors, which are the most common type of error. 
+Errors classified as Missing may also be data errors. And as mentioned earlier, internal errors, which don't always have a classification, are usually data errors.
+
+
+Troubleshooting Other Errors - 
+checking the application's API documentation
+contacting their support center to resolve these errors.
+
+
+
+Category			Classifications			Error Message Examples						Troubleshooting Options
+
+Connection Error		Connection			Unauthorized connection						Retry step or restart flow
+				Intermittent			Server not responding						Check connector status in the Celigo Platform	
+								Timeout								Check the application's status online
+																Contact the application's support team
+
+
+Permissions Error		Connection			You do not have permissions to edit this transaction		Check the error message
+				Missing				This action requires merchant approval				Verify credentials and/or permissions in the Celigo Platform 
+				Rate limit			Too many requests						Review permissions in the endpoint/application's external system
+				Too large			Your query request was running for too long.	
+
+
+Data Error			Parse				Required parameter/field missing or invalid			Check the error message
+				Missing												Verify endpoint settings
+				Value												Review mapping
+				Duplicate											Edit data in configuration settings
+																Update settings in the application's external system
+
+
+
+Trace Key - Open error -> error field -> trace key
+A trace key is a value that uniquely identifies a record. This can be helpful when managing errors and examining flow data.
+The Celigo Platform will automatically choose a field to use as a trace key for a record. For example, the id field is selected as the trace key when exporting a record from NetSuite. 
+
+Note: Trace keys can't exceed 128 characters. If the field selected as the trace key has more characters, the trace key will only include the first 128.
+
+You can override the automatic field selected for the trace key and assign a new value, if needed. In the simulation below, you'll walk-through the steps to change the trace key from the default selection to {{record.LastName}}-{{record.Id}}.
+
+Auto-resolve->
+This is a setting that removes duplicate errors and leaves only the open errors that require your attention.
+
+
+
+
+Flow Events Reports-> (Tools -> Report)
+Flow events reports provide an audit trail of records processed through a flow. Data from the last 30 days is available for a report. But the report can only include up to three of those days.
+The Flow Events report will provide audit trails for records processed within the last 30 days.
+
+Integration Lifecycle Management -> (Select any tiles ->Revision-> Create snapshot)
+Integration Lifecycle Management allows you to save versions of integrations before making changes. 
+You can clone integrations, modify them, monitor adjustments, and revert back to previous versions if needed. 
+This reduces the risk of breaking a working integration when testing and updating integrations.
+
+Revert back to previous versions -> Revision ->Action -> revert to revision
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Universal Connector -
+don't see a pre-built connector (or application-specific connector) for an endpoint, you may still be able to create an integration with that application using universal connectors
+The pre-built connectors in the Celigo Platform are universal connectors with the key settings and configurations already set for a specific application. 
+Universal connectors (without any pre-configured settings) provide flexibility beyond these pre-built connectors.
+
+You may need to use a universal connector, instead of a pre-built connector, when: 
+a pre-built connector isn’t available for the application you want to integrate or
+you want to use a new API feature that hasn’t yet been added to the pre-built connector. 
+
+
+types of universal connectors:
+HTTP-
+HyperText Transfer Protocol (HTTP)/HyperText Transfer Protocol Secure (HTTPS) allows you to connect to another server. 
+It’s used to provide credentials and make data requests. 
+
+REST API (deprecated)-
+A type of HTTP connector that conforms to the design principles of the REpresentational State Transfer (REST) architectural style, 
+which is a set of specific rules that are not required for all HTTP connections.
+As REST API is a subset of HTTP/HTTPS, it does not have the full flexibility and wider range of settings available for HTTP/HTTPS connections.
+
+
+FTP-
+File Transfer Protocol is a standard communication protocol used for the transfer of files to and from a server. You'll also see versions of this named SFTP and FTPS.
+
+Webhook-
+This only work in export, not in import
+This universal connector is only available when:
+the endpoint application has a webhook and
+you're creating a connection to an export.
+A webhook connector creates a listener URL and sends information to the URL when an event happens in the source application. 
+A webhook listener receives the message and then acts based on the content of the message sent.
+
+
+AS2-
+Applicability Statement 2 is a standardized way to move data securely over the internet.  
+A combination of encrypted keys, unique IDs, and receipts is used to ensure security.  
+To use an AS2 connection, the two businesses/organizations connecting have to agree on what technical specifications and security methods to use, so each endpoint knows what to expect.
+This universal connector is typically used in Electronic Data Interchange (EDI) integrations.
+
+
+Wrapper-
+This is a developer toolkit to build connections. It's used only if:
+a prebuilt connector isn’t available and 
+the connection requires custom code that can’t be created using another universal connector.
+While they're more complex to set up and maintain, wrappers allow flexibility to create custom connections, exports, and imports and are often used when the data from a lookup regularly exceeds 5 MB.
+
+
+
+GraphQL-
+This connector allows you to retrieve data by writing API queries. (A query is a request for information. For example, when you type a phrase into a search engine, that's a search query. A data request to an API is an API query.)
+GraphQL improves the processing speed of these information requests. And the size of the data retrieved is less than that of other alternatives, like REST API calls.
+GraphQL-based endpoints include Wayfair, Braintree, Instacart, Magento, and PayPal.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+The Celigo Platform combines an application's base and relative URIs to make an API call.
+URL stands for "uniform resource locator" and is a type of URI (uniform resource identifier).
+
+Base URI				Relative URI
+https://api.artic.edu			/api/v1/artworks
+
+
+
+Parts of an HTTP Message
+
+Start Line-
+For requests to a server, this is a Request Line, which includes:
+Method (such as GET, PUT, POST, DELETE)
+Relative URI
+HTTP protocol version
+Example: GET /testExample HTTP/2
+
+
+
+For responses from a server, this is the Status Line, which includes:
+HTTP protocol version
+Status Code
+Status code's string value
+Example: HTTP/2 200 OK
+
+
+Status codes indicate if the server request was received, understood, accepted, redirected, or rejected. You're probably familiar with the 404 error, when trying to visit a webpage that couldn't be found. 
+The status code's string value is a brief explanation of what the code means. Code 404's string value is "Not Found". 
+
+
+Headers-
+Generally, this is information on how the message is being communicated. This can include:
+Host information
+Authentication to access data
+Media type (how the data is formatted)
+Language
+These appear as name-value pairs with a colon between the two. Examples:
+"host": "api.example.com"
+"accept-language": "en-us"
+Note: en-us is the code for English used in the United States.
+
+Blank Line-
+A blank link separates the headers and body. The blank line indicates all the information describing the data was included above.
+
+Body (Optional)-
+This is the data being communicated.
+If a server is responding with a record request, the record data would reside in the body.
+Not all requests or responses include a body. For example, in a GET request to the server, all the information being asked for is included before the body section of the request.
+
+
+
+
+
+HTTP Request									
+
+Request Line-
+GET this info from this specific location using this protocol
+
+Headers-
+Start at this location using these credentials with this media type
+
+Blank Line-
+
+Body-
+Empty
+
+
+
+HTTP Response
+
+Status Line-
+Using this protocol this happened as a result of the request
+
+Headers-
+Describe server, content type, how data will be presented
+
+Blank Line-
+
+Body-
+Data requested
+
+
+
+HTTP Connection Settings :
+
+1.Mode
+This indicates how you’ll be connecting to an application. Two options are available for this required setting:
+
+Cloud (Default)-
+Signals the Celigo Platform will connect directly with an application's API.
+If there's a firewall, the Celigo Platform's IP addresses may need to be added to a server's whitelist to get access to data.
+On Premises-
+Indicates an agent is used to connect to an application with a firewall.
+An agent is a small application installed on a computer, typically on the same network as the system you're connecting to and behind the firewall.
+
+
+
+Media Type
+
+This specifies the data format to use in the HTTP request body and response body. The four options are:
+
+
+JSON - 
+JavaScript Object Notation (JSON) is a common format to transfer information and the primary one used in the Celigo Platform. Data is written in a name-value pair using the following format:
+
+The name, which is the field name, is surrounded by quotation marks. 
+A colon separates the name and the value.
+The value can be:
+a string of text (which would also be in quotation marks)
+a number
+a Boolean value (true or false) or
+null
+Examples:
+"Company" : "Hair Care Concierge"
+"ID" : 12345
+Note: If an endpoint application uses REST API, it's safe to assume the media type will be JSON.
+
+
+Multipart/form-data - 
+This is used for transferring different types of data within a single request. This data can include: 
+File uploads
+Binary data 
+This is data that can only have one of two possible values, like 1 and 0.
+Non-ASCII characters
+
+Note: These are characters other than the English alphabet, numbers, and some special characters, like an asterisk or dollar sign.
+This media type:
+Includes multiple parts, with each part described by its headers
+Is commonly used on import steps and not on the connection
+Can only include one file reference for each import
+An email with an attachment is an example of a document with multiple parts, such as the body text and the file attached.
+
+
+
+URL encoder-
+This format is similar to a large query string, which includes name-value pairs. The name-value pairs have:
+an equal sign (=) separating the name and the value
+an ampersand (&) between pairs of name-values
+Ex.
+query=celigo+university&id=1&date=2023
+
+
+
+XML-
+XML stands for "eXtensible Markup Language". It's structured information wrapped in tags. The tags show to store and transfer data over the internet. Below is an example of the XML format.
+
+
+<employeeData>
+
+    <employee id="123">
+
+        <firstName>Jane</firstName>
+
+        <lastName>Brown</lastName>
+
+        <hireDate>02/03/2021</hireDate>
+
+        <department>HR</department>
+
+    </employee>
+
+ 
+</employeeData>
+
+
+Authentication Configuration->
+We'll quickly review the three most frequently used:
+
+
+Basic-
+This sends user credentials as a user ID-password pair. 
+For this authentication/verification method, Celigo uses AES 256 encryption, along with multiple additional layers of protection. 
+If a connection fields require editing at any time, the password must be re-entered each time. 
+
+
+Token-
+After an application verifies a server request, it issues an authentication token in the form of an API key. 
+Some applications may refer to the token as a "bearer token" or "secret key". 
+The token will be sent:
+through an HTTP header, 
+in URL as a parameter, or 
+in the body of the HTTP request.
+When editing a connection using a token, you must re-enter the value each time.
+Tokens expire after a certain amount of time. But the Celigo Platform can also be configured to request a new token upon expiration(opens in a new tab).
+
+
+OAuth 2.0-
+This gives limited access to HTTP service on behalf of an account. It's an increasingly popular option, as it provides the highest level of security for any of the authentication options. 
+Similar to a hotel key card, OAuth 2.0 can give access to only specific areas and that access expires after a set time.
+Like the previous authentications mentioned above, if there's a change to the connection configuration, you'll need repeat the authorization process.
+
+
+
+
+
+Authentication: Non-Standard API Response Patterns->
+
+The Celigo Platform includes the following optional fields to receive these atypical messages:
+
+
+Override HTTP status code for auth errors-
+This field only needs to be set if the application's HTTP status code for authentication errors is not 401. 
+Status code 401 is the standard response for a request that's unauthorized or lacks authentication credentials.
+When a different status code is used, the Celigo Platform needs to know which code to look for. For example, an API could return a generic 400 status code instead.
+
+
+Path to auth error field in HTTP response body-
+This field only needs to be set if the API sends authentication errors through a field in the HTTP response body. 
+For example, some APIs will return a 200 success status code, whether a connection is successful or not. (This is most common with APIs using GraphQL.) In these cases, the response body will list the error message.
+What you enter in this field tells the Celigo Platform where to look in the HTTP response body for that error message.
+
+
+
+For example: 
+
+{
+
+   "statusCode" : 200,
+
+   "errorMessage" : "Auth failed"
+
+}
+
+The path to auth error field in HTTP response body would be: errorMessage
+
+
+Auth error values-
+This field lists the exact values in the HTTP response body that indicate authentication errors. 
+Using the earlier example: 
+
+
+
+{
+
+   "statusCode" : 200,
+
+   "errorMessage" : "Auth failed"
+
+}
+
+The auth error value would be: Auth failed. When the Celigo Platform finds this value in the auth error field, it recognizes there was an authentication error.
+To provide multiple values in the auth error values field, separate them with commas.
+
+
+
+
+
+Non-Standard API rate limiter->
+The first section involves the number of data requests (or calls) that can be sent to an API within a given time. This is called an API’s rate limit.
+
+
+
+Wait time between HTTP requests-
+This is the first field available in this section. If an API doesn’t set a rate limit itself, this is where you would instruct the Celigo Platform how much time to wait before sending another data request.
+The time entered in this field is read as milliseconds, and the value entered should be a whole number. 
+
+Override HTTP status code for rate-limit errors-
+The standard status code for rate-limit response errors is 429. If the API you're connecting to uses a different code, enter that value in this field.
+
+Path to rate-limit error field in HTTP response body-
+In the previous lesson, you learned an API may send error messages through a field in the HTTP response body. This may include rate-limit error messages.
+
+Rate-limit error values-
+Also, as in the previous lesson, you learned an API may use specific values in the HTTP response body to identify an error in the error field named above. If this is the case for the API you're connecting to, enter those values in this field. 
+Separate multiple values with commas.
+
+Override retry-after HTTP response header name-
+Just like most HTTP connections use 429 as the standard rate-limit error status code, they use "retry-after" as a standard header response to indicate how long a system should wait until another data request can be made.
+If the API you're connecting uses a different header response, enter that header name in this field.
+
+
+
+
+
+
+
+
+
+TEST Connection ->
+
+HTTP method-
+In the phone number example, you may verify the number by calling it or sending a text. Similarly, APIs can use different methods to verify a connection.
+In an earlier lesson, you reviewed HTTP methods. GET, POST, and PUT are the three options available for this field. 
+GET is most commonly used with REST APIs. POST is most commonly used with SOAP APIs.
+
+
+Relative URI-
+This identifies where the ping request will be sent, relative to the Base URI. 
+Example: If the destination for the ping request is https://api.wealthwise.com/testInfo, then you'd have the following values:
+Base URI: https://api.wealthwise.com
+Relative URI: testInfo
+You can use handlebar expressions in this field to include variables. This is the most efficient way to dynamically update the relative URI.
+Example: /testInfo/{{dateTime}}
+
+
+Path to error field in HTTP response body-
+Continuing with the phone number example, someone answering your call and saying hello doesn't necessarily mean you reached the right person. 
+As mentioned in the previous lesson, some applications will return a HTTP status code indicating success, even if it failed. 
+The API's signal that the data request failed will instead be shown through the HTTP response body. 
+
+
+Error values-
+Enter the values the Celigo Platform should look for in the error field to identify an error. 
+If you enter multiple values, use a comma to separate them.
+
+
+Path to success field in HTTP response body-
+If needed for your connection, use this field to show where the success field will be found.
+
+
+Success values-
+Enter the values the Celigo Platform should look for in the success field to identify a successful data request. 
+If you enter multiple values, use a comma to separate them.
+
+Path to detailed error message field in HTTP response body-
+If the API provides a field to indicate detailed ping response errors, enter that path here.
+The information in that field will appear on the error management dashboard. If a path to the detailed error message isn't entered, the entire HTTP response body will appear in the dashboard.
+
+
+Concurrency is the number of data requests the Celigo Platform can send to a server at the same time. This sounds similar to, but is different from, rate limit.
+For example, an API documentation gives the following values:
+Rate limit: 150/minute  //sent within a given time
+Concurrency: 25        //sent at the same time
+This means while 150 requests can be made each minute, only 25 can happen simultaneously. 
+We can set concurrency level according to priority of flow
+
+
+
+
+There are three ways to configure concurrencies when setting up an HTTP connection->
+
+Set for each flow step - You can specify the amount (up to 25) for the connection.
+Borrow - Borrow from another connection to the same endpoint, which already has a currency set.
+Burst Mode - Burst mode is the Celigo Platform default concurrency. This sends data requests to the endpoint API as fast as possible.
+
+
+Auto-recover rate limit errors->
+To recover from rate limit errors, the "Auto-recover limit errors" option sets the connection's concurrency to one and then retries the request with a delay.
+
+
+
+Export ->
+
+
+
+relative URI -> 
+
+a directory (Example: /v1/customers),
+a specific record (Example: /v1/customers/352385),
+records matching a path and/or query parameter
+
+Path Parameters-
+A path parameter points to a specific API resource location. Pointing to an individual record is an example of a path parameter. 
+Path parameters are separated with a slash (/) and enclose any variables in curly brackets ({ }).  
+Example: If the /v1/customers directory includes different types of records, but you only want to export those with an account ID, you can add the account ID field as a path parameter: /v1/customers/{id}
+You can include multiple path parameters in a relative URI. 
+Example: /v1/customers/{id}/company
+
+
+Query Parameters-
+Query parameters allow you to search for records based on key-value pairs. 
+They're added to the end of a URI and start with a question mark (?). Key-value pairs, which are determined by the API, are separated with an ampersand (&).
+Example: You an export customers created on a certain date who are partners with a query: /v1/customers?createdOn=06-06-2023&type=partner
+Because path parameters point to a location, the parameters must be entered in the exact order for the location. Query parameters can include the key-value pairs in any order. 
+So, in the example above, /v1/customers?type=partner&createdOn=06-06-2023 would result in the same exported records.
+
+
+
+
+Export Type->
+
+
+
+1.Delta : With delta exports, the platform only wants records after a certain date (the date of the last export), the data request needs to include that date to serve as a filter. 
+The date is represented with the handlebars expression
+Relative URI: /v1/customers?from={{lastExportDateTime}}&to={{currentExportDateTime}}
+using last export time , current export time will start too fetch update hence forth
+
+
+2.Once : The Once export type has the most configurations of all the export types. 
+It actually includes two data requests. These requests:
+Export the data
+Update a field which shows a record was exported
+In order for the second request to be processed, an API must have a Boolean field available for this. 
+A Boolean field only allows a true or false value. This is often a checkbox field.
+
+
+Boolean field to mark records as exported-
+The Celigo Platform will check the value of the field name entered here to determine whether the record has already been exported.
+The platform will only export records where the value for this field is false.
+When an export is complete, the Celigo Platform will request the endpoint set this Boolean field to true for all the records included in the export. (This is done with the information provided in the other fields listed below.) 
+This true value in the field will prevent the records from being exported again.
+
+
+HTTP method to update records -
+To change the exported records' Boolean field to true, the Celigo Platform needs to know which HTTP method to use. 
+The options available are: DELETE, GET, PATCH, POST, and PUT.
+
+Relative URI to update records - 
+This provides the Celigo Platform the location for the records whose Boolean field require updating. 
+It will most likely include the relative URI already entered in the "What you would like to export?" section.
+
+
+HTTP request body to update records - 
+This is the request sent to mark records as exported. It changes the value of the Boolean field used to true.
+
+
+
+
+
+Pagination Methods ->
+
+Custom relative URI-
+This option is used when the API provides an ID or token as part of a response. That ID or token is then used as part of the URL to get the next page of responses.
+Paging method section of Create export panel showing custom relative URI selected.
+
+Custom request body-
+This option is used when paging is tracked by a value in the POST request body. 
+When this option is selected, another field appears where you can enter an overriding HTTP request body for the next set of page requests. This is needed if it's different than the primary HTTP request body field.
+API paging section of Create export. Custom request body selected as paging method. A field labeled "Override HTTP request body for subsequent page request" appears with the advanced field editor icon available for it.
+
+
+Link header-
+With this option selected, the Celigo Platform will look for the next page URL within a dedicated link header value. 
+The link header can include multiple URLs for page navigation (forward, back, first, last, etc.) These are link relation or rel values.
+By default, the Celigo Platform looks for the standard "next" for the relation name. 
+If the API uses another value, you can enter that value in the "Override link header relation name" field.
+Paging method section of Create export panel showing link header selected. Below that field is the Override link header relation name field.
+
+Next page token-
+This option is used when the API returns a token to the next page within the HTTP response body.
+You need to enter the path to that token, so the Celigo Platform knows where to find it. Notice the "Path to next page token field in HTTP response body" field is required. The format of this path is determined by the media type of the first page response.
+Example JSON response path: result.paging.nextPageUrl
+Example XPATH for XML path: /result/paging/nextPageUrl
+When a URL isn't found at the indicated path, this is interpreted as the final page has been reached, so pagination ends.
+If the initial export request needs a specific value token, this should be entered in the "Override initial token value" field.
+Paging method section of Create export panel showing Next page token selected. The fields below that include path to next page token field in HTTP response body (which is required), override initial token value, override relative URI for subsequent page requests, override path to next page token field for subsequent page requests, and override path to records for subsequent page requests.
+
+Next page URL-
+This option is used when the HTTP response body provides a URL to call the next page. 
+You'll need to identify the path to the URL, so the Celigo Platform knows where to look.
+
+
+
+When the path isn't found, the platform will stop looking for pages.
+
+Paging method section of Create export panel showing Next page URL selected. The path to next page URL field in HTTP response body is below that selection and is marked required.
+
+Page number parameter-
+This is one of the most commonly used pagination methods. As the name states, page numbers are used with this option.
+When using the page number parameter, you need to add {{export.http.paging.page}} to the relative URI or HTTP request body. 
+Page numbers normally start with zero. If this is different for the API you're using, enter the correct start index number in the field provided. 
+Recommendation: Even if the API starts with the standard zero, enter zero in this field to prevent any errors.
+Two additional optional fields are for paths to the total number of pages and results in the HTTP response body. 
+If these aren't provided, the Celigo Platform will continue requesting pages until it gets a 404 (not found) error or no other information is returned.
+Paging method section of Create export panel shows page number parameter selected. 
+The fields below this option are override page number start index, path to total number of pages field in HTTP response body, and path to total number of results field in HTTP response body.
+
+Skip number parameter-
+This is also one of the most commonly used pagination methods. You may see this referred to as offset and/or limit. This pagination begins with a specific index number, usually zero. 
+When the Celigo Platform gets data from that starting index/page, it will track the number of records returned and use this number as a parameter to get the next following set of records.
+Example: If the first page returns with 10 records, the next data request sent will skip the first 10 records and request the next set of 10, starting with record 11.
+To complete the setup for this option, you need to add {{export.http.paging.skip}} to the relative URI or HTTP request body. This tells the Celigo Platform what records to skip (or offset).
+Example: /v1/customers/?offset={{export.http.paging.skip}}
+
+
+
+
+
+
+
+
+
+
+How would you like the records imported?
+
+There are five methods available for importing records into the Celigo Platform. Select each of the items below to learn about each option.
+
+
+Composite-
+Makes changes depending on the existence or absence of records in the destination application. 
+In order to make composite requests, you need to define how to:
+create new records
+identify existing records, and/or
+update existing records. 
+The information needed for those actions includes selecting the HTTP method for each and providing the relative URI.
+Composite type drop-down list with options: Create new records & ignore existing records, Create new records & update existing records, and Ignore new records & update existing records.
+
+
+DELETE-
+Deletes records in the destination application based on criteria entered
+
+
+PATCH-
+Sends the destination application instructions on how to modify existing records
+
+
+POST (Most commonly used)-
+Adds new records to the destination application
+Note: A SOAP/XML API will always use the POST HTTP method.
+
+
+PUT-
+Replaces existing records in the destination application with new record data; unlike PATCH, this replaces the entire record, not just parts
+Note: PUT is the method REST APIs most commonly use to update records.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+File transfer protocol (FTP) =>
+
+FTP (Not recommended)-
+Requires a username and password for the connection
+Uses an unsecure connection, allowing anyone who intercepts the data to read it
+Typically uses one of two ports: 21 and 22 
+While not recommended, this method is still offered since some applications only use this protocol.
+
+
+SFTP  (SSH file transfer protocol) (Recommended)-
+Requires a username, along with a password or authentication key, for the connection
+Does not use separate connections for command and data channels
+Uses the Secure Shell (SSH) standard to encrypt communications between systems, making this the most secure version of an FTP
+Typically uses one port: 22
+Important: The Celigo Platform supports authentication keys in PEM format. It doesn't support authentication keys with a passphrase, so the SSH keys should always be generated without a passphrase.
+
+
+FTPS (File transfer protocol/SSL) -
+Requires a username and password for the connection
+Encrypts both the command and data channels using transport layer security (TLS). 
+ 
+Can be used in two modes: 
+Explicit (default mode in Celigo Platform) - Asks the server to use TLS before the connection is encrypted
+Implicit - Both the client and server always use an encrypted connection
+
+Typically uses one of two ports: 
+21 for explicit mode
+990 for implicit mode
+If an FTP server doesn't have SFTP capabilities, FTPS should be preferred over FTP due to its security capabilities.
+
+
+
+
+
+
+In the Application details section, you'll enter the host name. This is the location of the FTP server you'll connect to. It may be a:
+URI (Example: ftp.mycompany.com) or 
+IP address (Example: 172.2.99.249)
+
+
+
+
+
+
+Active mode :
+With FTP connections, server send request and then client respond
+
+Passive mode:
+With FTP connections, the client computer makes the initial connection request to the server. This is the command channel. In active mode, a server then initiates the data channel connection from a port, usually 20. 
+In passive mode, the server doesn't start the data channel connection. Instead, using the command channel, the server tells the client computer to send a data connection request to a random port it opened. 
+Then the server (passively) listens for this request.
+Passive mode is more secure than active mode, with both connections (command and data) originating from the client computer.
+
+
+
+
+User directory is root->
+When setting up your FTP connection, there is a checkbox to indicate whether the user directory is the root directory.
+The root directory is usually the top-most directory in a computer folder system. All the other directories branch out from it.
+
+
+
+Entry parser -> 
+In most cases, this optional field is left blank. 
+The entry parser field identifies how to handle FTP responses if:
+they're uncommon (not Windows or Linux) or 
+the server doesn't reply to a command asking for its operating system. 
+
+
+
+Enable PGP cryptographic -> 
+Select this checkbox if using PGP encryption. 
+PGP encryption increases data security when processing and transferring files. (PGP stands for "Pretty Good Privacy".) 
+This encryption requires public and private keys, which the Celigo Platform does NOT generate. You'll use a third-party tool to create PGP keys to encrypt and decrypt files.
+enter the following information about the encryption:
+PGP public key
+PGP private key
+Private key passphrase and
+Compression algorithm
+
+
+
+Require socket reuse->
+This option is only available when using an FTPS protocol. 
+As mentioned earlier, FTPs have two connections to a server (channel and data). While we've reviewed ports, the endpoints of these connections themselves are called sockets. Sockets are bound to a port number.
+
+
+
+Difference:
+
+FTP 			SFTP 					FTPS
+
+1.Passive mode		Password(Required)			Implicit FTP 
+2.PGP cryptographic     Authentication Key Reminder		Socket Reuse
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FTP Exports ->
+When creating an FTP export, you'll need to identify how to handle the files retrieved, their current location, and whether you'd like to group and sort them. 
+
+The "Parse files being transferred" setting is one you haven't seen in previous exports. As the name states, you'll select whether to parse the files being transferred. 
+
+
+
+CSV file-
+ItemID,Name,ProductCategory,Size,Cost
+209rfKd,Men's Shampoo,Hair Care,12 oz.,$12.00
+Parsed Output-
+{
+"page_of_records": [
+{
+"record": {
+"ItemID": "209rfKd",
+"Name": "Men's Shampoo",
+"ProductCategory": "Hair Care",
+"Size": "12 oz.",
+"Cost": "$12.00"
+}
+}
+]
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+FTP Imports ->
+In this section, you'll add the name of the FTP import and see the connection used for it. You have the option of adding a description. 
+Set the one-to-many option to yes when a single record contains sub-records (or child records) that will become individual records. 
+For example, you may be exporting a purchase order and importing the items on it as individual records.
+
+
+Select yes for the "Generate files from records" option when you're creating a new file (CSV, XML, JSON, etc.) during the import. 
+Choose no when the import is transferring raw files as-is. This may be the case when importing PDFs or image files.
+
+
+
+Replace new line with space-
+New lines in the content are replaced with a space. The does not affect delimiters that mark a new row.
+
+
+Replace tab with space-
+Tabs in the content are replaced with a space. This does not affect delimiters indicating a new column.
+
+
+Truncate last row delimiter-
+Truncating shortens a value. For example, the value 78.1924 truncated to fit a field that only allows five characters would be 78.19. 
+Errors could happen if a value exceeds a maximum character length allowed. Selecting this option can prevent those types of errors. 
+
+
+Wrap with quotes-
+This option would wrap all the values in a field within quotes. Data within quotes is treated as a single value. 
+As the name states, comma-separated values use commas to distinguish one field of data from another. If a value including a comma wasn't in quotes, it would be separated into two values.
+Example: The value 74,810 would be read as two values: 74 and 810. When it's wrapped in quotes, "74,810" remains "74,810".
+Wrapping values in quotes can also prevent errors that may occur because of other special characters ($, #, %, etc.) within values.
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Database Connectors ->
+
+A database is a collection of organized information. 
+The software used to access and manage this information is called a database management system (DBMS).
+
+Mode ->
+1.cloud - connection to publicaly accessible aaplication
+2.on premises - connection to publicaly accessible aaplication(behind firewall)
+For an on-premise (not publicly accessible) database, you can use two methods to meet the security requirements to connect to it:
+Whitelist the Celigo Platform IP addresses(opens in a new tab)
+Use an on-premise agent
+
+Agent->
+If the mode setting is set to on-premise, an agent is needed to connect to the database. An agent is small application installed on a computer, typically on the same network or system you're connecting to.
+The agent connects to the Celigo Platform, allowing you to connect to data behind the firewall.
+
+
+
+Many of the other supported databases have three advanced settings fields in common: 
+Borrow concurrency from
+Auto-recover rate limit errors
+Concurrency level
+
+
+Auto-recover rate limit errors ->
+Advanced section with auto-recover rate limit errors selected and target concurrency level drop-down box. Concurrency level is grayed out and uneditable.
+Rate limit errors occurs when the requests to an endpoint exceed the number allowed within a given time. The endpoint determines what that number and set time are.
+
+Target Concurrency Level->
+This option appears when the "Auto-recover rate limit errors" option is selected. A default value is automatically set based on the endpoint (one for FTP connections, 25 for HTTP connections). You can select another value from the drop-down box. 
+
+
+What would you like to export?
+
+The field you'll most likely see in this section will be labeled "SQL query". 
+SQL stands for "structured query language," a programming language used to communicate with databases. It can retrieve, create, insert, update, and delete database records.
+
+Ex,
+SELECT Product FROM ProductList WHERE Size='10'
+//Conditioner
+Select * FROM ProductList ORDER BY ProductList.Product	
+//Conditioner, 10, 5.00
+//Hair spray, 8, 6.00
+//Shampoo, 12, 4.00
+
+
+Export type->
+All-
+Always exports all data
+
+
+Delta-
+Exports only data modified since the last export
+If this export type is used, the SQL query should include the expressions: 
+lastExportDateTime or
+currentExportDateTime
+
+Limit-
+Exports a set number of records
+The default value is one. The maximum value allowed is 100.
+
+
+Once-
+Only exports data that hasn't already been exported
+To mark a record as exported and prevent it from being exported again, an additional SQL query is needed. Below is an example of a query for this:
+UPDATE tableName SET exported=true WHERE id={{data.id}}
+In the example above, "exported" is a Boolean field to indicate whether the record was updated; id represents an unique identifier for a record.
+
+
+
+Database Imports->
+
+How would you like the records imported?
+
+Insert-
+Adds a new record into a database
+
+
+Update-
+Changes an existing record in a database
+
+
+Insert or Update-
+Checks to see if there's an existing record to update. 
+If there is, the record is updated; otherwise, a new record is made.
+
+Ignore existing records (appears for Insert query type)-
+This ignores records that already exist in the database. A new record will override an existing one. This provides protection against duplicates.
+Since this requires checking if there is an existing record, there is a slight effect on the processing time.
+
+Ignore missing records (appears for Update query type)-
+A record must already exist in order for it to be updated. When it doesn't, an error will occur when updating records. If you expect some records to be missing during an import update and want to avoid error messages about it, you can select "ignore missing records".
+
+how to use a query from the following options:
+Use bulk insert SQL query-
+This is the recommended selection and quickly inserts batches of data.
+Selecting this results in additional options. You'd need to choose whether the table to insert this data is in the database or the result of a dynamic lookup. You would then enter the table name.
+Use SQL query once per record-
+Use SQL query once per page of records-
+Use SQL query on first page only-
+
+
+
+
+Concurrency ID lock template-
+When a connection is sending multiple requests to a database at the same time, it has a concurrency greater than one. 
+If this is the case, a record may be queued for import multiple times, resulting in duplicates.
+This field prevents that. The value entered here, which should be a handlebars template, generates a unique ID for each exported record. 
+The Celigo Platform enforces an order, so that no two records with the same ID are submitted for import at the same time.
+
+
+Data URI template-
+This field uses a handlebars expressions template to generate dynamic links to the data imported, where possible. 
+These links are helpful when troubleshooting errors. They appear on the error dashboard, so you can target specific data tied to an error.
+
+
+Batch size-
+This controls how many files should be retrieved at a single time.  
+Below is a list of factors to note about batch size:
+
+This is not the number of total files that can be retrieved.
+A larger batch size decreases the number of requests to the database, but other factors need to be considered when setting this number.
+A database can have a hard limit on the number of records that can be submitted in a single batch request. 
+Batch sizes can't be greater than the page size.
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+integrator.io APIs ->
+integrator.io is a RESTful API that uses JSON as the language for making requests. 
+This API is for developers to further customize flows to fit their business needs. integrator.io uses bearer token authentication. 
+The base URI for the integrator.io API depends on your geographic location:
+
+
+What is a REST API? 
+A REST, or REpresentational State Transfer, based application exposes information in the form of information about its resources. 
+With a REST API, the user can take actions on the resources available, such as creating a new resource or changing an existing resource.  
+
+
+
+What makes an API RESTful?
+In order to be considered a REST API, integrator.io must follow certain constraints that make the API easier to use and easier for a developer to learn how to use the API. 
+Most REST APIs, including integrator.io use the JSON format. 
+
+
+
+Making a call through a REST API:
+When you make a call to a RESTful API, you will need to provide two things in the call to specify what action you are wanting to happen. 
+An identifier for the resource you would like to include in the call.  This is a URL and is known as the endpoint. 
+The operation you would like the server to perform, in the form of an HTTP method. integrator.io supports the following HTTP methods: GET, POST, PUT, DELETE
+
+
+
+Creating a Token in integrator.io ->
+Resources ->API Token
+Authorization type -> Bearer Token
+
+
+When to Use the API -> 
+New Functionality - 
+You will want to use the API if a new function is available in integrator.io but the UI (User Interface) has not been updated to support this function yet. 
+Static Lookups - 
+If you have a large list of items for your static lookup table, it is easier to update or insert into this table using an API request instead of typing it in manually using the UI. 
+
+
+
+Making an API Request ->
+
+GET - 
+This call retrieves resources where your token has access. 
+
+
+POST -
+This call creates new records or items in the resource where your token has access.   
+
+
+PUT -
+This call updates existing records or items in the resource where your token has access 
+
+
+
+DELETE - 
+This call deletes resources where your token has access.
+
+
+A static field mapping is required for mapping 1000 values. You already have a table created with all the values needed. What's the most efficient way to add the mapping table?
+->Create a JSON table and upload the values using integrator.io API
+
+
+
+
+Developer Playground ->
+This is a tool within IO that allows a user to experiment, outside of an integration, with different functions, including CSV/XML parsing, form building, Handlebars, SQL queries, filtering, scripting, and transformation. The Developer Playground is only available when Developer Mode is turned on. 
+
+
+AFEs ->(Advanced Field Editors)
+This take the guesswork out of building a dynamic template for your import fields by allowing you to validate the field output without running the entire flow.
+
+
+AFEs give users the ability to:
+View all the available input data and its structure in one place.
+View the output data in real-time as you build or modify the field template.
+Modify the input data and observe how it affects the output. 
+Identify certain errors with the field template, such as syntax or handlebar errors.
+
+
+What are Advanced Field Editors?
+Advanced Field Editors (AFEs) are user interfaces available for certain fields where the output is generated using dynamic data, including all of the functions within the Developer Playground. 
+They take the guesswork out of building a dynamic template for the fields and allow you to validate the field output without running the entire flow. 
+
+
+CSV parser helper- 	Comma separated values into JSON.
+XML parser helper-	Converts XML values into JSON.
+Form builder-		Allows you to create custom forms to use within the user interface.
+Handlebars editor-	Allows you to create and test handlebar expressions against raw data.
+SQL query builder-	Allows you to build SQL queries with handlebars and JSON as an input.
+Filter editor-		Allows you to visually define an expression to include or exclude records.
+JavaScript editor-	Allows you to run JavaScript safely in a secure runtime environment
+Transform editor-	Allows you to reshape a JSON object with simple pairs to generate the preferred output.
+
+
+Integration Explorer ->
+This is a section within the Developer Playground that allows you to copy and paste testing data for any resource in your integrator.io account. From the Integration Explorer menu, expand the integration that contains the resource you want to access.
+
+What are Hooks?
+Allows the user to create custom code to run at a specific point during the flow.
+Can perform calculations, data comparisons, transformations, and trigger functions.
+
+
+Types of JavaScript hooks are available in integrator.io :
+
+preSave page
+
+postResponseMap
+
+preMap
+
+postMap
+
+postSubmit
+
+postAggregate
+
+
+
+The script editor contains the information needed to set up a JavaScript hook. 
+JavaScript hooks can be accessed in integrator.io through the hook button
+Hooks can be used in a variety of situations including hooks on the import or export, in data transformations, and also output or input filters.
+
+
+preMap hooks->
+Some common uses for pre map hooks are:
+Inserting default values
+Formatting data needed for mapping
+
+
+postMap hooks ->
+
+Some common uses for post map hooks are:
+
+Setting default values based on mapped data
+
+Running complex calculations after data has been mapped
+
+
+postSubmit hooks ->
+Some common uses for post submit hooks are:
+
+Formatting the response to be used in the response mappings
+
+Validating the response from the target system
+
+Providing details around error messages
+
+
+
+
+Handlebars are a JavaScript templating language that is commonly used for web development
+Within integrator.io you can use handlebars to dynamically put values from your source data through a template and into your destination endpoint
+
+
+When you should use Handlebars-
+Some common uses for handlebars are to:
+
+Loop through your data for a predetermined time
+Dynamically change data within a flow
+Dynamically pull data from a nested array
+
+How to test your Handlebars-
+Within integrator.io there are two common ways you can test a Handlebar statement:
+
+Place the statement directly into your flow and observe how it changes the output of the flow.
+Input your handlebar statement into the developer playground to see how the statement will affect your data. 
+
+This handlebar helper is commonly used for data manipulation - > 
+Custom Helper
+
+This handlebar helper is commonly used for iterating through data. ->
+Block Helper
+
+This handlebar helper is used to access data within an array ->
+Data Helper
+
+
+
+MY API ->
+My API allows users to build their own API on top of integrator.io. A client application can make a request to a URL created through My API. My API will then execute scripts to return a formatted and authenticated response acceptable to the system.
+Because My API makes calls outside of jobs within integrator.io, the logs, errors, and dashboard information will not be updated when data is integrated. There will be no opportunity to retry records that failed to sync within integrator.io like with normal flows. 
+
+
+
+REST API vs My API
+
+REST API-
+Used to retrieve data, for example, inventory levels from a system like NetSuite for web stores.
+Data is always returned in JSON format.
+Authentication occurs through an API token created within integrator.io. 
+My API-
+Utilizes JavaScript to handle authentication or data format issues that can sometimes arise when using REST APIs.
+Data can be returned in the response to the original request in the proper format.
+
+Webhook vs My API
+
+Webhooks-
+Allow users to expose a URL that data can be pushed to in real-time when a given event occurs in an application.
+Run asynchronously. Responses advise of successful data transfers or authentication or data parsing errors.
+Cannot return data in response to the original system. For example, an internal Id of the record created in a corresponding import.
+My API-
+Allows subsequent calls to be made through scripting that can return more information within the response.
+
+
+Create My API -
+1.Copy the Id in url after export/ or import/
+2.Edit My API
+3.Past the _id in import.run() or _export.run() & save
