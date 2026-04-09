@@ -1,0 +1,8 @@
+Email Plugin Implementation :
+
+1.Enable Feature : SuiteCloud > Client Script , Server Script , Custom GL Lines , SuiteCloud Development Framework
+2.Install Bundle : Email Capture Bundle // No need to install bundle as it get depricate
+3.Customization > Plugin > Plugin Implementation > New > Select Plugin file > Select 'Email Capture'
+4.Customization > Plugin > Manage Plugin > Email capture Plugin > Select the implementation > Save
+5.Netsuite will give system generate email id, Hence mail received on that mail will get capture by plugin and according to further logic will work in script
+6.If Client have a specific email to read their email then we can also forward those email to system generated mail id.
