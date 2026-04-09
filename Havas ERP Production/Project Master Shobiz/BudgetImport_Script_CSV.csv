@@ -1,0 +1,661 @@
+Project Code,InternalId,Customer Name,Billing Budget,Costing Budget
+SB22161,8914,Hul - Lakme X Myntra," 7,17,800.00 "," 7,17,800.00 "
+SB21911,8746,IKEA - Festive Lighting 2024," 40,00,000.00 "," 40,00,000.00 "
+SB21528,8728,BFSI Techtalks Mumbai," 44,17,437.00 "," 40,08,442.82 "
+SB21697,8729,Castrol India Stall - IMTEX (Tool Tech)," 13,30,560.00 "," 12,59,600.00 "
+SB21700,8730,Amazon SPS," 4,01,218.40 "," 2,78,646.00 "
+SB21703,8731,BFSI VCF Workshops," 31,09,238.00 "," 17,23,662.63 "
+SB21704,8732,Castrol India TUBE India Expo November," 4,15,514.00 "," 3,77,740.00 "
+SB21733,8733,Amazon ring devices event," 1,62,635.00 "," 1,11,886.00 "
+SB21770,8734,Mangalam Leasing Channel Partners Meet," 24,13,600.00 "," 18,55,318.54 "
+SB21797,8735, Intel stall at Data Hack Summit 2024 at Nimhans," 4,89,783.00 "," 2,09,322.00 "
+SB21800,8736,Towards Tanzu Activities," 19,33,840.00 "," 9,96,519.00 "
+SB21804,8737,Dell CSG event," 1,14,00,000.00 "," 95,94,290.80 "
+SB21807,8738,Red Hat Summit Connect," 2,43,89,088.00 "," 2,02,99,475.04 "
+SB21814,8739,Booth Participation @Gartner Symposium 2024," 4,09,750.00 "," 96,922.50 "
+SB21829,8740,Adobe Day @ Corporates," 25,27,500.00 "," 7,57,425.00 "
+SB21847,8741,Siemens Ahmedabad Townhall event ," 67,831.00 "," 19,749.00 "
+SB21859,8742,NVIDIA - AI Summit at  23rd to 25th Oct 2024," 34,40,08,695.65 "," 28,59,06,313.16 "
+SB21861,8743,HPE Discover More AI," 4,31,69,821.00 "," 3,05,43,695.48 "
+SB21873,8744," INGKA - Mapic Stall 2024 at Jio,"," 32,97,085.00 "," 21,58,341.60 "
+SB21888,8745,Hitachi Gartner Symposium 2024.," 50,35,200.00 "," 44,09,926.00 "
+SB21911,8746,IKEA - Festive Lighting 2024," 60,02,832.00 "," 44,16,323.00 "
+SB21914,8747,Amazon Ace Awards," 2,63,375.00 "," 1,88,035.00 "
+SB21917,8748,Towards VSP One pipeline acceleration campaign," 31,74,924.93 "," 27,54,926.00 "
+SB21920,8749,Sustainability Campaign," 4,15,000.00 "," 6,500.00 "
+SB21930,8750,Cognizant - CIO 100 SYMPOSIUM & AWARDS," 1,80,070.00 "," 1,05,729.00 "
+SB21935,8752,Siemens Mobility Tactical Table," 23,97,035.40 "," 18,75,000.00 "
+SB21939,8753,Towards Booth set up at DevOpsDays Kerela 2024.," 1,23,389.25 "," 1,12,172.72 "
+SB21940,8754,HPE Booth at NVIDIA AI Summit at JIO convention Centre Mumbai," 57,18,840.00 "," 46,62,115.37 "
+SB21944,8755,Amazon SPS," 17,12,265.28 "," 13,92,963.00 "
+SB21945,8756,Lenovo R&D Lab Innaugration," 22,46,564.16 "," 15,74,569.50 "
+SB21947,8757,NetApp Targus Roundtable Conference ," 5,66,389.00 "," 4,13,119.00 "
+SB21954,8758,"Github Reconnect Series, Sep to Nov 2024"," 12,41,937.00 "," 7,06,351.40 "
+SB21960,8759,Futureworks India 2024," 78,90,000.00 "," 49,26,692.35 "
+SB21961,8760,Towards Webinar Promotion Services," 3,35,680.00 "," 1,12,786.00 "
+SB21975,8761,Siemens R2R Townhall ," 4,80,306.00 "," 3,06,000.00 "
+SB21981,8762,"Adobe ALM booth set-up, hotel Taj "," 8,50,000.00 "," 1,37,474.00 "
+SB21982,8763,"Kia Inspiration Day, "," 2,53,13,041.00 "," 1,73,35,927.00 "
+SB21983,9342,TVS Srichakra Eurogrip No Parking board," 27,520.00 "," 24,150.00 "
+SB21984,8764,NatWest Signature Borad Campaign," 32,750.00 "," 25,000.00 "
+SB21985,8765,Havas Apparelre Sources - ASW 2024," 1,50,000.00 "," 1,34,018.00 "
+SB21986,8766,Cognizant TD Bank Client Visit," 2,69,236.00 "," 2,20,580.00 "
+SB21987,9343,TVS Srichakra RRC/MMC/CPC Activity," 31,390.00 "," 27,717.00 "
+SB21988,8767,Cognzinat Cr3own client Visit ," 8,19,005.00 "," 6,39,222.00 "
+SB21989,8768,BP Townhall," 6,28,998.66 "," 2,96,318.33 "
+SB21990,8769,Intel Altera Innovation Day," 49,63,500.00 "," 45,92,717.42 "
+SB21991,8770,Intel  ConnectiON 2024 - Phase 1 ," 99,30,859.96 "," 47,48,000.00 "
+SB21993,8771,"Brookfield Properties Gallery Set-up,"," 5,20,190.00 "," 2,38,574.00 "
+SB21995,8772,Ikea - Durga Utsav Event," 30,34,350.00 "," 17,77,483.89 "
+SB21996,8773,Tech Data VEGAS Fest 2024," 4,02,500.00 "," 2,51,945.00 "
+SB21997,8774,Redington CIO KLUB 2024," 3,00,840.00 "," 2,13,700.00 "
+SB21998,8775,Novo Development All Leaders Meet 2024," 19,95,730.62 "," 11,90,729.00 "
+SB21999,8776,Nikon booth set-up," 36,66,447.00 "," 29,43,714.50 "
+SB22000,8777,stall in Didac India Expo," 53,120.00 "," 34,484.75 "
+SB22001,8778, Intel Altera IMC Meeting ," 8,25,000.00 "," 3,48,030.48 "
+SB22002,8779, IKEA  - Influencer Meet," 22,45,584.00 "," 16,48,897.50 "
+SB22003,8780,Siemens - EHS Stall at CII," 3,04,464.00 "," 2,48,537.00 "
+SB22004,8781,NetApp Ahmedabad," 1,81,887.50 "," 88,730.00 "
+SB22005,8782,"Schneider Retailers Meet, "," 33,02,404.00 "," 24,38,223.00 "
+SB22007,9685,Linkedin Creator’s Event," 72,600.00 "," 30,091.00 "
+SB22008,8783,Amazon Big Bets Paper Inserts," 15,70,800.00 "," 12,00,000.00 "
+SB22009,8784,RNTBCI Team Outing 2024," 1,66,100.00 "," 1,21,265.00 "
+SB22010,8785,Veeva Systems Summit 2023," 34,65,250.00 "," 27,61,437.83 "
+SB22012,8787,NetApp Sify Corp," 8,76,090.86 "," 6,42,558.61 "
+SB22013,8788,Amazon Box Installation," 15,28,120.00 "," 9,29,109.00 "
+SB22014,#N/A,AIKYAM 2024," 37,77,764.00 "," 27,78,786.73 "
+SB22015,8789,Siemens Energy_ Crystal Memento & Jute Bag," 6,26,789.00 "," 3,59,650.00 "
+SB22016,8790,Hindustan Lab Day with Lakme Sunexpert Event ," 7,74,974.00 "," 5,15,516.85 "
+SB22017,8791,HUL - FinAce Season 8 Finale Event," 6,93,500.00 "," 3,06,599.55 "
+SB22018,8792,Towards stock footage," 1,12,725.00 "," 84,543.75 "
+SB22019,8793,Hitachi ABM – Q3 tech workshops – multiple cities ," 12,45,000.00 "," 9,52,500.00 "
+SB22020,8794,Mahindra LMM," 71,500.00 "," 24,000.00 "
+SB22021,8795,Danfoss IFAT Expo," 5,11,164.00 "," 3,84,219.00 "
+SB22022,9344,TVS Srichakra Easel Stand for Shiprocket ," 10,750.00 "," 10,000.00 "
+SB22023,8796,VISTA 5 YEARS FOUNDATION DAY ," 22,97,922.00 "," 15,79,546.00 "
+SB22024,8797,Amazone Smart Home Gym Banner," 30,536.00 "," 16,268.00 "
+SB22025,8798,"Siemens Townhall at Transformer Factory, "," 4,71,436.95 "," 3,70,785.00 "
+SB22026,8799,"Siemens Advanta D- Manager Conclave at Pune,Gurgaon,Chennai & Bangalore"," 33,92,565.50 "," 27,06,652.34 "
+SB22027,8800,HUL Kedar's Farewell + HR All Stars 2024 ," 15,96,210.00 "," 12,80,587.00 "
+SB22028,8801,LSIP Diwali Party," 33,66,144.00 "," 24,62,445.37 "
+SB22029,8802,Cognizant - Loowis Client Visit," 4,11,290.00 "," 3,13,140.00 "
+SB22030,8803,Cognizant Novartis Client Visit ," 25,11,414.40 "," 20,20,188.04 "
+SB22031,8804,HPE Storage TBM Tele Lead generation Program ," 58,84,010.00 "," 49,14,843.00 "
+SB22034,8805,HPE Sales Enablement with Wipro," 40,71,097.00 "," 31,79,889.65 "
+SB22035,8806,Siemens -#OnTheMOon (5 cities)," 92,858.50 "," 34,250.00 "
+SB22036,9360,TVS Srichakra Backdrop setup," 38,484.00 "," 23,016.00 "
+SB22037,9345,TVS Srichakra Eurogrip Store Launch ," 1,11,546.00 "," 94,500.00 "
+SB22038,9686,AiSensy event by RV Global," 23,15,786.00 "," 14,96,394.00 "
+SB22039,9346,TVS Srichakra for Shiprocket Recharge," 32,250.00 "," 30,300.00 "
+SB22040,8807,NXP CEO Townhall," 19,76,243.00 "," 14,81,491.00 "
+SB22041,8808,HUL - LFW Delhi x TRESemme Stall," 39,73,402.00 "," 31,47,323.03 "
+SB22042,8809,Accenture Townhall ," 2,40,889.00 "," 1,40,000.00 "
+SB22043,8810,Google YT Shopping accelerator ," 4,27,95,151.00 "," 2,66,47,633.96 "
+SB22044,8811,Google YT Creator Collective with Lakme," 26,75,778.00 "," 6,39,259.00 "
+SB22045,8812,Adobe Elite Circle Mumbai & Bangalore," 32,80,032.00 "," 31,81,461.00 "
+SB22046,8813,HPE CIC Visit arrangements," 3,48,662.00 "," 2,52,000.00 "
+SB22047,8814,IGC 2024 - Taj Palace Delhi," 44,26,556.53 "," 24,99,318.56 "
+SB22048,8815,OnePlus OEF in Bangkok," 62,25,923.00 "," 46,96,502.45 "
+SB22049,8816,Virtual Event Production for Tata Ethics Case Study Competition 2024," 2,56,360.00 "," 1,92,270.00 "
+SB22050,8817,Amazon Devices OS Townhall," 13,59,963.00 "," 11,44,753.00 "
+SB22051,8818,Hyderabad Developer Workshop ," 18,645.00 "," 7,250.00 "
+SB22052,8819,Siemens In Collabration with Snap Logic Event on 15th October," 1,03,831.40 "," 50,690.00 "
+SB22053,8820,Siemens Ltd," 76,252.58 "," 24,485.00 "
+SB22054,8821,Microsoft Ai Mixer 2024 ," 31,11,324.00 "," 26,25,760.40 "
+SB22055,8822,SAP Innovation Day," 36,16,045.40 "," 22,91,320.49 "
+SB22056,8823,Panasonic Broadcast India ," 18,04,963.00 "," 15,73,003.03 "
+SB22057,8824,VST Diwali Family Day," 19,26,650.00 "," 14,16,948.76 "
+SB22058,8825,TRESemme Lamellar Launch," 37,34,337.00 "," 23,27,023.83 "
+SB22059,8826,Aditya Birla Sunlife Insurance Agency Meet 2024," 10,36,409.00 "," 9,99,219.00 "
+SB22060,8827,Novo Nordisk Apac Townhall," 9,40,337.20 "," 5,11,314.00 "
+SB22061,8828,OnePlus HUFT Donation Boxes ," 1,31,841.00 "," 80,700.00 "
+SB22062,8829,Siemens Switchboard 50 Years Celebration," 16,46,855.78 "," 11,93,731.47 "
+SB22063,8830,Disney Hotstar - EPL Screening," 6,94,788.50 "," 5,53,329.00 "
+SB22064,8831,IKEA - Societies Voucher Distribution," 6,70,367.00 "," 4,53,062.00 "
+SB22065,8832,Blue Grass - Family Day," 14,86,833.00 "," 1,34,800.00 "
+SB22066,8833,Edward Jones Client Visit," 2,21,914.00 "," 1,73,650.00 "
+SB22067,8834,Hartford Client Visit ," 6,19,239.50 "," 4,98,889.32 "
+SB22068,8835,Expo Booth Nvidia AI Summit," 8,84,349.00 "," 9,617.00 "
+SB22069,8836,HUL - October Events 2024 ," 36,79,065.08 "," 23,95,463.31 "
+SB22070,8837,Redington NetApp event with Velocis," 6,64,855.50 "," 4,62,022.20 "
+SB22072,8839,"NVIDIA AI Summit India at Jio World Center, Mumbai"," 7,42,134.40 "," 2,20,432.80 "
+SB22073,8840,"Sucess Gala  at Grand Sheraton, Chennai"," 10,05,156.00 "," 6,88,588.44 "
+SB22074,9347,TVS Sub Dealer Meet At Ghaziabad," 1,91,232.00 "," 1,63,480.00 "
+SB22075,8841,Siemens GBS APS Townhall," 5,41,683.00 "," 3,84,816.00 "
+SB22076,8842,Kotak Townhall with the CEO," 8,42,319.80 "," 6,73,976.00 "
+SB22077,9687,SAFETY CONCLAVE 2024," 8,22,332.00 "," 6,30,449.43 "
+SB22078,8843,COGNIZANT Blackstone visit - Hyderabad H04 ," 6,32,808.00 "," 4,27,785.00 "
+SB22079,8844,Cognizant Pega Symposia 2024 Event," 21,45,113.96 "," 17,30,469.11 "
+SB22080,8845,Brookfield Properties Diwali Celebration  @ 5 locations," 1,05,20,500.00 "," 82,60,156.00 "
+SB22081,8846,HUL -  LAKME x Nykaaland," 25,00,730.00 "," 13,07,870.17 "
+SB22082,8847,NXP German Delegate event 2024," 31,06,091.00 "," 21,24,469.28 "
+SB22083,8848,SAP Come Alive," 3,21,915.00 "," 1,75,445.00 "
+SB22084,8849, Lotus Car Display @ 4 seasons," 1,74,900.00 "," 94,383.00 "
+SB22085,8850,Amazone Transcend," 2,45,394.60 "," 1,71,652.00 "
+SB22086,8851,Cogizant BAT Client visit ," 6,40,783.00 "," 4,16,540.00 "
+SB22087,8852,Dell IE Multicity events ," 1,41,00,000.00 "," 1,16,95,633.17 "
+SB22088,8853,Dell Qualcomm Launch," 66,39,050.00 "," 50,49,339.86 "
+SB22089,8854,Dell IE Multicity events ," 2,19,00,000.00 "," 1,70,69,132.20 "
+SB22090,8855,Vivo X200 immersion and Launch event," 2,55,28,081.00 "," 1,93,12,782.31 "
+SB22091,8856,Booth Management at NVIDIA AI Summit," 5,40,171.72 "," 4,11,227.90 "
+SB22092,8857,Cloudodyssey Diwali Gifting," 3,61,900.00 "," 2,73,000.00 "
+SB22093,8858,Accenture AQA Education_Offsite," 70,422.00 "," 55,320.00 "
+SB22094,8859,HPE Discover Booth Activation," 4,98,305.00 "," 3,73,728.75 "
+SB22095,8860,Adobe ALM booth set up," 3,00,000.00 "," 1,59,202.00 "
+SB22096,8861,DBS India Townhall Q4," 7,37,748.00 "," 5,33,601.00 "
+SB22097,8862,Siemens Transform Innovation Day 2024," 1,65,00,000.00 "," 1,39,38,514.91 "
+SB22098,8863,SAP Statutory Board Meeting," 93,93,104.58 "," 55,35,285.50 "
+SB22099,8864,"Greenlam Design Nxt, Prague, Czech Republic,"," 23,99,999.00 "," 19,95,505.89 "
+SB22100,8865,Amazone  GIF event," 1,21,594.00 "," 82,500.00 "
+SB22101,8866,Meta x Lakme Rouge Bloom at Meta," 8,94,242.00 "," 7,09,568.00 "
+SB22102,8867,RWA Activity - Prestige St. Johnswood," 1,07,568.00 "," 77,104.00 "
+SB22103,8868,PhonePe Diwali Booth - Pune," 3,31,771.68 "," 1,90,000.00 "
+SB22104,9348,TVS Srichakra for Kari Motors," 3,010.00 "," 2,500.00 "
+SB22105,8869, SAP Golf Clinic for Customers," 36,77,740.00 "," 27,84,912.61 "
+SB22106,9349,RRC & MMC FOR PAN IND SEP24," 31,847.00 "," 29,159.00 "
+SB22107,9688,Graphifiers Clean India Expo," 19,77,366.70 "," 15,93,037.65 "
+SB22108,8870,DBS Bank Conference - Meet & Greet," 3,64,430.00 "," 3,20,458.41 "
+SB22109,8871,DBS Bank - Filming Podcast ," 98,450.00 "," 55,922.00 "
+SB22110,8872,DBS Dinner & Dance Event," 31,39,842.00 "," 27,72,257.97 "
+SB22111,8873,Red Hat Govt / PSU Event– Re invent the Future- Tech Talks," 28,24,355.95 "," 15,25,725.24 "
+SB22112,8874,THOUGHTWORKS X-Interview Shoot," 2,75,000.00 "," 2,00,000.00 "
+SB22113,8875,Panasonic office brandings," 3,47,099.00 "," 3,12,086.06 "
+SB22114,8876,VFS Global Dinner Event at the Hotel," 47,17,462.50 "," 36,90,934.38 "
+SB22115,9570,Orient Electric Dealer Meet ," 1,00,00,000.00 "," 73,79,318.00 "
+SB22117,8878,Towards Japan EBC eDM & RSVP," 15,000.00 "," 11,250.00 "
+SB22118,8879,"SAP Grand Prix Jute Bags, Trophies"," 5,54,777.50 "," 3,29,108.00 "
+SB22119,8880,Siemens Mobility Townhall 2024," 3,35,891.48 "," 2,08,845.39 "
+SB22120,8881,Dell Multicity events," 2,42,00,000.00 "," 1,73,17,735.00 "
+SB22121,8882,HUL - B&W Global Visit," 72,93,905.00 "," 29,74,284.49 "
+SB22122,8883,HUL - R&D Global Visit ," 3,05,986.00 "," 1,21,175.00 "
+SB22123,8884,IKEA - Nov & Dec Activity," 24,74,175.00 "," 13,99,263.00 "
+SB22124,8885,Winner & Partner Trophies for INDUS Conclave & SAP ACE Awards," 22,70,075.00 "," 20,05,600.00 "
+SB22125,8886,Thoughtworks - Xconf 2024," 25,50,110.00 "," 18,06,668.36 "
+SB22126,8887,HUL Women in STEM 2024 ," 31,00,000.00 "," 9,68,947.97 "
+SB22127,9689,India ELT Customer Roadshow," 29,28,934.14 "," 21,00,423.87 "
+SB22128,8888,DBS India Singapore Connect Envelope printing," 1,79,025.00 "," 7,158.00 "
+SB22129,8889,DBS Tech Roadshow," 4,99,917.00 "," 2,80,000.00 "
+SB22130,8890,OnePlus Jam Night," 88,485.00 "," 38,202.00 "
+SB22131,8891,Microsoft Manager's day at Jodhpur," 96,78,132.00 "," 84,39,053.06 "
+SB22132,8892,My TVS Showroom Inauguration," 2,02,950.00 "," 1,57,410.00 "
+SB22133,9690,TVS CERTIFIED Sign Board," 99,000.00 "," 73,926.00 "
+SB22134,8893,Haleon Office Inauguration - Phase 2," 2,28,066.30 "," 1,68,403.00 "
+SB22135,9350,TVS Eurogrip stall in Krishithon," 13,44,395.00 "," 9,71,729.48 "
+SB22136,9691,GOC Infinity 2024," 1,37,28,189.20 "," 1,01,41,323.45 "
+SB22137,8894,HUL Lux - Meet & Greet ," 14,00,000.00 "," 7,98,042.45 "
+SB22138,8895,STT CIO CLUB Giveway ," 2,03,500.00 "," 1,85,000.00 "
+SB22139,8896,HPE QBR 2024," 44,95,685.00 "," 42,46,057.60 "
+SB22140,8897,Amazon - Leadership Offsite," 7,30,920.45 "," 5,54,945.90 "
+SB22141,8898,Cognizant Nationwide Client Visit," 7,34,758.20 "," 6,38,479.99 "
+SB22142,9692,ABG 15th Mission Happiness Leaders Meet 2024," 9,03,788.00 "," 4,85,179.00 "
+SB22143,8899,Cognizant Beyond Boundaries Event ," 31,647.00 "," 27,506.00 "
+SB22144,8900,Sap Innovation Days & Invent Finale," 4,68,237.00 "," 1,94,844.00 "
+SB22145,8901,"India Fastener Show, 22-24 Nov 2024, PIEMC,"," 3,67,000.00 "," 2,85,000.00 "
+SB22146,8902,Cognizant India Team Connect," 44,440.00 "," 40,400.00 "
+SB22147,8903,INTEL  Global AI Conclave CNBC," 8,00,000.00 "," 5,29,210.82 "
+SB22148,8904,Accenture Natwest Event," 1,83,700.00 "," 1,01,152.00 "
+SB22149,8905,HPE Secure AI-Ready Data Centers," 15,92,250.00 "," 12,82,475.00 "
+SB22150,8906,Accenture Marriott Virtual Visit Broadcast," 2,13,400.00 "," 96,737.00 "
+SB22151,8907,NatWest Video Shoot," 72,800.00 "," 52,000.00 "
+SB22152,8908,Now Comms Asia of materials / resources ," 1,11,550.00 "," 36,000.00 "
+SB22153,9351,TVS Eurogrip Store Launch @ Patna," 39,936.25 "," 27,000.00 "
+SB22154,8909,Mahindra eSUV Launch Event," 4,46,17,630.61 "," 2,95,21,506.25 "
+SB22155,8910,BYD Anniversary Celebration 20204," 1,22,823.00 "," 86,075.36 "
+SB22156,8911,STT Pune Ai Lab Branding ," 8,67,267.00 "," 20,000.00 "
+SB22157,8912,Talk in Graph Talk in Delhi ," 15,93,752.80 "," 8,08,939.75 "
+SB22158,9571,"Spark Minda Auto Expo 2025,"," 1,27,61,382.00 "," 78,21,661.00 "
+SB22159,8913,"VinFast Auto Expo 2025,"," 5,09,90,000.00 "," 2,12,38,770.00 "
+SB22160,9693,CIO ASSOCIATION," 18,08,620.00 "," 15,27,926.43 "
+SB22161,8914,HUL - LAKME x MYNTRA," 15,00,000.00 "," 6,29,985.75 "
+SB22162,8915,Sify Zscaler Customer Event.," 4,82,132.00 "," 98,750.00 "
+SB22163,8916,Accenture Mondelez Client Visit," 80,300.00 "," 39,008.86 "
+SB22164,8917,Metal Chest Badge," 47,500.00 "," 36,500.00 "
+SB22166,8918,DBS Bank CBG Townhall," 96,250.00 "," 44,385.80 "
+SB22167,8919,Glaxo Haleon Branded Merchandise," 6,75,073.10 "," 2,47,495.00 "
+SB22168,8920,Cognizant Nationwide Client Visit," 3,96,671.00 "," 2,91,324.00 "
+SB22169,9694,Industry Participation : Digital Bharat Summit ," 12,59,716.50 "," 8,86,060.00 "
+SB22170,8921,Accenture Leadership Accelerator Program," 26,71,544.50 "," 17,65,585.95 "
+SB22171,8922,Sahamati Samvaad 2024," 50,47,660.00 "," 39,04,061.00 "
+SB22172,8923,Siemens _Channel Partner Certificates and Trophy ," 3,30,087.35 "," 2,26,040.00 "
+SB22173,9695,"3One4 Capital CUSTOMERS MEET
+"," 3,99,910.00 "," 2,67,606.00 "
+SB22174,8924,Cognizant Writing Board Setup ," 1,11,100.00 "," 1,00,475.00 "
+SB22175,8925,Hul B&W Workshop 2024," 11,05,068.00 "," 4,22,896.00 "
+SB22176,9572,Godrej agrovet booth at PepsiCo Expo 2024," 9,00,794.00 "," 3,99,611.00 "
+SB22177,8926,Amazon INOPS P - XTraordinaire 2024," 15,20,552.00 "," 10,44,213.00 "
+SB22178,8927,HUL - Capital Markets Day 2024," 3,28,52,267.00 "," 1,78,85,745.08 "
+SB22179,9696,Blue Star India Food Forum," 1,30,823.00 "," 1,01,442.61 "
+SB22180,8928,PhonePe booth BIC Indiranagar," 20,844.00 "," 16,079.00 "
+SB22181,8929,STT GE Colocation ," 3,53,270.50 "," 2,39,742.00 "
+SB22182,8930,Danfoss Data Center Stall 2024," 53,406.00 "," 37,000.00 "
+SB22183,8931,Towards Idea Café Roundtable," 15,00,000.00 "," 15,00,000.00 "
+SB22184,8932,Towards Webinar Promotions & Registrations," 5,47,625.00 "," 4,10,718.75 "
+SB22185,9697,LTF Raise'24," 1,25,16,692.82 "," 79,72,323.33 "
+SB22186,8933,"Hero IBU Meet at  JW Marriott, Vagator, Goa on 29th November - 1st December"," 37,79,727.00 "," 35,85,364.30 "
+SB22187,8934,Siemens Inno Rail Exbhition ," 18,40,250.00 "," 12,88,905.00 "
+SB22188,8935,Metro Activation for Meta ," 58,87,750.00 "," 50,04,586.00 "
+SB22189,8936,Amway NPF 3.0," 65,26,623.00 "," 52,16,147.80 "
+SB22190,9573,Season of Smiles," 37,86,475.00 "," 29,09,000.00 "
+SB22191,9698,Honda Amaze car launch," 79,05,506.00 "," 52,62,592.89 "
+SB22192,9699," Stall in Cosmoprof India 2024 at Jasmine Hall 1, Jio World Convention Centre"," 2,59,600.00 "," 2,16,230.34 "
+SB22193,8937,TS Rajam Awards," 1,31,450.00 "," 87,415.00 "
+SB22194,8938,Hul F&R Booth at India Food Forum," 8,00,000.00 "," 6,93,343.17 "
+SB22195,8939,SAP Come Alive," 3,02,049.00 "," 90,000.00 "
+SB22196,8940,Hilti Annual Kickoff 2025 ," 1,89,64,880.00 "," 1,31,71,800.00 "
+SB22197,8941,Citi Bank - Digital Leadership Summit," 22,71,196.74 "," 14,61,602.73 "
+SB22198,8942,GitHub Universe Recap ," 6,17,700.00 "," 4,83,613.00 "
+SB22199,9700,Gulf Air Dealer Meet," 2,25,630.00 "," 1,12,382.00 "
+SB22200,8943,amazon superstars event ," 6,49,880.00 "," 4,50,500.00 "
+SB22201,9352,TVS Srichakra  RRC/MMC/CPC Activity ," 1,44,471.40 "," 1,28,001.26 "
+SB22202,8944,Intel CS Day outing," 1,47,554.24 "," 95,630.00 "
+SB22203,9701,stall International Indo Africa B2B trade show," 6,00,929.00 "," 5,21,706.00 "
+SB22204,8945,Kia Syros Content making ," 56,00,000.00 "," 28,92,235.65 "
+SB22205,8946,amazon Sambhav Collateral Decor," 7,20,339.00 "," 3,32,364.00 "
+SB22206,8947,EPS Leadership meeting Bhubaneswar," 10,50,185.40 "," 9,54,714.40 "
+SB22207,8948,IRIS Biz by YES BANK," 15,49,175.00 "," 12,62,079.46 "
+SB22208,8949,"Google GCS @ Google office,"," 13,03,397.00 "," 4,19,689.00 "
+SB22209,8950,Cognizant Nationwide Client Visit," 1,68,300.00 "," 89,500.00 "
+SB22210,8951,Intel  Laptop storage space for Q1 FY 2025," 4,14,964.73 "," 3,11,223.55 "
+SB22211,8952,Uniops GSA Awards," 19,34,874.00 "," 16,47,831.00 "
+SB22212,8953,Hul B&W Global Investors Meet," 1,51,23,187.00 "," 99,11,747.13 "
+SB22213,9353,Tvs Shiprocket recharge-Dec 2024," 21,500.00 "," 20,200.00 "
+SB22214,8954,Google cloud family day," 11,86,119.00 "," 7,59,825.00 "
+SB22215,8955,First Basis Rupee Money Conference," 13,20,000.00 "," 8,82,392.00 "
+SB22216,8956,SAP Signavio Webinar," 7,15,000.00 "," 6,50,000.00 "
+SB22217,8957,Renault Step Up 2024," 2,35,294.50 "," 1,77,136.00 "
+SB22218,9574,Super Star Product Launch," 23,19,150.00 "," 19,99,640.00 "
+SB22219,9702,Pinnacle CXO Dialogue Event," 7,700.00 "," 3,500.00 "
+SB22220,8958,Amazone Year End Party," 1,07,800.00 "," 73,679.00 "
+SB22221,8959,AstraZeneca Team Outing," 1,39,700.00 "," 50,889.00 "
+SB22222,8960,Towards Demand Generation Campaign," 12,70,000.00 "," 12,00,000.00 "
+SB22223,8961,Towards Webinar Registrations," 5,07,000.00 "," 3,80,250.00 "
+SB22224,8962,SAP Come Alive ," 14,86,322.20 "," 9,70,354.00 "
+SB22225,9575,Loreal Kios Setup," 2,64,000.00 "," 1,78,586.00 "
+SB22226,9354,Tvs Dealer Meet," 1,07,296.29 "," 1,21,385.50 "
+SB22227,8963,SAP Annual Day Hyderabad 2024," 26,63,421.28 "," 22,98,425.00 "
+SB22228,9576,CIO Association Family Day," 12,70,843.00 "," 9,30,616.00 "
+SB22229,8964,amazon- tech event," 1,16,820.00 "," 81,200.00 "
+SB22230,8965,Cognizant Nationwide Client Visit ," 4,71,790.00 "," 1,60,000.00 "
+SB22231,8966,GitHub India Icons," 9,83,679.00 "," 7,39,026.00 "
+SB22232,8967,Amazon TGIF," 1,18,360.00 "," 83,027.00 "
+SB22233,9703,Zomato Sustainability and Policy Conference," 17,48,353.00 "," 9,23,846.00 "
+SB22234,8968,Tata Giveaways," 29,613.00 "," 7,238.00 "
+SB22235,8969,"LK Big announcement,"," 12,32,935.00 "," 6,66,228.26 "
+SB22236,9704,Havmor AOP meet 2025," 26,02,500.00 "," 20,50,717.50 "
+SB22237,8970,Accenture Smart Mining & Chemical Model," 1,80,000.00 "," 1,70,000.00 "
+SB22238,8971,SAP build day 2024," 13,44,079.00 "," 8,48,182.00 "
+SB22239,8972,Brookprpo IPC Brookfield," 28,18,920.50 "," 21,11,154.00 "
+SB22240,8973,Google App Dev event," 9,87,250.00 "," 7,40,437.50 "
+SB22241,8974,Siemens mobility Branding," 4,16,572.18 "," 2,27,879.00 "
+SB22242,8975,Executive Breifing Forum," 11,87,115.00 "," 9,58,250.00 "
+SB22243,8976,PhonePe BMM," 16,74,972.43 "," 13,77,421.00 "
+SB22244,9577,Star Health Press Meet 2024," 2,26,800.00 "," 1,58,829.00 "
+SB22245,8977,Havas Stall at TIE Global Summit.," 2,04,000.00 "," 1,24,500.00 "
+SB22246,8978,"Vast Data India Tour, Grand Hyatt Mumbai"," 14,56,766.00 "," 9,78,905.00 "
+SB22247,8979,Cognizant AKSO Visit Booth," 1,51,074.00 "," 1,18,660.00 "
+SB22248,9705,Executive Breifing Forum," 1,49,600.00 "," 1,12,200.00 "
+SB22249,8980,Hero Nakshatra in Baku," 1,16,85,140.00 "," 1,10,47,704.00 "
+SB22250,8981,Cognizant Leadership Summit Udaipur," 14,93,407.30 "," 12,34,897.00 "
+SB22251,8982,Dell Gift delivery for PTC Door Openers India," 17,37,450.00 "," 12,37,500.00 "
+SB22252,8983,HUL - Prabhat Turns 11 2024," 16,00,000.00 "," 11,04,370.81 "
+SB22253,8984,OnePlus Media Drive in Sri Lanka," 61,27,633.00 "," 50,32,889.38 "
+SB22254,8985,"HPE Ignite in Athens, Greece"," 4,65,00,000.00 "," 3,76,20,500.00 "
+SB22255,8986,cognizant AIA Event logistic," 8,06,058.00 "," 7,40,828.00 "
+SB22256,8987,Cognizant Musical evening - Hyderabad," 14,32,519.00 "," 13,75,471.99 "
+SB22257,8988,Adobe ABM activities," 16,85,000.00 "," 12,63,750.00 "
+SB22258,8989,Amazon SX-FCGT Meeting," 6,95,602.00 "," 4,61,623.00 "
+SB22259,8990,Cognizant FSI Strategy Meet ," 3,10,750.00 "," 2,41,800.00 "
+SB22260,8991,Christmas Decor - Multiple Sites," 99,110.00 "," 55,000.00 "
+SB22261,8992,Cognizant Namma Mangaluru Beats," 8,35,796.00 "," 7,02,221.00 "
+SB22262,8993,DBS Bank - Future of Ops Festival ," 4,00,400.00 "," 2,61,750.00 "
+SB22263,8994,Google YT Creator Collective Q1 & Q2 2025," 1,96,79,990.00 "," 1,47,59,992.50 "
+SB22264,8995,Red Hat Summit Connect 2024," 13,00,000.00 "," 9,75,000.00 "
+SB22265,8996,Nordisk EDM," 11,000.00 "," 8,250.00 "
+SB22266,8997,GitHub Tech after dark Marquis," 18,29,275.00 "," 11,62,600.00 "
+SB22267,8998,OnePlus Dealer Meet ," 94,58,093.00 "," 74,31,040.27 "
+SB22268,8999,Hitachi Idea Cafe CIO events - Feb 2025," 34,11,474.00 "," 21,00,000.00 "
+SB22269,9000,Herbalife FIT FAMILIES FEST 2025," 1,12,99,417.00 "," 36,40,000.00 "
+SB22270,9001,Brookfield Properties Powai Run At Powai," 37,31,486.00 "," 27,98,614.50 "
+SB22271,9002,NXP Stall at VLSID Conference At Bangalore," 4,68,214.00 "," 3,51,160.50 "
+SB22272,9003,BYD Auto Expo 2025 @ Pragti Maidan," 3,82,83,592.00 "," 2,87,12,694.00 "
+SB22273,9004,Towards India & Saarc Partner Summit event Execution @ Mumbai," 21,00,263.00 "," 15,75,197.25 "
+SB22274,9005,Cognizant Permanent Setup @ Hyderabad," 1,63,680.00 "," 1,22,760.00 "
+SB22275,9578,Star Health - SS Launch @ Bangalore," 15,660.00 "," 11,745.00 "
+SB22276,9006,ITC Conquest Giveaway @ Bangalore," 81,840.00 "," 61,380.00 "
+SB22277,9007,Adobe Elite Circle At Gurgaon," 32,34,784.00 "," 24,26,088.00 "
+SB22278,9579,Delta Elecrama 2025 at Noida," 1,45,27,205.00 "," 1,08,95,403.75 "
+SB22279,9008,OnePlus event & SAP Giveaways at Delhi," 3,80,600.00 "," 2,85,450.00 "
+SB22280,9009,Cognizant Cultural Event @ Multicity," 14,51,280.00 "," 10,88,460.00 "
+SB22281,9010,Ki Mobility myTVS A@ Yashobhoomi," 34,20,956.00 "," 25,65,717.00 "
+SB22282,9011,Amazone  IESP," 3,54,542.00 "," 2,65,906.50 "
+SB22283,9012,TVS Supply Chain Solution - TS Rajam Award," 10,450.00 "," 7,837.50 "
+SB22284,9355,TVS Srichakra for Shiprocket ," 21,500.00 "," 16,125.00 "
+SB22285,9013,Regency Ceramics Booth at Naredco Exhibition," 6,57,481.00 "," 4,93,110.75 "
+SB22286,9014,Siemens MO for T-shirt & Acrylic badge," 25,107.00 "," 18,830.25 "
+SB22287,9015,Siemens_ Customer Visit - Inauguration At Airoli," 47,183.00 "," 35,387.25 "
+SB22288,9016,OnePlus Jam Night @ IIT Madras," 6,55,930.00 "," 4,91,947.50 "
+SB22289,9017,SAP ALM Summit 2025," 7,81,000.00 "," 5,85,750.00 "
+SB22290,9018,Redington Data Profiling," 5,70,000.00 "," 4,27,500.00 "
+SB22291,9019,Siemens Walkathon 2025," 8,73,856.00 "," 6,55,392.00 "
+SB22292,9020,Amazone Photographer Arrangemen," 9,350.00 "," 7,012.50 "
+SB22293,9580,Aisle Experience," 2,39,424.00 "," 1,79,568.00 "
+SB22294,9021,Cognizant Metal Badges," 17,462.00 "," 13,096.50 "
+SB22295,9022,"Accenture  
+CBRE Client visit 
+"," 5,25,937.50 "," 3,94,453.13 "
+SB22296,9023,Lakme Stall at Mithibai Fest," 3,00,000.00 "," 2,25,000.00 "
+SB22297,9024,YouTube Execs Meet up at Soho House Mumbai," 6,22,248.00 "," 4,66,686.00 "
+SB22298,9025,LogiMAT India 2025," 3,00,000.00 "," 2,25,000.00 "
+SB22299,9026,Cognizant Invesco Client Visit Badge," 29,920.00 "," 22,440.00 "
+SB22300,9027,Siemens Energy Townhall Event ," 3,00,782.00 "," 2,25,586.50 "
+SB22301,9028,Redington NetApp Partner Roundtable," 8,38,980.00 "," 6,29,235.00 "
+SB22302,9029,Siemens SEIL : GST Registration," 2,30,844.00 "," 1,73,133.00 "
+SB22303,9030,Lenovo EBC Tour," 61,82,956.00 "," 46,37,217.00 "
+SB22304,9031,Siemens IMTEX 2025 ," 2,86,691.00 "," 2,15,018.25 "
+SB22305,9032,Dell CSG Launch on 9th April in Andaz New Delhi," 16,50,000.00 "," 12,37,500.00 "
+SB22306,9033,Dell ISG Launch 13th to 19th March," 20,00,000.00 "," 15,00,000.00 "
+SB22307,9034,Vmware Tanzu Giveaways," 7,39,200.00 "," 5,54,400.00 "
+SB22308,9035,OnePlus Podium Delivery at 6 stores," 20,98,426.00 "," 15,73,819.50 "
+SB22309,9581,Ncpa Concert Delhi," 19,26,850.00 "," 14,45,137.50 "
+SB22310,9036,Cognizant Alkem Laboratories Client Visit," 70,719.00 "," 53,039.25 "
+SB22311,9582,Perno store promotion installation," 2,52,845.00 "," 1,89,633.75 "
+SB22312,9037,Exclusive Lotus Showroom Launch," 7,38,925.00 "," 5,54,193.75 "
+SB22313,9038,Autodesk IMTEX 2025," 22,71,500.00 "," 17,03,625.00 "
+SB22314,9039,Siemens EA Awards 2025," 4,77,104.00 "," 3,57,828.00 "
+SB22315,9040,Adobe ALM Gifting in Feb 2025," 5,07,136.00 "," 3,80,352.00 "
+SB22316,9041,Infosys event & Giveaways in Feb 2025," 12,50,000.00 "," 9,37,500.00 "
+SB22317,9042,VCF Experience Day," 15,50,000.00 "," 11,62,500.00 "
+SB22318,9043,Dell WPC & AI events in Feb 2025," 99,00,000.00 "," 74,25,000.00 "
+SB22319,9044,Dell WPC events in March 2025," 66,00,000.00 "," 49,50,000.00 "
+SB22320,9045,Dell AI & Innovation Forum events," 33,00,000.00 "," 24,75,000.00 "
+SB22321,9046,Q4 Webinar Registration," 5,16,000.00 "," 3,87,000.00 "
+SB22322,9047,HPE Team Event – FY25 Planning," 5,50,000.00 "," 4,12,500.00 "
+SB22323,9048,Tele Lead Gen Campaign - Dragonfly accounts ," 8,20,000.00 "," 6,15,000.00 "
+SB22324,9049,Hul Board Meeting 2025," 66,84,335.00 "," 50,13,251.25 "
+SB22325,9583,"Infosys legal service delivery sessions. Venue management, merchandise, branding activation"," 6,27,473.00 "," 4,70,604.75 "
+SB22326,9050,Red Hat Tech Talks Series," 33,91,394.00 "," 25,43,545.50 "
+SB22327,9051,Siemens Healthineers DC," 85,57,172.00 "," 64,17,879.00 "
+SB22328,9584,Next Leap CHRO event," 21,78,877.00 "," 16,34,157.75 "
+SB22329,9585,Sleepwell's Founders Day," 51,56,545.00 "," 38,67,408.75 "
+SB22330,9052,OnePlus Snapshot masterclass," 11,62,561.00 "," 8,71,920.75 "
+SB22331,9053,Intel F2F Leadership meet 2025," 20,63,730.00 "," 15,47,797.50 "
+SB22332,9586,Singapore GIC 15th Anniversary Celebration," 46,44,563.00 "," 34,83,422.25 "
+SB22333,9054,DBS Podcast with Taimur Event," 98,450.00 "," 73,837.50 "
+SB22334,9055,HUL - Taj Tea Stall," 1,89,796.00 "," 1,42,347.00 "
+SB22335,9056,Brookfields Waterstones," 19,95,312.00 "," 14,96,484.00 "
+SB22336,9333,Madras Music Academy," 7,13,927.00 "," 5,35,445.25 "
+SB22337,9057,Glaxo Farewell Video for Raj," 60,500.00 "," 45,375.00 "
+SB22338,9058,SAP Invent 3.0," 7,11,172.00 "," 5,33,379.00 "
+SB22339,9059,Accenture Legal Learning Lab," 96,668.00 "," 72,501.00 "
+SB22340,9332,KORA food Street Display Activity," 1,84,989.00 "," 1,38,741.75 "
+SB22341,9589,Modiway Launch event," 87,61,500.00 "," 65,71,125.00 "
+SB22342,9060,Accenture Can Do Awards," 11,69,339.00 "," 8,77,004.25 "
+SB22343,9061,OnePlus Pop-up," 1,30,00,000.00 "," 97,50,000.00 "
+SB22344,9062,GitHub Galaxy 2025 ," 1,00,00,000.00 "," 75,00,000.00 "
+SB22345,9063,IHCL STAR Awards 2024," 41,69,000.00 "," 31,26,750.00 "
+SB22346,9064,Platinum Sponsor for BTOPEX India," 13,20,000.00 "," 9,90,000.00 "
+SB22347,9590,Orica Kshitej ," 42,16,259.00 "," 31,62,194.25 "
+SB22348,9065,Accenture Manufacturing Futurecast," 9,18,258.00 "," 6,88,693.50 "
+SB22349,9591,Tata Advanced Systems - Memento Order," 69,575.00 "," 52,181.25 "
+SB22350,9066,HUL - Novology Booth at Dermacon 2025," 57,00,687.00 "," 42,75,515.25 "
+SB22351,9067,HUL - Growth Leaders Forum," 6,50,283.00 "," 4,87,712.25 "
+SB22352,9068,DBS Piyush Gupta Farewell," 5,99,940.00 "," 4,49,955.00 "
+SB22353,9069,HUL Kissan Meeting 2025," 4,95,000.00 "," 3,71,250.00 "
+SB22354,9070,HUL PC Summit," 35,43,710.00 "," 26,57,782.50 "
+SB22355,9071,Siemens Mobility Meet 2025," 7,22,787.00 "," 5,42,090.25 "
+SB22356,9072,RNTBCi Innovfest 25," 7,63,077.00 "," 5,72,307.75 "
+SB22357,9073,KNMA Legacy Series," 8,26,100.00 "," 6,19,575.00 "
+SB22358,9074,HPE Wipro partner day," 8,49,970.00 "," 6,37,477.50 "
+SB22359,9075,Amazon Brand Film Amplification Plan," 6,95,800.00 "," 5,21,850.00 "
+SB22360,9076,Citi Bank giveaways ," 49,500.00 "," 37,125.00 "
+SB22361,9077," IKEA - Feb & Mar Activity from 7th Feb to 30th March 2025,"," 30,91,000.00 "," 23,18,250.00 "
+SB22362,9078,Amazon SPS Fire Side Chat," 68,068.00 "," 51,051.00 "
+SB22363,9592,BIAL V day installations," 18,09,005.00 "," 13,56,753.75 "
+SB22364,9079,Microsoft townhall @ MS Office Gurgaon," 7,21,000.00 "," 5,40,750.00 "
+SB22365,9080,Siemens CS Global Workshop," 64,258.00 "," 48,193.50 "
+SB22366,9081,NatWest Ruchika Panesar Town Hall Meet," 3,28,969.00 "," 2,46,726.75 "
+SB22367,9082,Hitachi Yes Bank Tech Workshop Nashik," 10,00,000.00 "," 7,50,000.00 "
+SB22368,9083,Hul R&D Mumbai ," 21,11,798.00 "," 15,83,848.50 "
+SB22369,9084,Siemens Energy Office branding," 4,27,650.00 "," 3,20,737.50 "
+SB22370,9085,Accenture  Navigating caregiving – Diverse journeys and expert perspective," 4,34,500.00 "," 3,25,875.00 "
+SB22371,9086,Cognizant CMD Town Hall Meet 2025," 1,24,960.00 "," 93,720.00 "
+SB22372,9087,Itc Learnify Booth," 1,00,787.00 "," 75,590.25 "
+SB22373,9088,Audi RSQ8 Launch event," 41,89,907.00 "," 31,42,430.25 "
+SB22374,9089,Intel Laptop storage space," 15,91,200.00 "," 11,93,400.00 "
+SB22375,9090,Siemens locomotive model ," 2,92,462.00 "," 2,19,346.50 "
+SB22376,9091,Ascension Health Client Visit," 3,63,214.00 "," 2,72,410.50 "
+SB22377,9092,INGKA - Hej Day," 13,11,552.00 "," 9,83,664.00 "
+SB22378,9093,Ola Roadster Launch," 8,50,049.00 "," 6,37,536.75 "
+SB22379,9094,TATA Ethics & Affirmative Action Summit 2025," 20,41,248.00 "," 15,30,936.00 "
+SB22380,9593,Aisle Valentines Day," 3,13,174.00 "," 2,34,880.50 "
+SB22381,9095,Amway Star Awards," 15,00,000.00 "," 11,25,000.00 "
+SB22382,9096,TATA Legal Meet ," 35,26,391.00 "," 26,44,793.25 "
+SB22383,9097,Hul Pukka event," 10,00,000.00 "," 7,50,000.00 "
+SB22384,10198,NTT Data - Transformation NOW," 18,05,742.00 "," 13,54,306.50 "
+SB22385,9098,GitHub Wipro Connect ," 3,46,580.00 "," 2,59,935.00 "
+SB22386,9099,HUL West Branch Connect 2025," 26,82,808.00 "," 20,12,106.00 "
+SB22387,9100,Hul CD conference 2025 ," 56,71,000.00 "," 42,53,250.00 "
+SB22388,9101,Siemens SSP Launch ," 13,42,236.00 "," 10,06,677.00 "
+SB22389,9102,Cognizant Crescendo," 88,87,714.00 "," 66,65,785.50 "
+SB22390,9594,Captain fresh IPO kick-off event," 8,85,811.00 "," 6,64,358.25 "
+SB22391,9103,Siemens - SRE Event," 25,157.00 "," 18,867.75 "
+SB22392,9104,Lightspeed - Lift Off 2025," 77,69,834.00 "," 58,27,375.50 "
+SB22393,9105,Siemens GBS Townhall Event," 4,52,837.00 "," 3,39,627.75 "
+SB22394,9106,Siemens Veronika Townhall  2025," 3,22,650.00 "," 2,41,987.50 "
+SB22395,9107,Hul Cornetto Stall at Zomaland," 50,01,282.00 "," 37,50,961.50 "
+SB22396,9108,Dell CSG Launch event," 21,00,000.00 "," 15,75,000.00 "
+SB22397,9109,Intel Cab and Bus for GPTW," 7,15,823.00 "," 5,36,867.25 "
+SB22398,9110,HUL - B&W Walkthrough," 18,01,782.00 "," 13,51,336.50 "
+SB22399,9111,Autodesk Design & Manufacturing Summit 2025," 28,06,680.00 "," 21,05,010.00 "
+SB22400,9112,RHEL + Ansible Workshop," 32,90,000.00 "," 24,67,500.00 "
+SB22401,9595,"Elecrama ieema, WUS Dinner,"," 18,50,000.00 "," 13,87,500.00 "
+SB22402,9113,Accenture Duke Energy Client Visit Pune ," 2,44,750.00 "," 1,83,562.50 "
+SB22403,9114,Amazone Stamp Purchase," 20,000.00 "," 15,000.00 "
+SB22404,9115,GitHub Connect in Chennai," 2,63,913.00 "," 1,97,934.75 "
+SB22405,9116,Amway Diamond Forum," 50,00,000.00 "," 37,50,000.00 "
+SB22406,9117,Siemens Advanta Rainer," 1,98,423.00 "," 1,48,817.25 "
+SB22407,9356,Tvs Sub Dealer Meet," 58,131.00 "," 43,598.25 "
+SB22408,9118,Cognizant Acrylic Name Badge," 9,350.00 "," 7,012.50 "
+SB22409,9596,Towards Workshop - Bangalore & Mumbai," 3,43,114.00 "," 2,57,335.50 "
+SB22410,9119,CNBC x HUL - Lime Season," 16,73,113.00 "," 12,54,834.75 "
+SB22411,9120,Amazon Insurgents & EBE - Summit," 1,94,464.00 "," 1,45,848.00 "
+SB22412,9121,Amazon EBE Summit," 1,94,464.00 "," 1,45,848.00 "
+SB22413,9122,HUL advantage Assam 2.0," 60,84,041.00 "," 45,63,030.75 "
+SB22414,9123,Adobe MakeIT," 81,94,780.00 "," 61,46,085.00 "
+SB22415,9124,Adfactors Celebrating the Success of Initial Public Offer," 2,72,338.00 "," 2,04,253.50 "
+SB22416,9125,DBS Bank IBG Townhall 2025," 2,78,300.00 "," 2,08,725.00 "
+SB22417,9126,Brookprpo ESG REPORT LAUNCH ," 15,03,942.00 "," 11,27,956.50 "
+SB22418,9127,Towards Graph Summit," 8,38,179.00 "," 6,28,634.25 "
+SB22419,9357, TVS Srichakra _Eurogrip Petrol Pump Activity & IT Park Activity," 62,162.00 "," 46,621.50 "
+SB22420,10199,BIT Mesra 70 Years Platinum Jubilee Celebration," 4,50,000.00 "," 3,37,500.00 "
+SB22421,9128,Accenture Moview Tickets," 6,24,250.00 "," 4,68,187.50 "
+SB22422,10200,Jubilant Investor Meet 2025," 25,00,000.00 "," 18,75,000.00 "
+SB22423,9129,HUL - Liquid IV Recovery Party," 8,70,931.00 "," 6,53,198.25 "
+SB22424,9130,Cognizant Impact Awards 2025," 44,79,045.00 "," 33,59,283.75 "
+SB22425,9131,Cognizant Hartford - Noida Facility," 10,19,799.00 "," 7,64,849.25 "
+SB22426,9132,Cognizant Townhall Setup," 2,29,636.00 "," 1,72,227.00 "
+SB22427,9133,Cognizant Suncorp Visit Pune," 2,42,935.00 "," 1,82,201.25 "
+SB22428,9134,"SAP Industry Summit at Westin, Powai"," 34,12,500.00 "," 25,59,375.00 "
+SB22429,9135,"Intel 
+Premium standee print"," 70,875.00 "," 53,156.25 "
+SB22430,9597,Cellvest Launch ," 7,90,956.00 "," 5,93,217.00 "
+SB22431,9136,Intel AIPC Workshop at ECO Training," 5,86,740.00 "," 4,40,055.00 "
+SB22432,9598,NCPA CONCERT," 8,90,340.00 "," 6,67,755.00 "
+SB22433,9137,SOFTCELL Netapp Event," 3,17,178.00 "," 2,37,883.50 "
+SB22434,9138,Amazon - LAT," 2,07,932.00 "," 1,55,949.00 "
+SB22435,9358,Tvs Shiprocket," 21,500.00 "," 16,125.00 "
+SB22436,9139,Adobe India Leadership Connect," 8,40,000.00 "," 6,30,000.00 "
+SB22437,9140,Aptra India Conference 2025," 51,30,720.00 "," 38,48,040.00 "
+SB22438,9141,Netapp V5 Techsol Customer Event," 5,93,505.00 "," 4,45,128.75 "
+SB22439,9142,Red Hat Q1 Tech Webinar Series," 12,32,800.00 "," 9,24,600.00 "
+SB22440,9143,Star India Kannada Screening," 6,18,622.00 "," 4,63,966.50 "
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

@@ -1,0 +1,54 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<style type="text/css">
+    table {
+    border-collapse: collapse;}
+</style>
+<div>
+      <#if companyInformation.logoUrl!="">
+          <img src="${companyInformation.logoUrl}"/>
+          <br/>
+      </#if>
+      <#if companyInformation.legalname!="">
+          <p>${companyInformation.legalname}</p>
+      <#else>
+          <p>${companyInformation.companyname}</p>
+      </#if>
+</div>
+
+<div>
+      <#assign aDateTime=.now>
+      <#assign aDateTime=aDateTime?string("MMMM dd, yyyy")>
+	<p>${aDateTime}</p>
+	<br/>
+      <#if customer.isperson=="T">
+          Dear ${customer.salutation} <b>${customer.firstname} ${customer.middlename} ${customer.lastname}</b>,
+          <br/>
+      <#else>
+          Dear <b>${customer.companyname}</b>,
+          <br/>
+      </#if>
+        <br/>
+      <div>
+        {invoiceTable}
+      </div>
+      <br/>
+
+    
+
+
+    <p>We regret having to take this action, but we feel we have been more than patient with you. We sincerely hope you will give this your serious consideration.</p>
+
+	<p>Thank you very much for your attention to this matter and your continued business.</p>
+	<p>Sincerely,<br/>
+		<br/>
+          ${employee.salutation} ${employee.firstname} ${employee.middlename} ${employee.lastname}<br/>
+          <#if companyInformation.legalname!="">
+              ${companyInformation.legalname}<br/>
+          <#else>
+              ${companyInformation.companyname}<br/>
+          </#if>
+          ${companyInformation.phone}<br/>
+          ${companyInformation.email}<br/>
+          ${companyInformation.fax}<br/>
+	</p>
+</div>

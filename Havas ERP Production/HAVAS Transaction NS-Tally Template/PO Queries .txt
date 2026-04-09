@@ -1,0 +1,48 @@
+Bank Intergation
+
+SFTP : This use to transmit files from NS to bank
+
+1.Intall suiteapp - SFTP Connectore
+2.Outbound Intergation : If files get transmit form NS to bank
+3.Inbound Intergation : If files get transmit form bank to NS
+
+Outbound Configuration ----
+
+Remote url - Bank Server IP address / Domain name - IP address is always preferable
+Host key type - type of algorithm we use to generated SSH key pair
+Host key - Public key of bank
+Port - Port no of bank
+Authentication:
+1.UserName & Password
+2.Certifcate Keys - Select Private Key
+3.Multifactore Authentication
+Outbound Folder Name
+For Processing - Bank File will get pick from this folder  
+Processed - Once file get transmit to bank then file will get drop to processed folder
+Bank Folder - Name of folder of Bank server where they want to get bank files to drop
+
+
+WinSCP is use to generate SSH key
+1.Select tool
+2.Run puttygin
+3.Select RSA in key
+4.Enter No of bits #HOST key type and bits should be similar at both side NS & Bank while generating public keys
+5.Click generate
+6.save public key with .pub extension
+7.We can enter Key passphrase to set password on private key files. No extension need to specify & .ppk will append bydefault
+8.But NS don't accept private key with .ppk extension. Hence,Go to Load > Conversion > Open SSH key > This will generate private key with .pem extension
+9.Name of Private key should not conataion space instead we can user '_'
+
+
+Set up of private key in Keys of NS :
+
+Setup > Company > Keys
+1.New Key
+2.Choose Private Key file (.pem) #Same key can share with multiple banks
+
+
+Inbound Configuration ----
+
+
+
+
