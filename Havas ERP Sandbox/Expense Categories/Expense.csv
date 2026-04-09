@@ -1,0 +1,114 @@
+Internal ID,Name,Account
+6,Advertisement Expenses,10166 ADVERTISEMENT EXPENSES
+206,Air Cargo Charges - Events,1040 Air Cargo Charges - Events
+4,Air Fare,10149 AIR TRAVEL FARE
+207,Air Fare - Events,1042 Air Fare - Events
+3,Air Transport,10149 AIR TRAVEL FARE
+106,Air Travel Fare,10149 AIR TRAVEL FARE
+107,Asset Maintainance Charges,10113 ASSET MAINTAINANCE CHARGES
+108,Auditors Remuneration,10120 AUDITORS REMUNERATION
+208,Business Development Charges,1005 Business Development Charges
+209,Car Hire Charges - Events,1043 Car Hire Charges - Events
+109,Car Hire Expenses,10152 CAR HIRE EXPENSES
+5,Car Hire Expenses,10152 CAR HIRE EXPENSES
+110,Catridge Expenses,10099 CATRIDGE EXPENSES
+210,Catridge Expenses - Events,1006 Catridge Expenses - Events
+111,Client Meeting,10164 CLIENT MEETING
+112,Computer Exp (Foreign Currency),10101 COMPUTER EXP (FOREIGN CURRENCY)
+113,Computer Expenses,10100 COMPUTER EXPENSES
+211,Computer Expenses - Events,1007 Computer Expenses - Events
+114,Computer Hire Charges,10102 COMPUTER HIRE CHARGES
+212,Computer Hire Charges - Events,1008 Computer Hire Charges - Events
+115,Consultancy Fees,10130 CONSULTANCY FEES
+116,Conveyance,10151 CONVEYANCE
+213,Conveyance - Events,1044 Conveyance - Events
+117,Conveyance Expense For New Business,10172 CONVEYANCE EXPENSE FOR NEW BUSINESS
+214,Courier Charges - Events,1009 Courier Charges - Events
+118,Database Management Charges,10175 DATABASE MANAGEMENT CHARGES
+119,Digital Signature Expenses,10129 DIGITAL SIGNATURE EXPENSES
+120,Entry Fees (Foreign Currency),1052 Entry Fees (Foreign Currency)
+121,Entry Fees For Awards,10124 ENTRY FEES FOR AWARDS
+215,Equipment & Technical Operation Charges,1003 Equipment & Technical Operation Charges
+216,Event Expenses - Foreign Currency,1012 Event Expenses - Foreign Currency
+217,Event Expenses - Foreign Remittance,1013 Event Expenses - Foreign Remittance
+218,Event Expenses - Giveaways,1010 Event Expenses - Giveaways
+219,Event Expenses - Others,1011 Event Expenses - Others
+220,Event Management Charges,1014 Event Management Charges
+221,Excess Baggage - Events,1015 Excess Baggage - Events
+222,Exchange Rate Differences,1016 Exchange Rate Differences
+223,Expenses on AVs / Films,1017 Expenses on AVs / Films
+224,F&B Charges Events,1018 F&B Charges Events
+122,Filing Fees,10123 FILING FEES
+123,Franking & Notary Expenses,10265 FRANKING & NOTARY EXPENSES
+124,General Expenses,10219 PROFIT OR LOSS ON ASSETS WRITTEN-OFF
+125,Hotel & Food Expenses,10150 HOTEL & FOOD EXPENSES
+126,Hotel Expense For New Business,10170 HOTEL EXPENSE FOR NEW BUSINESS
+225,Ineligible CGST Input,1035 Ineligible CGST Input
+226,Ineligible IGST Input,1036 Ineligible IGST Input
+227,Ineligible SGST Input,1037 Ineligible SGST Input
+127,Insurance - Other Than Car,10148 INSURANCE - OTHER THAN CAR
+228,Insurance Expenses - Events,1019 Insurance Expenses - Events
+229,Inter Office Expenses,1048 Inter Office Expenses
+128,Internet Expense Office,10103 INTERNET EXPENSE OFFICE
+230,Internet Expenses - Events,1020 Internet Expenses - Events
+129,Land Line,1054 Land Line
+130,Legal & Professional Charges,10119 LEGAL & PROFESSIONAL CHARGES
+131,Licence Fees,1050 Licence Fees
+132,License Fees-Foreign Currency,1051 License Fees-Foreign Currency
+231,Manpower Supply,1021 Manpower Supply
+133,Marketing Expenses,10168 MARKETING EXPENSES
+134,Membership & Subscription,10121 MEMBERSHIP & SUBSCRIPTION
+135,Mobile Expenses,1055 Mobile Expenses
+136,Motor Car Expenses,10155 MOTOR CAR EXPENSES
+137,New Business Devlopement Expenses,10169 NEW BUSINESS DEVLOPEMENT EXPENSES
+138,Office Car Parking Charges,10116 OFFICE CAR PARKING CHARGES
+139,Parking & Toll Charges,10154 PARKING & TOLL CHARGES
+232,Performer Expenses,1022 Performer Expenses
+233,Permission - Technical,1004 Permission - Technical
+234,Permission Expenses,1023 Permission Expenses
+235,Photography Expenses - Events,1024 Photography Expenses - Events
+140,"Postage,Telegram & Courier Charges","10138 POSTAGE,TELEGRAM & COURIER CHARGES"
+141,Printing & Stationery,10140 PRINTING & STATIONERY
+236,Printing & Stationery - Events,1025 Printing & Stationery - Events
+142,Processing Fees,10270 PROCESSING FEES
+237,Professional Fee - Events,1026 Professional Fee - Events
+143,Promotion/Mktng expenses,10174 PROMOTION/MKTNG EXPENSES
+238,Public Performance Licence,1027 Public Performance Licence
+144,Recruitment Expenses,10160 RECRUITMENT EXPENSES
+145,Recruitment Expenses-Foreign Currency,1056 Recruitment Expenses-Foreign Currency
+146,Rent Office,10105 RENT OFFICE
+147,Rent Storage Room,10106 RENT STORAGE ROOM
+148,Repair & Maintenance Computer,10098 REPAIR & MAINTENANCE COMPUTER
+149,Repairs & Maintenance Office,10111 REPAIRS & MAINTENANCE OFFICE
+150,Security Charges,10112 SECURITY CHARGES
+239,Security Charges - Events,1028 Security Charges - Events
+151,Seminar & Conference,10162 SEMINAR & CONFERENCE
+240,Site Expenses - Events,1029 Site Expenses - Events
+152,Sponsorship Expense,10131 SPONSORSHIP EXPENSE
+241,Sponsorship Fees,1030 Sponsorship Fees
+153,Staff Training Expenses,10163 STAFF TRAINING EXPENSES
+154,Staff Welfare - Others,10089 STAFF WELFARE - OTHERS
+155,Staff Welfare - Pantry Items,10090 STAFF WELFARE - PANTRY ITEMS
+242,Stage & Set Expenses - Events,1039 Stage & Set Expenses - Events
+243,Stage & Set Expenses - Others,1038 Stage & Set Expenses - Others
+244,Stay Charges - Events,1045 Stay Charges - Events
+156,Tea & Coffee Expenses,1049 Tea & Coffee Expenses
+245,Telemarketing Executive Expenses - Events,1031 Telemarketing Executive Expenses - Events
+157,Telephone Expenses (Others),10091 TELEPHONE EXPENSES (OTHERS)
+1,Test Category,6000 Expenses
+158,Ticket Cancellation Charges,10153 TICKET CANCELLATION CHARGES
+246,Toll Expenses - Events,1032 Toll Expenses - Events
+247,Train & Bus Fare - Events,1046 Train & Bus Fare - Events
+159,Transaction Expenses,10136 TRANSACTION EXPENSES
+248,Transport Expenses - Events,1041 Transport Expenses - Events
+2,Travel,1042 Air Fare - Events
+160,Travel Expense For New Business,10171 TRAVEL EXPENSE FOR NEW BUSINESS
+161,Travelling Exp (Foreign Currency),10157 TRAVELLING EXP (FOREIGN CURRENCY)
+249,Travelling Exp - Events,1047 Travelling Exp - Events
+162,Travelling Exp Director,10156 TRAVELLING EXP DIRECTOR
+163,Tv Charges,10192 TV CHARGES
+164,Vehicle Expenses - Insurance,10147 VEHICLE EXPENSES - INSURANCE
+250,Venue Booking Charges - Events,1033 Venue Booking Charges - Events
+251,Venue Cost and F & B,1034 Venue Cost and F & B
+165,Visa Charges,10158 VISA CHARGES
+166,Water Charges,10117 WATER CHARGES

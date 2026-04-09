@@ -1,0 +1,3 @@
+entityid,companyname,parent,custbody_projectowner,projectmanager,entitystatus,schedulingmethod,scheduledenddate,calculatedstartdate,calculatedenddate,jobbillingtype,location,projectexpensetype
+SB 22161,Hul - Lakme X Myntra,SB10100 Hindustan Unilever Ltd,Rohan Mane,Sumit Sangale,Closed,Backward,20/12/2024,15/11/2024,20/12/2024,Charge-Based,Mumbai,Regular
+SB 21911,IKEA - Festive Lighting 2024,SB10103 IKEA India Pvt Ltd,Mayur Thakkar,Ashwin Mishra,In Progress,Backward,29/11/2024,25/12/2024,29/01/2025,Charge-Based,Mumbai,Regular
