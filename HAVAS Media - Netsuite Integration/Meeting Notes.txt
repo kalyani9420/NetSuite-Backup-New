@@ -1,0 +1,35 @@
+Adintell-Netsuite Integration Call with HAVAS & Adintell team : 21-05
+
+Customer / Vendor master will get create in Netsuite and these master will pull by the adintell
+Customer invoice will get create in adintell and will get push to Netsuite (Netsuite will only record a header level data not a line level )
+Netsuite will generate IRN
+and Invoice will send back again to adnintell with IRN
+We are suppose to default approve the invoice which are coming from adintell , we need to set of validation so if the invoice come from adintell if yes then approve it by default.
+
+
+Type of Transaction which adintell puch to Netsuite:
+Campaign , slot booking
+
+
+Need to discuss and check:
+Where comissions will get save in netsuite
+Who will approve invoice weather accounting team(Netsuite) or Ground level user(Adintell) - If adintell already approve that invoice then it will default get approve in netsuite vice versa
+If we are taking header level data then how we will hit a Line Item HSN code to cleartax
+
+
+Internal Call for Adintell-Netsuite Integration : 22-05
+
+NS  -------->   Adintell
+	Customer
+	Vendor
+One userevent/schedule need to build by BFL for master realtime/daily sync
+Branding can be achieve using subcustomer
+Brand Commission Demo need to take from HAVAS 
+
+We won't be able to link Invoice to SO and Bill to PO
+
+
+
+
+
+
