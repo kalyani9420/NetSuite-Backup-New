@@ -1,0 +1,825 @@
+Internal ID,Name,Start Date,Projected End Date,Closure Date
+10299,BFL test Customer : 89,15-04-2025,16-04-2025,15/07/2025
+10300,10020 Accenture Solutions Pvt Ltd : 90 Test Sales Invoice 150425,15-04-2025,20-05-2025,18/08/2025
+10301,91 Test Project - AGS,16-04-2025,30-04-2025,29/07/2025
+10302,92 Test Ashish,18-04-2025,30-04-2025,29/07/2025
+10306,Test Customer 001 - Shobiz : 93 Test Budget Project 011,22-04-2025,30-09-2025,29/12/2025
+10308,"10020 Accenture Solutions Pvt Ltd : 94 Accenture stall @ NASSCOM GCC Summit,",23-04-2025,28-05-2025,26/08/2025
+10412,BFL test Customer : 95 INtercompany test project,23-04-2025,30-04-2025,29/07/2025
+10415,10057 Cognizant Technology Solutions India Pvt Ltd : 96 Cognizant Zumba activity,24-04-2025,29-05-2025,27/08/2025
+10097,10020 Accenture Solutions Pvt Ltd : ACC 120425,12-04-2025,15-04-2025,14/07/2025
+9789,BFL test Customer : BFL Test Project - Kajal,09-04-2025,30-04-2025,29/07/2025
+8746,10103 IKEA India Pvt Ltd : SB 21911 IKEA - Festive Lighting 2024,25-12-2024,25-12-2024,25/03/2025
+9695,10679 3One4 Capital Mangement LLP : SB 22173 3One4 Capital CUSTOMERS MEET,20-11-2024,20-11-2024,18/02/2025
+6437,Test Customer 001 - Shobiz : SB1,02-01-2025,08-01-2025,08/04/2025
+6438,Test Customer 001 - Shobiz : SB2,02-01-2025,22-01-2025,22/04/2025
+6439,10100 Hindustan Unilever Ltd : SB3 Christmas Decor - Multiple Sites,05-01-2025,10-01-2025,10/04/2025
+6440,10618 Hindustan Unilever Limited : SB4 Testing Project 009,03-01-2025,15-01-2025,15/04/2025
+6485,Test Customer 001 - Shobiz : SB6,03-01-2025,08-01-2025,08/04/2025
+6487,Test Customer 001 - Shobiz : SB8,06-01-2025,16-01-2025,16/04/2025
+6595,Test Customer 001 - Shobiz : SB11 Test Project,07-01-2025,01-05-2025,30/07/2025
+6597,Test Customer 001 - Shobiz : SB12 test project 0079,07-01-2025,28-05-2025,26/08/2025
+6598,SB13 Project 001 - Project Manager,07-01-2025,31-01-2025,01/05/2025
+6700,10093 HDFC Securities Ltd : SB14,08-01-2025,07-01-2026,07/04/2026
+6902,10196 Shree Naman Hotels Pvt Ltd : SB16 ZQ Project 002,09-01-2025,10-01-2025,10/04/2025
+6903,10020 Accenture Solutions Pvt Ltd : SB17 FR Project,09-01-2025,09-02-2025,10/05/2025
+7009,10618 Hindustan Unilever Limited : SB20 Final Testing ZQ,14-01-2025,15-01-2025,15/04/2025
+7010,10020 Accenture Solutions Pvt Ltd : SB21 AS Project GL,14-01-2025,14-02-2025,15/05/2025
+7013,Test Customer 001 - Shobiz : SB22 KBC Test Project 001,15-01-2025,31-05-2025,29/08/2025
+7014,BFL test Customer : SB23 BFL Project practice,15-01-2025,15-02-2025,16/05/2025
+7015,Test Customer 001 - Shobiz : SB24 KBC Test Project 002,15-01-2025,31-03-2025,29/06/2025
+7016,10100 Hindustan Unilever Ltd : SB25 KBC Test Project 003,15-01-2025,31-03-2025,29/06/2025
+7017,10100 Hindustan Unilever Ltd : SB26 Final Practice,16-01-2025,17-01-2025,17/04/2025
+7018,10021 Aditya Birla Health Insurance Co Ltd : SB27 matrixs RS,16-01-2025,17-02-2025,18/05/2025
+7022,Test Customer 001 - Shobiz : SB28 KBC Test Project 004,16-01-2025,28-02-2025,29/05/2025
+7023,BFL test Customer : SB29 Practice demo,16-01-2025,24-01-2025,24/04/2025
+8727,Test Customer 001 - Shobiz : SB0029 Test Project 0008,25-03-2025,31-07-2025,29/10/2025
+7024,BFL test Customer : SB30 Demo,16-01-2025,17-01-2025,17/04/2025
+7025,10277 Astrazeneca India Pvt Ltd : SB31 Project SEZ,17-01-2025,20-01-2025,20/04/2025
+7026,BFL test Customer : SB32 17 june Test,17-01-2025,24-01-2025,24/04/2025
+7027,Test Customer 001 - Shobiz : SB33 KBC Test Project 006,17-01-2025,28-02-2025,29/05/2025
+7028,Test Customer 001 - Shobiz : SB34 KBC Test Project 005,17-01-2025,28-02-2025,29/05/2025
+7029,10100 Hindustan Unilever Ltd : SB35 HUL CEO 2025 at Mumbai,15-01-2025,20-01-2025,20/04/2025
+7030,BFL test Customer : SB36 AD Test,20-01-2025,20-02-2025,21/05/2025
+7032,10100 Hindustan Unilever Ltd : SB37 Test KBC Project 007,15-01-2025,20-03-2025,18/06/2025
+7033,BFL test Customer : SB38 ZQ Test demo,20-01-2025,22-01-2025,22/04/2025
+7034,BFL test Customer : SB39 test,20-01-2025,23-01-2025,23/04/2025
+7035,10100 Hindustan Unilever Ltd : SB40 Test KBC Project 007,15-01-2025,20-01-2025,20/04/2025
+7036,BFL test Customer : SB41 Project UAT,21-01-2025,21-02-2025,22/05/2025
+7037,BFL test Customer : SB42 Zuhal Project,21-01-2025,24-01-2025,24/04/2025
+7038,10200 Siemens Ltd : SB43 Siemens CEO 2025 at Mumbai,21-01-2025,21-01-2025,21/04/2025
+7039,BFL test Customer : SB44 Demo Proj,21-01-2025,21-02-2025,22/05/2025
+7040,10200 Siemens Ltd : SB45 Siemens CEO 2025 at Mumbai,22-01-2025,22-01-2025,22/04/2025
+7045,BFL test Customer : SB46 Credit Project ZQ,23-01-2025,25-01-2025,25/04/2025
+7046,Test Customer 001 - Shobiz : SB47 Test Project KBC 01,23-01-2025,31-03-2025,29/06/2025
+7047,Test Customer 001 - Shobiz : SB48 Test Project KBC 02,23-01-2025,31-03-2025,29/06/2025
+7048,BFL test Customer : SB49 Credit last test,23-01-2025,29-01-2025,29/04/2025
+7150,Test Customer 001 - Shobiz : SB50 KBC Project 00979,24-01-2025,31-01-2025,01/05/2025
+7151,10020 Accenture Solutions Pvt Ltd : SB51 Accenture CEO 2025 at Mumbai,21-01-2025,23-01-2025,23/04/2025
+7152,10066 Dell International Services India Pvt Ltd : SB52 Dell CEO 2025 at Delhi,25-01-2025,25-01-2025,25/04/2025
+7158,BFL test Customer : SB53 Demo Test 28 01 2025,28-01-2025,30-01-2025,30/04/2025
+7160,10100 Hindustan Unilever Ltd : SB54 Lakme Stall at Mithibai Fest Mumbai,30-01-2025,30-01-2025,30/04/2025
+7161,10448 NXP India Pvt Ltd : SB55 NXP Stall at VLSID Conference,09-01-2025,09-01-2025,09/04/2025
+7162,10200 Siemens Ltd : SB56 Siemens Healthineers DC Bangalore,07-03-2025,07-03-2025,05/06/2025
+7163,10102 Hitachi Vantara India Pvt Ltd : SB57 Q4 Webinar Registration,25-03-2025,25-03-2025,23/06/2025
+7164,10113 Intel Solutions & Services India Pvt Ltd : SB58 Intel F2F Leadership meet 2025,11-02-2025,13-02-2025,14/05/2025
+7165,10020 Accenture Solutions Pvt Ltd : SB59 Accenture Manufacturing Futurecast Bangalore,05-02-2025,05-02-2025,06/05/2025
+7167,10028 Amazon Development Centre (India) Pvt Ltd : SB61 Amazon Year End Party,30-01-2025,31-01-2025,01/05/2025
+7171,10066 Dell International Services India Pvt Ltd : SB65 Dell event Test,30-01-2025,05-02-2025,06/05/2025
+7175,10097 Hewlett Packard Enterprise India Pvt Ltd : SB67 HPE testing,30-01-2025,05-02-2025,06/05/2025
+7179,Test Customer 001 - Shobiz : SB68 KBC Test Project 0090,30-01-2025,28-02-2025,29/05/2025
+7180,10110 Innocean Worldwide Communication Pvt Ltd : SB69 Hyundai i20 Launch,31-01-2025,03-02-2025,04/05/2025
+7385,10020 Accenture Solutions Pvt Ltd : SB71 Demo 020225 Mum,02-02-2025,04-02-2025,05/05/2025
+7386,Test Customer 001 - Shobiz : SB72 KBC Test Project KT,05-02-2025,28-02-2025,29/05/2025
+7387,BFL test Customer : SB73 Zuhal Demo Testing,10-02-2025,13-02-2025,14/05/2025
+9445,BFL test Customer : SB73 Zuhal Demo Testing : Sub Project Testing,27-03-2025,07-01-2026,07/04/2026
+7388,BFL test Customer : SB74 Zuhal Demo,11-02-2025,22-02-2025,23/05/2025
+7389,10165 OnePlus Technology India Pvt Ltd : SB75 One plus Testing Feb,11-02-2025,20-02-2025,21/05/2025
+7390,10191 SAP Labs India Pvt Ltd : SB76 SAP Invent 3.0,11-02-2025,31-03-2025,29/06/2025
+7391,10084 GitHub India Pvt Ltd : SB77 github test,12-02-2025,01-03-2025,30/05/2025
+7392,10200 Siemens Ltd : SB78 Siemens EA Awards 2025,16-02-2025,16-02-2025,17/05/2025
+7393,10142 Microsoft Corporation (I) Pvt Ltd : SB79 microsoft test,12-02-2025,15-02-2025,16/05/2025
+7394,Test Customer 001 - Shobiz : SB80 Test Project 13 Feb,13-02-2025,31-03-2025,29/06/2025
+7395,BFL test Customer : SB81 ZQ Project,14-02-2025,21-02-2025,22/05/2025
+8397,BFL test Customer : SB82 Test Projcet 24-2,24-02-2025,15-10-2025,13/01/2026
+8601,BFL test Customer : SB85 test,07-03-2025,29-03-2025,27/06/2025
+9447,Test Customer 001 - Shobiz : SB86 Test Project 00067,01-04-2025,30-05-2025,28/08/2025
+9552,10200 Siemens Ltd : SB87 Siemens Test 020425,04-04-2025,10-04-2025,09/07/2025
+9553,10020 Accenture Solutions Pvt Ltd : SB88,04-04-2025,10-04-2025,09/07/2025
+6435,Test Customer 001 - Shobiz : SB1001,02-01-2025,15-01-2025,15/04/2025
+5689,Test Customer 001 - Shobiz : SB10105 Test Project 001,23-12-2024,17-12-2024,17/03/2025
+10532,10020 Accenture Solutions Pvt Ltd : SB21386 Accenture  FE Utsava - Carnival Artists,06-03-2024,07-03-2024,05/06/2024
+9925,10187 Sai Chakra Hotels Pvt Ltd : SB21466 TVS Event at Sheraton Grand White field,27-03-2024,31-12-2024,31/03/2025
+8728,10178 Red Hat India Pvt Ltd : SB21528 BFSI Techtalks Mumbai,30-06-2024,30-06-2024,28/09/2024
+8729,10052 Castrol India Ltd : SB21697 Castrol India Stall - IMTEX (Tool Tech),23-01-2025,29-01-2025,29/04/2025
+8730,10028 Amazon Development Centre (India) Pvt Ltd : SB21700 Amazon SPS,27-06-2024,27-06-2024,25/09/2024
+8731,10242 Vmware Software India Pvt Ltd : SB21703 BFSI VCF Workshops,30-08-2024,30-08-2024,28/11/2024
+8732,10052 Castrol India Ltd : SB21704 Castrol India TUBE India Expo November,27-11-2024,29-11-2024,27/02/2025
+10579,10087 Google India Pvt Ltd : SB21718 Google YouTube Creator Collective Q3 2024,31-07-2024,30-09-2024,29/12/2024
+8733,10031 Amazon Seller Services India Pvt Ltd : SB21733 Amazon ring devices event,11-07-2024,11-07-2024,09/10/2024
+10533,10100 Hindustan Unilever Ltd : SB21768 HUL Finomenals 2024,25-07-2024,25-07-2024,23/10/2024
+8734,10134 Manglam Multiplex Pvt Ltd : SB21770 Mangalam Leasing Channel Partners Meet,19-07-2024,19-07-2024,17/10/2024
+8735,10114 Intel Technology India Pvt Ltd : SB21797 Intel stall at Data Hack Summit 2024 at Nimhans,07-08-2024,10-08-2024,08/11/2024
+8736,10242 Vmware Software India Pvt Ltd : SB21800 Towards Tanzu Activities,30-11-2024,30-11-2024,28/02/2025
+8737,10223 The Indian Express Pvt Ltd : SB21804 Dell CSG event,25-09-2024,25-09-2024,24/12/2024
+8738,10178 Red Hat India Pvt Ltd : SB21807 Red Hat Summit Connect,21-10-2024,22-10-2024,20/01/2025
+8739,10242 Vmware Software India Pvt Ltd : SB21814 Booth Participation @Gartner Symposium 2024,15-11-2024,15-11-2024,13/02/2025
+10580,10204 Skoda Auto Volkswagen India Pvt Ltd : SB21825 Audi 100 K Milestone Celebration Event,22-08-2024,22-08-2024,20/11/2024
+8740,10024 Adobe Systems India Pvt Ltd : SB21829 Adobe Day @ Corporates,30-09-2024,30-09-2024,29/12/2024
+8741,10200 Siemens Ltd : SB21847 Siemens Ahmedabad Townhall event,08-08-2024,08-08-2024,06/11/2024
+8742,10160 Nvidia Graphics Pvt Ltd : SB21859 NVIDIA - AI Summit at  23rd to 25th Oct 2024,23-10-2024,25-10-2024,23/01/2025
+8743,10097 Hewlett Packard Enterprise India Pvt Ltd : SB21861 HPE Discover More AI,05-12-2024,06-12-2024,06/03/2025
+8744,"10379 Ingka Services LLP : SB21873  INGKA - Mapic Stall 2024 at Jio,",18-09-2024,19-09-2024,18/12/2024
+8745,10102 Hitachi Vantara India Pvt Ltd : SB21888 Hitachi Gartner Symposium 2024.,01-11-2024,01-11-2024,30/01/2025
+5082,10103 IKEA India Pvt Ltd : SB21911 IKEA - Festive Lighting 2024,25-12-2024,26-03-2025,24/06/2025
+8747,10028 Amazon Development Centre (India) Pvt Ltd : SB21914 Amazon Ace Awards,06-09-2024,06-09-2024,05/12/2024
+8748,10102 Hitachi Vantara India Pvt Ltd : SB21917 Towards VSP One pipeline acceleration campaign,30-11-2024,30-11-2024,28/02/2025
+8749,10102 Hitachi Vantara India Pvt Ltd : SB21920 Sustainability Campaign,30-11-2024,30-11-2024,28/02/2025
+8750,10057 Cognizant Technology Solutions India Pvt Ltd : SB21930 Cognizant - CIO 100 SYMPOSIUM & AWARDS,11-09-2024,13-09-2024,12/12/2024
+8751,10103 IKEA India Pvt Ltd : SB21931 IKEA - Influencer Activity,30-11-2024,30-11-2024,28/02/2025
+8752,10200 Siemens Ltd : SB21935 Siemens Mobility Tactical Table,30-11-2024,30-11-2024,28/02/2025
+8753,10178 Red Hat India Pvt Ltd : SB21939 Towards Booth set up at DevOpsDays Kerela 2024.,30-11-2024,30-11-2024,28/02/2025
+8754,10097 Hewlett Packard Enterprise India Pvt Ltd : SB21940 HPE Booth at NVIDIA AI Summit at JIO convention Centre Mumbai,11-09-2024,25-10-2024,23/01/2025
+9926,10478 Regency Ceramics Ltd : SB21942 Regency AV Production,11-09-2024,11-09-2024,10/12/2024
+8755,10031 Amazon Seller Services India Pvt Ltd : SB21944 Amazon SPS,15-09-2024,15-09-2024,14/12/2024
+8756,10403 Lenovo Global Technology (India) Pvt Ltd : SB21945 Lenovo R&D Lab Innaugration,17-09-2024,18-09-2024,17/12/2024
+8757,10179 Redington Ltd : SB21947 NetApp Targus Roundtable Conference,20-09-2024,20-09-2024,19/12/2024
+8758,"10084 GitHub India Pvt Ltd : SB21954 Github Reconnect Series, Sep to Nov 2024",13-09-2024,18-11-2024,16/02/2025
+8759,10172 Paul Writer Strategic Services Pvt Ltd : SB21960 Futureworks India 2024,07-12-2024,07-12-2024,07/03/2025
+8760,10102 Hitachi Vantara India Pvt Ltd : SB21961 Towards Webinar Promotion Services,30-11-2024,30-11-2024,28/02/2025
+8761,10200 Siemens Ltd : SB21975 Siemens R2R Townhall,25-11-2024,25-11-2024,23/02/2025
+8762,"10024 Adobe Systems India Pvt Ltd : SB21981 Adobe ALM booth set-up, hotel Taj",27-09-2024,27-09-2024,26/12/2024
+8763,"10110 Innocean Worldwide Communication Pvt Ltd : SB21982 Kia Inspiration Day,",03-10-2024,03-10-2024,01/01/2025
+9342,10234 Tvs Srichakra Limitd : SB21983 TVS Srichakra Eurogrip No Parking board,23-09-2024,24-09-2024,23/12/2024
+8764,10431 NatWest Digital Services India Pvt Ltd (RBS Services India Pvt Ltd) : SB21984 NatWest Signature Borad Campaign,20-09-2024,20-09-2024,19/12/2024
+8765,10366 Havas Media India Pvt Ltd : SB21985 Havas Apparelre Sources - ASW 2024,26-09-2024,27-09-2024,26/12/2024
+8766,10057 Cognizant Technology Solutions India Pvt Ltd : SB21986 Cognizant TD Bank Client Visit,25-09-2024,25-09-2025,24/12/2025
+9343,10234 Tvs Srichakra Limitd : SB21987 TVS Srichakra RRC/MMC/CPC Activity,22-09-2024,22-09-2024,21/12/2024
+8767,10057 Cognizant Technology Solutions India Pvt Ltd : SB21988 Cognzinat Cr3own client Visit,25-09-2024,25-09-2024,24/12/2024
+8768,10046 BP Business Solutions India Pvt Ltd : SB21989 BP Townhall,26-09-2024,26-09-2024,25/12/2024
+8769,10114 Intel Technology India Pvt Ltd : SB21990 Intel Altera Innovation Day,07-11-2024,07-11-2024,05/02/2025
+8770,10114 Intel Technology India Pvt Ltd : SB21991 Intel  ConnectiON 2024 - Phase 1,27-11-2024,28-11-2024,26/02/2025
+10534,10731 Shobiz Experiential Communications Pvt Ltd-Mum : SB21992 Meeting Expenses,23-09-2024,31-12-2024,31/03/2025
+8771,"10293 Brookprop Property Management Services Pvt Ltd : SB21993 Brookfield Properties Gallery Set-up,",24-09-2024,24-09-2024,23/12/2024
+8772,10103 IKEA India Pvt Ltd : SB21995 Ikea - Durga Utsav Event,09-10-2024,09-10-2024,07/01/2025
+8773,10220 Tech Data Advanced Solutions India Pvt Ltd : SB21996 Tech Data VEGAS Fest 2024,28-09-2024,29-09-2024,28/12/2024
+8774,10179 Redington Ltd : SB21997 Redington CIO KLUB 2024,28-09-2024,28-09-2024,27/12/2024
+8775,10158 Novo Nordisk Service Centre (India) Pvt Ltd : SB21998 Novo Development All Leaders Meet 2024,03-10-2024,03-10-2024,01/01/2025
+8776,10153 Nikon India Pvt Ltd : SB21999 Nikon booth set-up,27-09-2024,29-09-2024,28/12/2024
+8777,10336 Floydwiz Technologies Pvt Ltd : SB22000 stall in Didac India Expo,25-09-2024,25-09-2024,24/12/2024
+8778,10114 Intel Technology India Pvt Ltd : SB22001  Intel Altera IMC Meeting,16-10-2024,18-10-2024,16/01/2025
+8779,10103 IKEA India Pvt Ltd : SB22002  IKEA  - Influencer Meet,15-10-2024,15-10-2024,13/01/2025
+8780,10200 Siemens Ltd : SB22003 Siemens - EHS Stall at CII,27-09-2024,27-09-2024,26/12/2024
+8781,10220 Tech Data Advanced Solutions India Pvt Ltd : SB22004 NetApp Ahmedabad,27-09-2024,27-09-2024,26/12/2024
+8782,"10193 Schneider Electric India Pvt Ltd : SB22005 Schneider Retailers Meet,",29-09-2024,01-10-2024,30/12/2024
+9685,10671 LinkedIn Technology Information Pvt Ltd : SB22007 Linkedin Creator’s Event,27-09-2024,27-09-2024,26/12/2024
+8783,10031 Amazon Seller Services India Pvt Ltd : SB22008 Amazon Big Bets Paper Inserts,29-09-2024,29-09-2024,28/12/2024
+8784,10185 Renault Nissan Technology & Business Centre India Pvt Ltd : SB22009 RNTBCI Team Outing 2024,27-09-2024,27-09-2024,26/12/2024
+8785,10239 Veeva Software Systems India Pvt Ltd : SB22010 Veeva Systems Summit 2023,24-10-2024,24-10-2024,22/01/2025
+8786,10200 Siemens Ltd : SB22011 Siemens Healthineers_Pen branding,06-10-2024,06-10-2024,04/01/2025
+8787,10202 Sify Technologies Ltd : SB22012 NetApp Sify Corp,04-10-2024,04-10-2024,02/01/2025
+8788,10031 Amazon Seller Services India Pvt Ltd : SB22013 Amazon Box Installation,01-10-2024,01-10-2024,30/12/2024
+8789,10200 Siemens Ltd : SB22015 Siemens Energy_ Crystal Memento & Jute Bag,07-11-2024,07-11-2024,05/02/2025
+8790,10100 Hindustan Unilever Ltd : SB22016 Hindustan Lab Day with Lakme Sunexpert Event,01-10-2024,01-10-2024,30/12/2024
+8791,10100 Hindustan Unilever Ltd : SB22017 HUL - FinAce Season 8 Finale Event,01-10-2024,01-10-2024,30/12/2024
+8792,10013 Now Comms Asia : SB22018 Towards stock footage,02-10-2024,02-10-2024,31/12/2024
+8793,10102 Hitachi Vantara India Pvt Ltd : SB22019 Hitachi ABM – Q3 tech workshops – multiple cities,01-10-2024,01-10-2024,30/12/2024
+8794,10133 Mahindra & Mahindra Ltd : SB22020 Mahindra LMM,01-10-2024,01-10-2024,30/12/2024
+8795,10064 Danfoss Industries Pvt Ltd : SB22021 Danfoss IFAT Expo,16-10-2024,18-10-2024,16/01/2025
+9344,10234 Tvs Srichakra Limitd : SB22022 TVS Srichakra Easel Stand for Shiprocket,02-10-2024,02-10-2024,31/12/2024
+8796,10573 Vista Consoles Electronics Pvt Ltd : SB22023 VISTA 5 YEARS FOUNDATION DAY,04-10-2024,04-10-2024,02/01/2025
+8797,10031 Amazon Seller Services India Pvt Ltd : SB22024 Amazone Smart Home Gym Banner,03-10-2024,03-10-2024,01/01/2025
+8798,"10200 Siemens Ltd : SB22025 Siemens Townhall at Transformer Factory,",09-10-2024,09-10-2024,07/01/2025
+8799,"10200 Siemens Ltd : SB22026 Siemens Advanta D- Manager Conclave at Pune,Gurgaon,Chennai & Bangalore",07-10-2024,24-10-2024,22/01/2025
+8800,10100 Hindustan Unilever Ltd : SB22027 HUL Kedar's Farewell + HR All Stars 2024,08-10-2024,09-10-2024,07/01/2025
+8801,10128 Lightspeed India Partners Advisors LLP : SB22028 LSIP Diwali Party,10-10-2024,10-10-2024,08/01/2025
+8802,10057 Cognizant Technology Solutions India Pvt Ltd : SB22029 Cognizant - Loowis Client Visit,08-10-2024,09-10-2024,07/01/2025
+8803,10057 Cognizant Technology Solutions India Pvt Ltd : SB22030 Cognizant Novartis Client Visit,16-10-2024,16-10-2024,14/01/2025
+8804,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22031 HPE Storage TBM Tele Lead generation Program,18-10-2024,30-12-2024,30/03/2025
+8805,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22034 HPE Sales Enablement with Wipro,23-10-2024,24-10-2024,22/01/2025
+8806,10200 Siemens Ltd : SB22035 Siemens -#OnTheMOon (5 cities),07-10-2024,07-10-2024,05/01/2025
+9360,10234 Tvs Srichakra Limitd : SB22036 TVS Srichakra Backdrop setup,07-10-2024,07-10-2024,05/01/2025
+9345,10234 Tvs Srichakra Limitd : SB22037 TVS Srichakra Eurogrip Store Launch,09-10-2024,09-10-2024,07/01/2025
+9686,10672 RV Global : SB22038 AiSensy event by RV Global,04-10-2024,04-10-2024,02/01/2025
+9346,10234 Tvs Srichakra Limitd : SB22039 TVS Srichakra for Shiprocket Recharge,07-10-2024,10-10-2024,08/01/2025
+8807,10448 NXP India Pvt Ltd : SB22040 NXP CEO Townhall,09-10-2024,09-10-2024,07/01/2025
+8808,10100 Hindustan Unilever Ltd : SB22041 HUL - LFW Delhi x TRESemme Stall,09-10-2024,13-10-2024,11/01/2025
+8809,10020 Accenture Solutions Pvt Ltd : SB22042 Accenture Townhall,15-10-2024,15-10-2024,13/01/2025
+8810,10087 Google India Pvt Ltd : SB22043 Google YT Shopping accelerator,08-11-2024,08-11-2024,06/02/2025
+8811,10087 Google India Pvt Ltd : SB22044 Google YT Creator Collective with Lakme,10-10-2024,10-10-2024,08/01/2025
+8812,10024 Adobe Systems India Pvt Ltd : SB22045 Adobe Elite Circle Mumbai & Bangalore,08-11-2024,14-11-2024,12/02/2025
+8813,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22046 HPE CIC Visit arrangements,09-10-2024,10-10-2024,08/01/2025
+8814,10115 Internet and Mobile Association of India : SB22047 IGC 2024 - Taj Palace Delhi,14-10-2024,15-10-2024,13/01/2025
+8815,10165 OnePlus Technology India Pvt Ltd : SB22048 OnePlus OEF in Bangkok,27-10-2024,02-11-2024,31/01/2025
+8816,10219 Tata Sons Pvt Ltd : SB22049 Virtual Event Production for Tata Ethics Case Study Competition 2024,09-10-2024,09-10-2024,07/01/2025
+8817,10031 Amazon Seller Services India Pvt Ltd : SB22050 Amazon Devices OS Townhall,07-11-2024,07-11-2024,05/02/2025
+8818,10031 Amazon Seller Services India Pvt Ltd : SB22051 Hyderabad Developer Workshop,16-10-2024,17-10-2024,15/01/2025
+8819,10200 Siemens Ltd : SB22052 Siemens In Collabration with Snap Logic Event on 15th October,15-10-2024,15-10-2024,13/01/2025
+8820,10200 Siemens Ltd : SB22053 Siemens Ltd,11-10-2024,11-10-2024,09/01/2025
+8821,10142 Microsoft Corporation (I) Pvt Ltd : SB22054 Microsoft Ai Mixer 2024,11-11-2024,11-11-2024,09/02/2025
+8822,10190 SAP India Pvt Ltd : SB22055 SAP Innovation Day,13-11-2024,27-11-2024,25/02/2025
+8823,10457 Panasonic Life Solutions India Pvt Ltd : SB22056 Panasonic Broadcast India,17-10-2024,19-10-2024,17/01/2025
+8824,10244 VST Industries Ltd : SB22057 VST Diwali Family Day,25-10-2024,25-10-2024,23/01/2025
+8825,10100 Hindustan Unilever Ltd : SB22058 TRESemme Lamellar Launch,14-10-2024,14-10-2024,12/01/2025
+8826,10022 Aditya Birla Sun Life Insurance Company Ltd : SB22059 Aditya Birla Sunlife Insurance Agency Meet 2024,15-10-2024,16-10-2024,14/01/2025
+8827,10012 Novo Nordisk Pharma Gulf FZE : SB22060 Novo Nordisk Apac Townhall,28-11-2024,28-11-2024,26/02/2025
+8828,10165 OnePlus Technology India Pvt Ltd : SB22061 OnePlus HUFT Donation Boxes,15-10-2024,15-10-2024,13/01/2025
+8829,10200 Siemens Ltd : SB22062 Siemens Switchboard 50 Years Celebration,28-10-2024,28-10-2024,26/01/2025
+8830,10210 Star India Pvt Ltd : SB22063 Disney Hotstar - EPL Screening,20-10-2024,20-10-2024,18/01/2025
+8831,10103 IKEA India Pvt Ltd : SB22064 IKEA - Societies Voucher Distribution,19-10-2024,19-10-2024,17/01/2025
+8832,10293 Brookprop Property Management Services Pvt Ltd : SB22065 Blue Grass - Family Day,15-01-2025,15-01-2025,15/04/2025
+8833,10057 Cognizant Technology Solutions India Pvt Ltd : SB22066 Edward Jones Client Visit,23-10-2024,23-10-2024,21/01/2025
+8834,10057 Cognizant Technology Solutions India Pvt Ltd : SB22067 Hartford Client Visit,23-10-2024,23-10-2024,21/01/2025
+8835,10444 Nmdc Data Centre Pvt Ltd : SB22068 Expo Booth Nvidia AI Summit,23-10-2024,25-10-2024,23/01/2025
+8836,10100 Hindustan Unilever Ltd : SB22069 HUL - October Events 2024,19-10-2024,19-10-2024,17/01/2025
+8837,10179 Redington Ltd : SB22070 Redington NetApp event with Velocis,23-10-2024,23-10-2024,21/01/2025
+8838,10020 Accenture Solutions Pvt Ltd : SB22071 Accenture Sanjay Dawar's Farewell,24-10-2024,24-10-2024,22/01/2025
+8839,"10217 TATA Consultancy Services Ltd : SB22072 NVIDIA AI Summit India at Jio World Center, Mumbai",24-10-2024,25-10-2024,23/01/2025
+8840,"10277 Astrazeneca India Pvt Ltd : SB22073 Sucess Gala  at Grand Sheraton, Chennai",23-10-2024,24-10-2024,22/01/2025
+9347,10234 Tvs Srichakra Limitd : SB22074 TVS Sub Dealer Meet At Ghaziabad,24-10-2024,24-10-2024,22/01/2025
+8841,10200 Siemens Ltd : SB22075 Siemens GBS APS Townhall,06-11-2024,06-11-2024,04/02/2025
+8842,10123 Kotak Mahindra Bank Ltd : SB22076 Kotak Townhall with the CEO,20-10-2024,22-10-2024,20/01/2025
+9687,10673 Godrej Properties Ltd : SB22077 SAFETY CONCLAVE 2024,21-10-2024,21-10-2024,19/01/2025
+8843,10057 Cognizant Technology Solutions India Pvt Ltd : SB22078 COGNIZANT Blackstone visit - Hyderabad H04,21-10-2024,22-10-2024,20/01/2025
+8844,10057 Cognizant Technology Solutions India Pvt Ltd : SB22079 Cognizant Pega Symposia 2024 Event,24-10-2024,24-10-2024,22/01/2025
+8845,10293 Brookprop Property Management Services Pvt Ltd : SB22080 Brookfield Properties Diwali Celebration  @ 5 locations,22-10-2024,25-10-2024,23/01/2025
+8846,10100 Hindustan Unilever Ltd : SB22081 HUL -  LAKME x Nykaaland,25-10-2024,27-10-2024,25/01/2025
+8847,10448 NXP India Pvt Ltd : SB22082 NXP German Delegate event 2024,26-10-2024,26-10-2024,24/01/2025
+8848,10191 SAP Labs India Pvt Ltd : SB22083 SAP Come Alive,23-10-2024,23-10-2024,21/01/2025
+8849,10074 Exclusive Motors Pvt Ltd : SB22084  Lotus Car Display @ 4 seasons,24-10-2024,24-10-2024,22/01/2025
+8850,10031 Amazon Seller Services India Pvt Ltd : SB22085 Amazone Transcend,23-10-2024,23-10-2024,21/01/2025
+8851,10057 Cognizant Technology Solutions India Pvt Ltd : SB22086 Cogizant BAT Client visit,23-10-2024,23-10-2024,21/01/2025
+8852,10223 The Indian Express Pvt Ltd : SB22087 Dell IE Multicity events,30-11-2024,30-11-2024,28/02/2025
+8853,10066 Dell International Services India Pvt Ltd : SB22088 Dell Qualcomm Launch,27-11-2024,27-11-2024,25/02/2025
+8854,10223 The Indian Express Pvt Ltd : SB22089 Dell IE Multicity events,22-12-2024,22-12-2024,22/03/2025
+8855,10241 Vivo Mobile India Pvt Ltd : SB22090 Vivo X200 immersion and Launch event,10-12-2024,12-12-2024,12/03/2025
+8856,10403 Lenovo Global Technology (India) Pvt Ltd : SB22091 Booth Management at NVIDIA AI Summit,24-10-2024,25-10-2024,23/01/2025
+8857,10308 Cloudodyssey IT Solutions Pvt Ltd : SB22092 Cloudodyssey Diwali Gifting,24-10-2024,24-10-2024,22/01/2025
+8858,10020 Accenture Solutions Pvt Ltd : SB22093 Accenture AQA Education_Offsite,23-10-2024,23-10-2024,21/01/2025
+8859,10239 Veeva Software Systems India Pvt Ltd : SB22094 HPE Discover Booth Activation,30-11-2024,30-11-2024,28/02/2025
+8860,10024 Adobe Systems India Pvt Ltd : SB22095 Adobe ALM booth set up,25-10-2024,25-10-2024,23/01/2025
+8861,10065 Dbs Bank India Ltd : SB22096 DBS India Townhall Q4,07-11-2024,08-11-2024,06/02/2025
+8862,10200 Siemens Ltd : SB22097 Siemens Transform Innovation Day 2024,12-11-2024,12-11-2024,10/02/2025
+8863,10191 SAP Labs India Pvt Ltd : SB22098 SAP Statutory Board Meeting,06-11-2024,07-11-2024,05/02/2025
+8864,"10089 Greenlam Industries Ltd : SB22099 Greenlam Design Nxt, Prague, Czech Republic,",14-11-2024,18-11-2024,16/02/2025
+8865,10031 Amazon Seller Services India Pvt Ltd : SB22100 Amazone  GIF event,29-10-2024,29-10-2024,27/01/2025
+8866,10100 Hindustan Unilever Ltd : SB22101 Meta x Lakme Rouge Bloom at Meta,29-10-2024,29-10-2024,27/01/2025
+8867,10301 Century Prime Properties Pvt Ltd : SB22102 RWA Activity - Prestige St. Johnswood,26-10-2024,26-10-2024,24/01/2025
+8868,10461 Phonepe Pvt Ltd : SB22103 PhonePe Diwali Booth - Pune,29-10-2024,29-10-2024,27/01/2025
+9348,10234 Tvs Srichakra Limitd : SB22104 TVS Srichakra for Kari Motors,28-10-2024,28-10-2024,26/01/2025
+8869,10190 SAP India Pvt Ltd : SB22105 SAP Golf Clinic for Customers,06-12-2024,06-12-2024,06/03/2025
+9349,10234 Tvs Srichakra Limitd : SB22106 RRC & MMC FOR PAN IND SEP24,28-10-2024,28-10-2024,26/01/2025
+9688,10674 M/S Graphifiers : SB22107 Graphifiers Clean India Expo,21-11-2024,23-11-2024,21/02/2025
+8870,10065 Dbs Bank India Ltd : SB22108 DBS Bank Conference - Meet & Greet,08-11-2024,08-11-2024,06/02/2025
+8871,10065 Dbs Bank India Ltd : SB22109 DBS Bank - Filming Podcast,01-11-2024,01-11-2024,30/01/2025
+8872,10065 Dbs Bank India Ltd : SB22110 DBS Dinner & Dance Event,18-12-2024,18-12-2024,18/03/2025
+8873,10178 Red Hat India Pvt Ltd : SB22111 Red Hat Govt / PSU Event– Re invent the Future- Tech Talks,30-11-2024,30-11-2024,28/02/2025
+8874,10228 Thoughtworks Technologies India Pvt Ltd : SB22112 THOUGHTWORKS X-Interview Shoot,01-11-2024,01-11-2024,30/01/2025
+8875,10457 Panasonic Life Solutions India Pvt Ltd : SB22113 Panasonic office brandings,01-11-2024,01-11-2024,30/01/2025
+8876,10240 VFS Global Services Pvt Ltd : SB22114 VFS Global Dinner Event at the Hotel,08-11-2024,08-11-2024,06/02/2025
+9570,10644 Orient Electric Ltd : SB22115 Orient Electric Dealer Meet,14-11-2024,16-11-2024,14/02/2025
+8877,10178 Red Hat India Pvt Ltd : SB22116 Red Hat-TCS lending as a service event,20-12-2024,20-12-2024,20/03/2025
+8878,10102 Hitachi Vantara India Pvt Ltd : SB22117 Towards Japan EBC eDM & RSVP,01-11-2024,01-11-2024,30/01/2025
+8879,"10190 SAP India Pvt Ltd : SB22118 SAP Grand Prix Jute Bags, Trophies",15-11-2024,15-11-2024,13/02/2025
+8880,10200 Siemens Ltd : SB22119 Siemens Mobility Townhall 2024,07-11-2024,07-11-2024,05/02/2025
+8881,10066 Dell International Services India Pvt Ltd : SB22120 Dell Multicity events,10-01-2025,22-01-2025,22/04/2025
+8882,10100 Hindustan Unilever Ltd : SB22121 HUL - B&W Global Visit,05-11-2024,05-11-2024,03/02/2025
+8883,10100 Hindustan Unilever Ltd : SB22122 HUL - R&D Global Visit,05-11-2024,05-11-2024,03/02/2025
+8884,10103 IKEA India Pvt Ltd : SB22123 IKEA - Nov & Dec Activity,14-11-2024,14-11-2024,12/02/2025
+8885,10190 SAP India Pvt Ltd : SB22124 Winner & Partner Trophies for INDUS Conclave & SAP ACE Awards,14-11-2024,14-11-2024,12/02/2025
+8886,10228 Thoughtworks Technologies India Pvt Ltd : SB22125 Thoughtworks - Xconf 2024,22-11-2024,22-11-2024,20/02/2025
+8887,10100 Hindustan Unilever Ltd : SB22126 HUL Women in STEM 2024,08-11-2024,30-11-2024,28/02/2025
+9689,10690 AirWatch Softsync Solutions Pvt Ltd : SB22127 India ELT Customer Roadshow,30-11-2024,22-11-2024,20/02/2025
+8888,10065 Dbs Bank India Ltd : SB22128 DBS India Singapore Connect Envelope printing,08-11-2024,08-11-2024,06/02/2025
+8889,10065 Dbs Bank India Ltd : SB22129 DBS Tech Roadshow,11-11-2024,11-11-2024,09/02/2025
+8890,10165 OnePlus Technology India Pvt Ltd : SB22130 OnePlus Jam Night,09-11-2024,10-11-2024,08/02/2025
+8891,10142 Microsoft Corporation (I) Pvt Ltd : SB22131 Microsoft Manager's day at Jodhpur,04-12-2024,07-12-2024,07/03/2025
+8892,10121 Ki Mobility Solutions Pvt Ltd : SB22132 My TVS Showroom Inauguration,05-11-2024,05-11-2024,03/02/2025
+9690,10675 Tvs Certified Pvt Ltd : SB22133 TVS CERTIFIED Sign Board,11-11-2024,11-11-2024,09/02/2025
+8893,10351 GlaxoSmithKline Consumer Pvt Ltd : SB22134 Haleon Office Inauguration - Phase 2,10-11-2024,10-11-2024,08/02/2025
+9350,10234 Tvs Srichakra Limitd : SB22135 TVS Eurogrip stall in Krishithon,21-11-2024,25-11-2024,23/02/2025
+9691,10676 Goc Services India Pvt Ltd : SB22136 GOC Infinity 2024,24-11-2024,07-12-2024,07/03/2025
+8894,10100 Hindustan Unilever Ltd : SB22137 HUL Lux - Meet & Greet,08-11-2024,08-11-2024,06/02/2025
+8895,10212 STT Global Data Centres India Pvt Ltd : SB22138 STT CIO CLUB Giveway,19-12-2024,19-12-2024,19/03/2025
+8896,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22139 HPE QBR 2024,18-11-2024,20-11-2024,18/02/2025
+8897,10031 Amazon Seller Services India Pvt Ltd : SB22140 Amazon - Leadership Offsite,11-11-2024,13-11-2024,11/02/2025
+8898,10057 Cognizant Technology Solutions India Pvt Ltd : SB22141 Cognizant Nationwide Client Visit,11-11-2024,12-11-2024,10/02/2025
+9692,10677 Aditya Birla Management Corporation Pvt Ltd : SB22142 ABG 15th Mission Happiness Leaders Meet 2024,18-11-2024,18-11-2024,16/02/2025
+8899,10057 Cognizant Technology Solutions India Pvt Ltd : SB22143 Cognizant Beyond Boundaries Event,11-11-2024,12-11-2024,10/02/2025
+8900,10190 SAP India Pvt Ltd : SB22144 Sap Innovation Days & Invent Finale,11-11-2024,14-11-2024,12/02/2025
+8901,"10255 Accropoly Metal Industries Pvt Ltd : SB22145 India Fastener Show, 22-24 Nov 2024, PIEMC,",22-11-2024,24-11-2024,22/02/2025
+8902,10057 Cognizant Technology Solutions India Pvt Ltd : SB22146 Cognizant India Team Connect,18-11-2024,18-11-2024,16/02/2025
+8903,10114 Intel Technology India Pvt Ltd : SB22147 INTEL  Global AI Conclave CNBC,22-11-2024,22-11-2024,20/02/2025
+8904,10020 Accenture Solutions Pvt Ltd : SB22148 Accenture Natwest Event,14-11-2024,14-11-2024,12/02/2025
+8905,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22149 HPE Secure AI-Ready Data Centers,21-11-2024,21-11-2024,19/02/2025
+8906,10020 Accenture Solutions Pvt Ltd : SB22150 Accenture Marriott Virtual Visit Broadcast,13-11-2024,13-11-2024,11/02/2025
+8907,10431 NatWest Digital Services India Pvt Ltd (RBS Services India Pvt Ltd) : SB22151 NatWest Video Shoot,14-11-2024,14-11-2024,12/02/2025
+8908,10013 Now Comms Asia : SB22152 Now Comms Asia of materials / resources,13-11-2024,13-11-2024,11/02/2025
+9351,10234 Tvs Srichakra Limitd : SB22153 TVS Eurogrip Store Launch @ Patna,17-11-2024,17-11-2024,15/02/2025
+8909,10133 Mahindra & Mahindra Ltd : SB22154 Mahindra eSUV Launch Event,27-11-2024,27-11-2024,25/02/2025
+8910,10049 BYD India Pvt Ltd : SB22155 BYD Anniversary Celebration 20204,16-11-2024,16-11-2024,14/02/2025
+8911,10212 STT Global Data Centres India Pvt Ltd : SB22156 STT Pune Ai Lab Branding,13-11-2024,13-11-2024,11/02/2025
+8912,10151 Neo4j Inc : SB22157 Talk in Graph Talk in Delhi,12-12-2024,12-12-2024,12/03/2025
+9571,"10646 Minda Corporation Ltd : SB22158 Spark Minda Auto Expo 2025,",18-01-2025,21-01-2025,21/04/2025
+8913,"10018 Vinfast Auto India Pvt Ltd : SB22159 VinFast Auto Expo 2025,",17-01-2025,22-01-2025,22/04/2025
+9693,10678 Embee Software Pvt Ltd : SB22160 CIO ASSOCIATION,22-11-2024,22-11-2024,20/02/2025
+8914,10100 Hindustan Unilever Ltd : SB22161 HUL - LAKME x MYNTRA,15-11-2024,15-11-2024,13/02/2025
+5081,10100 Hindustan Unilever Ltd : SB22161 Hul - Lakme X Myntra,15-11-2024,20-12-2024,20/03/2025
+8915,10202 Sify Technologies Ltd : SB22162 Sify Zscaler Customer Event.,29-11-2024,29-11-2024,27/02/2025
+8916,10020 Accenture Solutions Pvt Ltd : SB22163 Accenture Mondelez Client Visit,14-11-2024,14-11-2024,12/02/2025
+8917,10184 Renault India Pvt Ltd : SB22164 Metal Chest Badge,14-11-2024,14-11-2024,12/02/2025
+8918,10065 Dbs Bank India Ltd : SB22166 DBS Bank CBG Townhall,14-11-2024,14-11-2024,12/02/2025
+8919,10351 GlaxoSmithKline Consumer Pvt Ltd : SB22167 Glaxo Haleon Branded Merchandise,25-11-2024,25-11-2024,23/02/2025
+8920,10057 Cognizant Technology Solutions India Pvt Ltd : SB22168 Cognizant Nationwide Client Visit,18-11-2024,20-11-2024,18/02/2025
+9694,10690 AirWatch Softsync Solutions Pvt Ltd : SB22169 Industry Participation : Digital Bharat Summit,29-11-2024,29-11-2024,27/02/2025
+8921,10020 Accenture Solutions Pvt Ltd : SB22170 Accenture Leadership Accelerator Program,04-12-2024,04-12-2024,04/03/2025
+8922,10068 DigiSahamati Foundation : SB22171 Sahamati Samvaad 2024,19-11-2024,19-11-2024,17/02/2025
+8923,10200 Siemens Ltd : SB22172 Siemens _Channel Partner Certificates and Trophy,21-11-2024,21-11-2024,19/02/2025
+9927,10679 3One4 Capital Mangement LLP : SB22173 3One4 Capital CUSTOMERS MEET,20-11-2024,20-11-2024,18/02/2025
+8924,10057 Cognizant Technology Solutions India Pvt Ltd : SB22174 Cognizant Writing Board Setup,24-11-2024,24-11-2024,22/02/2025
+8925,10100 Hindustan Unilever Ltd : SB22175 Hul B&W Workshop 2024,26-11-2024,26-11-2024,24/02/2025
+9572,10641 Godrej Agrovet Ltd : SB22176 Godrej agrovet booth at PepsiCo Expo 2024,26-11-2024,26-11-2024,24/02/2025
+8926,10031 Amazon Seller Services India Pvt Ltd : SB22177 Amazon INOPS P - XTraordinaire 2024,21-11-2024,22-11-2024,20/02/2025
+8927,10100 Hindustan Unilever Ltd : SB22178 HUL - Capital Markets Day 2024,29-11-2024,29-11-2024,27/02/2025
+9696,10680 Blue Star Ltd : SB22179 Blue Star India Food Forum,27-11-2024,28-11-2024,26/02/2025
+8928,10461 Phonepe Pvt Ltd : SB22180 PhonePe booth BIC Indiranagar,22-11-2024,22-11-2024,20/02/2025
+8929,10212 STT Global Data Centres India Pvt Ltd : SB22181 STT GE Colocation,21-11-2024,21-11-2024,19/02/2025
+8930,10064 Danfoss Industries Pvt Ltd : SB22182 Danfoss Data Center Stall 2024,22-11-2024,22-11-2024,20/02/2025
+8931,10102 Hitachi Vantara India Pvt Ltd : SB22183 Towards Idea Café Roundtable,04-12-2024,04-12-2024,04/03/2025
+8932,10102 Hitachi Vantara India Pvt Ltd : SB22184 Towards Webinar Promotions & Registrations,30-01-2025,30-01-2025,30/04/2025
+9697,10681 L & T Finance Ltd : SB22185 LTF Raise'24,25-11-2024,26-11-2024,24/02/2025
+8933,"10095 Hero Motocorp Ltd : SB22186 Hero IBU Meet at  JW Marriott, Vagator, Goa on 29th November -1st December",29-11-2024,01-12-2024,01/03/2025
+8934,10200 Siemens Ltd : SB22187 Siemens Inno Rail Exbhition,26-11-2024,30-11-2024,28/02/2025
+8935,10076 Facebook India Online Services Pvt Ltd : SB22188 Metro Activation for Meta,30-12-2024,30-12-2024,30/03/2025
+8936,10034 Amway India Enterprises Pvt Ltd : SB22189 Amway NPF 3.0,01-12-2024,04-12-2024,04/03/2025
+9573,10640 Bangalore International Airport Ltd : SB22190 Season of Smiles,01-12-2024,01-12-2024,01/03/2025
+9698,10682 Honda Cars India Ltd : SB22191 Honda Amaze car launch,04-12-2024,04-12-2024,04/03/2025
+9699,10683 Estetica Magazines Pvt Ltd : SB22192 Stall in Cosmoprof India 2024 at Jasmine Hall1 Jio World Convention Centre,05-12-2024,07-12-2024,07/03/2025
+8937,10564 TVS Supply Chain Solutions Ltd : SB22193 TS Rajam Awards,02-12-2024,02-12-2024,02/03/2025
+8938,10100 Hindustan Unilever Ltd : SB22194 Hul F&R Booth at India Food Forum,27-11-2024,28-11-2024,26/02/2025
+8939,10190 SAP India Pvt Ltd : SB22195 SAP Come Alive,26-11-2024,26-11-2024,24/02/2025
+8940,10099 Hilti India Pvt Ltd : SB22196 Hilti Annual Kickoff 2025,13-01-2025,15-01-2025,15/04/2025
+8941,10304 Citi Bank : SB22197 Citi Bank - Digital Leadership Summit,05-12-2024,05-12-2024,05/03/2025
+8942,10084 GitHub India Pvt Ltd : SB22198 GitHub Universe Recap,30-11-2024,30-11-2024,28/02/2025
+9700,10685 Gulf Air B SC : SB22199 Gulf Air Dealer Meet,29-11-2024,29-11-2024,27/02/2025
+8943,10031 Amazon Seller Services India Pvt Ltd : SB22200 amazon superstars event,28-11-2024,28-11-2024,26/02/2025
+9352,10234 Tvs Srichakra Limitd : SB22201 TVS Srichakra  RRC/MMC/CPC Activity,28-11-2024,28-11-2024,26/02/2025
+8944,10114 Intel Technology India Pvt Ltd : SB22202 Intel CS Day outing,29-11-2024,29-11-2024,27/02/2025
+9701,10684 Utex Industries Pvt Ltd : SB22203 stall International Indo Africa B2B trade show,03-12-2024,05-12-2024,05/03/2025
+8945,10110 Innocean Worldwide Communication Pvt Ltd : SB22204 Kia Syros Content making,30-12-2024,30-12-2024,30/03/2025
+8946,10031 Amazon Seller Services India Pvt Ltd : SB22205 amazon Sambhav Collateral Decor,02-12-2024,03-12-2024,03/03/2025
+8947,10057 Cognizant Technology Solutions India Pvt Ltd : SB22206 EPS Leadership meeting Bhubaneswar,04-12-2024,06-12-2024,06/03/2025
+8948,10251 Yes Bank Ltd : SB22207 IRIS Biz by YES BANK,05-12-2024,05-12-2024,05/03/2025
+8949,"10087 Google India Pvt Ltd : SB22208 Google GCS @ Google office,",03-12-2024,03-12-2024,03/03/2025
+8950,10057 Cognizant Technology Solutions India Pvt Ltd : SB22209 Cognizant Nationwide Client Visit,05-12-2024,05-12-2024,05/03/2025
+8951,10114 Intel Technology India Pvt Ltd : SB22210 Intel  Laptop storage space for Q1 FY 2025,02-12-2024,31-03-2025,29/06/2025
+8952,10236 Unilever Industries Pvt Ltd : SB22211 Uniops GSA Awards,05-12-2024,05-12-2024,05/03/2025
+8953,10100 Hindustan Unilever Ltd : SB22212 Hul B&W Global Investors Meet,06-12-2024,06-12-2024,06/03/2025
+9353,10234 Tvs Srichakra Limitd : SB22213 Tvs Shiprocket recharge-Dec 2024,05-12-2024,05-12-2024,05/03/2025
+8954,10087 Google India Pvt Ltd : SB22214 Google cloud family day,07-12-2024,07-12-2024,07/03/2025
+8955,10083 Fx First Basis Risk Consulting LLP : SB22215 First Basis Rupee Money Conference,07-12-2024,07-12-2024,07/03/2025
+8956,10190 SAP India Pvt Ltd : SB22216 SAP Signavio Webinar,04-12-2024,04-12-2024,04/03/2025
+8957,10185 Renault Nissan Technology & Business Centre India Pvt Ltd : SB22217 Renault Step Up 2024,12-12-2024,12-12-2024,12/03/2025
+9574,10620 Star Health And Allied Insurance Co Ltd : SB22218 Super Star Product Launch,07-12-2024,07-12-2024,07/03/2025
+9702,10686 Inpg Workforce Solutions Pvt Ltd : SB22219 Pinnacle CXO Dialogue Event,10-12-2024,10-12-2024,10/03/2025
+8958,10031 Amazon Seller Services India Pvt Ltd : SB22220 Amazone Year End Party,06-12-2024,06-12-2024,06/03/2025
+8959,10277 Astrazeneca India Pvt Ltd : SB22221 AstraZeneca Team Outing,06-12-2024,06-12-2024,06/03/2025
+8960,10102 Hitachi Vantara India Pvt Ltd : SB22222 Towards Demand Generation Campaign,24-12-2024,24-12-2024,24/03/2025
+8961,10102 Hitachi Vantara India Pvt Ltd : SB22223 Towards Webinar Registrations,25-01-2025,25-01-2025,25/04/2025
+8962,10191 SAP Labs India Pvt Ltd : SB22224 SAP Come Alive,09-12-2024,09-12-2024,09/03/2025
+9575,10661 Triangular Marketing Services : SB22225 Loreal Kios Setup,09-12-2024,10-12-2024,10/03/2025
+9354,10234 Tvs Srichakra Limitd : SB22226 Tvs Dealer Meet,07-12-2024,10-12-2024,10/03/2025
+8963,10294 Calliduscloud India Pvt Ltd : SB22227 SAP Annual Day Hyderabad 2024,13-12-2024,13-12-2024,13/03/2025
+9576,10669 CIO Association : SB22228 CIO Association Family Day,07-12-2024,07-12-2024,07/03/2025
+8964,10031 Amazon Seller Services India Pvt Ltd : SB22229 amazon- tech event,09-12-2024,10-12-2024,10/03/2025
+8965,10057 Cognizant Technology Solutions India Pvt Ltd : SB22230 Cognizant Nationwide Client Visit,09-12-2024,10-12-2024,10/03/2025
+8966,10084 GitHub India Pvt Ltd : SB22231 GitHub India Icons,11-12-2024,11-12-2024,11/03/2025
+8967,10030 Amazon Pay (India) Pvt Ltd : SB22232 Amazon TGIF,10-12-2024,11-12-2024,11/03/2025
+9703,10687 Zomato Ltd : SB22233 Zomato Sustainability and Policy Conference,17-12-2024,17-12-2024,17/03/2025
+8968,10532 Tata Business Excellence Group : SB22234 Tata Giveaways,10-12-2024,10-12-2024,10/03/2025
+8969,"10193 Schneider Electric India Pvt Ltd : SB22235 LK Big announcement,",11-12-2024,11-12-2024,11/03/2025
+9704,10688 Havmor Ice Cream Pvt Ltd : SB22236 Havmor AOP meet 2025,16-12-2024,17-12-2024,17/03/2025
+8970,10020 Accenture Solutions Pvt Ltd : SB22237 Accenture Smart Mining & Chemical Model,26-12-2024,26-12-2024,26/03/2025
+8971,10191 SAP Labs India Pvt Ltd : SB22238 SAP build day 2024,11-12-2024,11-12-2024,11/03/2025
+8972,10293 Brookprop Property Management Services Pvt Ltd : SB22239 Brookprpo IPC Brookfield,11-12-2024,11-12-2024,11/03/2025
+8973,10087 Google India Pvt Ltd : SB22240 Google App Dev event,10-12-2024,25-02-2025,26/05/2025
+8974,10200 Siemens Ltd : SB22241 Siemens mobility Branding,11-12-2024,11-12-2024,11/03/2025
+8975,10102 Hitachi Vantara India Pvt Ltd : SB22242 Executive Breifing Forum,11-12-2024,11-12-2024,11/03/2025
+8976,10461 Phonepe Pvt Ltd : SB22243 PhonePe BMM,14-12-2024,14-12-2024,14/03/2025
+9577,10620 Star Health And Allied Insurance Co Ltd : SB22244 Star Health Press Meet 2024,11-12-2024,11-12-2024,11/03/2025
+8977,10366 Havas Media India Pvt Ltd : SB22245 Havas Stall at TIE Global Summit.,11-12-2024,11-12-2024,11/03/2025
+8978,"10571 Vast Data UK Ltd : SB22246 Vast Data India Tour, Grand Hyatt Mumbai",10-01-2025,10-01-2025,10/04/2025
+8979,10057 Cognizant Technology Solutions India Pvt Ltd : SB22247 Cognizant AKSO Visit Booth,18-12-2024,19-12-2024,19/03/2025
+9705,10689 Ivalue Infosolutions Ltd : SB22248 Executive Breifing Forum,12-12-2024,12-12-2024,12/03/2025
+8980,10095 Hero Motocorp Ltd : SB22249 Hero Nakshatra in Baku,13-12-2024,20-12-2024,20/03/2025
+8981,10057 Cognizant Technology Solutions India Pvt Ltd : SB22250 Cognizant Leadership Summit Udaipur,18-12-2024,19-12-2024,19/03/2025
+8982,10066 Dell International Services India Pvt Ltd : SB22251 Dell Gift delivery for PTC Door Openers India,15-01-2025,15-01-2025,15/04/2025
+8983,10100 Hindustan Unilever Ltd : SB22252 HUL - Prabhat Turns 11 2024,18-12-2024,18-12-2024,18/03/2025
+8984,10165 OnePlus Technology India Pvt Ltd : SB22253 OnePlus Media Drive in Sri Lanka,17-12-2024,22-12-2024,22/03/2025
+8985,"10097 Hewlett Packard Enterprise India Pvt Ltd : SB22254 HPE Ignite in Athens, Greece",01-02-2025,06-02-2025,07/05/2025
+8986,10057 Cognizant Technology Solutions India Pvt Ltd : SB22255 cognizant AIA Event logistic,18-12-2024,20-12-2024,20/03/2025
+8987,10057 Cognizant Technology Solutions India Pvt Ltd : SB22256 Cognizant Musical evening - Hyderabad,20-12-2024,20-12-2024,20/03/2025
+8988,10024 Adobe Systems India Pvt Ltd : SB22257 Adobe ABM activities,17-12-2024,06-02-2025,07/05/2025
+8989,10031 Amazon Seller Services India Pvt Ltd : SB22258 Amazon SX-FCGT Meeting,18-12-2024,18-12-2024,18/03/2025
+8990,10057 Cognizant Technology Solutions India Pvt Ltd : SB22259 Cognizant FSI Strategy Meet,19-12-2024,20-12-2024,20/03/2025
+8991,10301 Century Prime Properties Pvt Ltd : SB22260 Christmas Decor - Multiple Sites,20-12-2024,20-12-2024,20/03/2025
+8992,10057 Cognizant Technology Solutions India Pvt Ltd : SB22261 Cognizant Namma Mangaluru Beats,23-12-2024,23-12-2024,23/03/2025
+8993,10065 Dbs Bank India Ltd : SB22262 DBS Bank - Future of Ops Festival,20-01-2025,21-01-2025,21/04/2025
+8994,10087 Google India Pvt Ltd : SB22263 Google YT Creator Collective Q1 & Q2 2025,20-12-2024,30-06-2025,28/09/2025
+8995,10101 Hitachi Systems India Pvt Ltd : SB22264 Red Hat Summit Connect 2024,30-01-2025,30-01-2025,30/04/2025
+8996,10012 Novo Nordisk Pharma Gulf FZE : SB22265 Nordisk EDM,23-12-2024,23-12-2024,23/03/2025
+8997,10084 GitHub India Pvt Ltd : SB22266 GitHub Tech after dark Marquis,26-12-2024,06-01-2025,06/04/2025
+8998,10165 OnePlus Technology India Pvt Ltd : SB22267 OnePlus Dealer Meet,26-12-2024,07-01-2025,07/04/2025
+8999,10102 Hitachi Vantara India Pvt Ltd : SB22268 Hitachi Idea Cafe CIO events - Feb 2025,26-12-2024,28-02-2025,29/05/2025
+9000,10094 Herbalife International India Pvt Ltd : SB22269 Herbalife FIT FAMILIES FEST 2025,27-12-2024,11-01-2025,11/04/2025
+9001,10293 Brookprop Property Management Services Pvt Ltd : SB22270 Brookfield Properties Powai Run At Powai,05-01-2025,05-01-2025,05/04/2025
+9002,10448 NXP India Pvt Ltd : SB22271 NXP Stall at VLSID Conference At Bangalore,09-01-2025,09-01-2025,09/04/2025
+9003,10049 BYD India Pvt Ltd : SB22272 BYD Auto Expo 2025 @ Pragti Maidan,17-01-2025,22-01-2025,22/04/2025
+9004,10170 Palo Alto Networks (India) Pvt Ltd : SB22273 Towards India & Saarc Partner Summit event Execution @ Mumbai,25-03-2025,25-03-2025,23/06/2025
+9005,10057 Cognizant Technology Solutions India Pvt Ltd : SB22274 Cognizant Permanent Setup @ Hyderabad,05-01-2025,05-01-2025,05/04/2025
+9578,10620 Star Health And Allied Insurance Co Ltd : SB22275 Star Health - SS Launch @ Bangalore,03-01-2025,03-01-2025,03/04/2025
+9006,10117 ITC Ltd : SB22276 ITC Conquest Giveaway @ Bangalore,08-01-2025,08-01-2025,08/04/2025
+9007,10024 Adobe Systems India Pvt Ltd : SB22277 Adobe Elite Circle At Gurgaon,06-02-2025,13-02-2025,14/05/2025
+9579,10622 Delta Electronics India Pvt Ltd : SB22278 Delta Elecrama 2025 at Noida,22-02-2025,26-02-2025,27/05/2025
+9008,10165 OnePlus Technology India Pvt Ltd : SB22279 OnePlus event & SAP Giveaways at Delhi,25-01-2025,25-01-2025,25/04/2025
+9009,10057 Cognizant Technology Solutions India Pvt Ltd : SB22280 Cognizant Cultural Event @ Multicity,07-01-2025,08-01-2025,08/04/2025
+9010,10121 Ki Mobility Solutions Pvt Ltd : SB22281 Ki Mobility myTVS A@ Yashobhoomi,17-01-2025,21-01-2025,21/04/2025
+9011,10030 Amazon Pay (India) Pvt Ltd : SB22282 Amazone  IESP,07-01-2025,07-01-2025,07/04/2025
+9012,10564 TVS Supply Chain Solutions Ltd : SB22283 TVS Supply Chain Solution - TS Rajam Award,06-01-2025,06-01-2025,06/04/2025
+9355,10234 Tvs Srichakra Limitd : SB22284 TVS Srichakra for Shiprocket,07-01-2025,07-01-2025,07/04/2025
+9013,10478 Regency Ceramics Ltd : SB22285 Regency Ceramics Booth at Naredco Exhibition,10-01-2025,12-01-2025,12/04/2025
+9014,10200 Siemens Ltd : SB22286 Siemens MO for T-shirt & Acrylic badge,10-01-2025,10-01-2025,10/04/2025
+9015,10200 Siemens Ltd : SB22287 Siemens_ Customer Visit - Inauguration At Airoli,08-01-2025,08-01-2025,08/04/2025
+9016,10165 OnePlus Technology India Pvt Ltd : SB22288 OnePlus Jam Night @ IIT Madras,09-01-2025,13-01-2025,13/04/2025
+9017,10191 SAP Labs India Pvt Ltd : SB22289 SAP ALM Summit 2025,22-07-2025,24-07-2025,22/10/2025
+9018,10179 Redington Ltd : SB22290 Redington Data Profiling,08-01-2025,20-03-2025,18/06/2025
+9019,10200 Siemens Ltd : SB22291 Siemens Walkathon 2025,26-01-2025,26-01-2025,26/04/2025
+9020,10031 Amazon Seller Services India Pvt Ltd : SB22292 Amazone Photographer Arrangemen,10-01-2025,11-01-2025,11/04/2025
+9580,10624 Aisle Network Pvt Ltd : SB22293 Aisle Experience,11-01-2025,11-01-2025,11/04/2025
+9021,10057 Cognizant Technology Solutions India Pvt Ltd : SB22294 Cognizant Metal Badges,08-01-2025,08-01-2025,08/04/2025
+9022,10020 Accenture Solutions Pvt Ltd : SB22295 Accenture CBRE Client visit,13-01-2025,13-01-2025,13/04/2025
+9023,10100 Hindustan Unilever Ltd : SB22296 Lakme Stall at Mithibai Fest,08-01-2025,11-01-2025,11/04/2025
+9024,10087 Google India Pvt Ltd : SB22297 YouTube Execs Meet up at Soho House Mumbai,16-01-2025,16-01-2025,16/04/2025
+9025,10574 Wagner Fire Safety India Pvt Ltd : SB22298 LogiMAT India 2025,13-02-2025,15-02-2025,16/05/2025
+9026,10057 Cognizant Technology Solutions India Pvt Ltd : SB22299 Cognizant Invesco Client Visit Badge,09-01-2025,10-01-2025,10/04/2025
+9027,10200 Siemens Ltd : SB22300 Siemens Energy Townhall Event,16-01-2025,16-01-2025,16/04/2025
+9028,10179 Redington Ltd : SB22301 Redington NetApp Partner Roundtable,30-01-2025,30-01-2025,30/04/2025
+9029,10200 Siemens Ltd : SB22302 Siemens SEIL : GST Registration,25-03-2025,25-03-2025,23/06/2025
+9030,10403 Lenovo Global Technology (India) Pvt Ltd : SB22303 Lenovo EBC Tour,22-02-2025,28-02-2025,29/05/2025
+9031,10200 Siemens Ltd : SB22304 Siemens IMTEX 2025,23-01-2025,30-01-2025,30/04/2025
+9032,10066 Dell International Services India Pvt Ltd : SB22305 Dell CSG Launch on 9th April in Andaz New Delhi,09-04-2025,09-04-2025,08/07/2025
+9033,10066 Dell International Services India Pvt Ltd : SB22306 Dell ISG Launch 13th to 19th March,13-03-2025,19-03-2025,17/06/2025
+9034,10242 Vmware Software India Pvt Ltd : SB22307 Vmware Tanzu Giveaways,10-01-2025,10-01-2025,10/04/2025
+9035,10165 OnePlus Technology India Pvt Ltd : SB22308 OnePlus Podium Delivery at 6 stores,11-01-2025,11-01-2025,11/04/2025
+9581,10121 National Centre For The Performing Arts : SB22309 Ncpa Concert Delhi,19-01-2025,20-01-2025,20/04/2025
+9036,10057 Cognizant Technology Solutions India Pvt Ltd : SB22310 Cognizant Alkem Laboratories Client Visit,16-01-2025,25-01-2025,25/04/2025
+9582,10625 Pernod Ricard India Pvt Ltd : SB22311 Perno store promotion installation,13-01-2025,15-01-2025,15/04/2025
+9037,10074 Exclusive Motors Pvt Ltd : SB22312 Exclusive Lotus Showroom Launch,16-01-2025,16-01-2025,16/04/2025
+9038,10039 Autodesk India Pvt Ltd : SB22313 Autodesk IMTEX 2025,23-01-2025,29-01-2025,29/04/2025
+9039,10200 Siemens Ltd : SB22314 Siemens EA Awards 2025,16-01-2025,16-01-2025,16/04/2025
+9040,10024 Adobe Systems India Pvt Ltd : SB22315 Adobe ALM Gifting in Feb 2025,21-01-2025,10-02-2025,11/05/2025
+9041,10108 Infosys Ltd : SB22316 Infosys event & Giveaways in Feb 2025,01-02-2025,01-02-2025,02/05/2025
+9042,10050 CA (India)Technologies Pvt Ltd : SB22317 VCF Experience Day,15-01-2025,15-01-2025,15/04/2025
+9043,10066 Dell International Services India Pvt Ltd : SB22318 Dell WPC & AI events in Feb 2025,04-02-2025,04-02-2025,05/05/2025
+9044,10066 Dell International Services India Pvt Ltd : SB22319 Dell WPC events in March 2025,12-03-2025,12-03-2025,10/06/2025
+9045,10066 Dell International Services India Pvt Ltd : SB22320 Dell AI & Innovation Forum events,04-04-2025,05-04-2025,04/07/2025
+9046,10102 Hitachi Vantara India Pvt Ltd : SB22321 Q4 Webinar Registration,25-03-2025,25-03-2025,23/06/2025
+9047,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22322 HPE Team Event – FY25 Planning,06-02-2025,08-02-2025,09/05/2025
+9048,10178 Red Hat India Pvt Ltd : SB22323 Tele Lead Gen Campaign - Dragonfly accounts,30-01-2025,30-01-2025,30/04/2025
+9049,10100 Hindustan Unilever Ltd : SB22324 Hul Board Meeting 2025,20-01-2025,20-01-2025,20/04/2025
+9583,10633 ServiceNow Software Development India Pvt Ltd : SB22325 Infosys legal service delivery sessions,20-01-2025,20-01-2025,20/04/2025
+9050,10178 Red Hat India Pvt Ltd : SB22326 Red Hat Tech Talks Series,24-03-2025,24-03-2025,22/06/2025
+9051,10200 Siemens Ltd : SB22327 Siemens Healthineers DC,07-03-2025,07-03-2025,05/06/2025
+9584,10639 Next Leap Career Solutions Pvt Ltd : SB22328 Next Leap CHRO event,19-02-2025,19-02-2025,20/05/2025
+9585,10634 Sheela Foam Ltd : SB22329 Sleepwell's Founders Day,28-02-2025,28-02-2025,29/05/2025
+9052,10165 OnePlus Technology India Pvt Ltd : SB22330 OnePlus Snapshot masterclass,25-01-2025,25-01-2025,25/04/2025
+9053,10113 Intel Solutions & Services India Pvt Ltd : SB22331 Intel F2F Leadership meet 2025,11-02-2025,13-02-2025,14/05/2025
+9586,10635 Singapore Investcorp India Pvt Ltd : SB22332 Singapore GIC 15th Anniversary Celebration,04-03-2025,04-03-2025,02/06/2025
+9054,10065 Dbs Bank India Ltd : SB22333 DBS Podcast with Taimur Event,28-01-2025,28-01-2025,28/04/2025
+9055,10100 Hindustan Unilever Ltd : SB22334 HUL - Taj Tea Stall,30-01-2025,30-01-2025,30/04/2025
+9056,10293 Brookprop Property Management Services Pvt Ltd : SB22335 Brookfields Waterstones,23-01-2025,29-01-2025,29/04/2025
+9333,10121 National Centre For The Performing Arts : SB22336 Madras Music Academy,23-01-2025,24-01-2025,24/04/2025
+9057,10351 GlaxoSmithKline Consumer Pvt Ltd : SB22337 Glaxo Farewell Video for Raj,23-01-2025,23-01-2025,23/04/2025
+9058,10191 SAP Labs India Pvt Ltd : SB22338 SAP Invent 3.0,23-01-2025,30-03-2025,28/06/2025
+9059,10020 Accenture Solutions Pvt Ltd : SB22339 Accenture Legal Learning Lab,23-01-2025,23-01-2025,23/04/2025
+9332,10120 Eicher Motors Ltd : SB22340 KORA food Street Display Activity,24-01-2025,26-01-2025,26/04/2025
+9589,10636 Modicare Ltd : SB22341 Modiway Launch event,24-01-2025,24-01-2025,24/04/2025
+9060,10020 Accenture Solutions Pvt Ltd : SB22342 Accenture Can Do Awards,20-02-2025,23-02-2025,24/05/2025
+9061,10165 OnePlus Technology India Pvt Ltd : SB22343 OnePlus Pop-up,08-02-2025,18-02-2025,19/05/2025
+9062,10084 GitHub India Pvt Ltd : SB22344 GitHub Galaxy 2025,31-03-2025,05-04-2025,04/07/2025
+9063,10225 The Indian Hotels Company Ltd : SB22345 IHCL STAR Awards 2024,30-01-2025,30-01-2025,30/04/2025
+9064,10190 SAP India Pvt Ltd : SB22346 Platinum Sponsor for BTOPEX India,20-02-2025,21-02-2025,22/05/2025
+9590,10638 Indian Explosives Pvt Ltd : SB22347 Orica Kshitej,27-02-2025,27-02-2025,28/05/2025
+9065,10020 Accenture Solutions Pvt Ltd : SB22348 Accenture Manufacturing Futurecast,17-02-2025,17-02-2025,18/05/2025
+9591,10637 Tata Advanced Systems Ltd : SB22349 Tata Advanced Systems - Memento Order,24-01-2025,24-01-2025,24/04/2025
+9066,10100 Hindustan Unilever Ltd : SB22350 HUL - Novology Booth at Dermacon 2025,06-02-2025,09-02-2025,10/05/2025
+9067,10100 Hindustan Unilever Ltd : SB22351 HUL - Growth Leaders Forum,29-01-2025,29-01-2025,29/04/2025
+9068,10065 Dbs Bank India Ltd : SB22352 DBS Piyush Gupta Farewell,24-02-2025,24-02-2025,25/05/2025
+9069,10100 Hindustan Unilever Ltd : SB22353 HUL Kissan Meeting 2025,28-01-2025,28-01-2025,28/04/2025
+9070,10100 Hindustan Unilever Ltd : SB22354 HUL PC Summit,31-01-2025,31-01-2025,01/05/2025
+9071,10200 Siemens Ltd : SB22355 Siemens Mobility Meet 2025,31-01-2025,31-01-2025,01/05/2025
+9072,10185 Renault Nissan Technology & Business Centre India Pvt Ltd : SB22356 RNTBCi Innovfest 25,05-02-2025,05-02-2025,06/05/2025
+9073,10122 Kiran Nadar Museum of Art : SB22357 KNMA Legacy Series,31-01-2025,31-01-2025,01/05/2025
+9074,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22358 HPE Wipro partner day,04-03-2025,04-03-2025,02/06/2025
+9075,10031 Amazon Seller Services India Pvt Ltd : SB22359 Amazon Brand Film Amplification Plan,30-01-2025,30-01-2025,30/04/2025
+9076,10304 Citi Bank : SB22360 Citi Bank giveaways,30-01-2025,30-01-2025,30/04/2025
+9077,"10103 IKEA India Pvt Ltd : SB22361  IKEA - Feb & Mar Activity from 7th Feb to 30th March 2025,",07-02-2025,30-03-2025,28/06/2025
+9078,10031 Amazon Seller Services India Pvt Ltd : SB22362 Amazon SPS Fire Side Chat,04-02-2025,04-02-2025,05/05/2025
+9592,10640 Bangalore International Airport Ltd : SB22363 BIAL V day installations,01-02-2025,14-02-2025,15/05/2025
+9079,10142 Microsoft Corporation (I) Pvt Ltd : SB22364 Microsoft townhall @ MS Office Gurgaon,06-02-2025,06-02-2025,07/05/2025
+9080,10200 Siemens Ltd : SB22365 Siemens CS Global Workshop,10-02-2025,10-02-2025,11/05/2025
+9081,10431 NatWest Digital Services India Pvt Ltd (RBS Services India Pvt Ltd) : SB22366 NatWest Ruchika Panesar Town Hall Meet,06-02-2025,06-02-2025,07/05/2025
+9082,10102 Hitachi Vantara India Pvt Ltd : SB22367 Hitachi Yes Bank Tech Workshop Nashik,15-02-2025,16-02-2025,17/05/2025
+9083,10100 Hindustan Unilever Ltd : SB22368 Hul R&D Mumbai,07-02-2025,07-02-2025,08/05/2025
+9084,10200 Siemens Ltd : SB22369 Siemens Energy Office branding,10-02-2025,10-02-2025,11/05/2025
+9085,10020 Accenture Solutions Pvt Ltd : SB22370 Accenture  Navigating caregiving – Diverse journeys and expert perspective,05-02-2025,05-02-2025,06/05/2025
+9086,10057 Cognizant Technology Solutions India Pvt Ltd : SB22371 Cognizant CMD Town Hall Meet 2025,04-02-2025,04-02-2025,05/05/2025
+9087,10117 ITC Ltd : SB22372 Itc Learnify Booth,07-02-2025,07-02-2025,08/05/2025
+9088,10204 Skoda Auto Volkswagen India Pvt Ltd : SB22373 Audi RSQ8 Launch event,17-02-2025,17-02-2025,18/05/2025
+9089,10114 Intel Technology India Pvt Ltd : SB22374 Intel Laptop storage space,05-02-2025,25-12-2025,25/03/2026
+9090,10200 Siemens Ltd : SB22375 Siemens locomotive model,25-02-2025,25-02-2025,26/05/2025
+9091,10020 Accenture Solutions Pvt Ltd : SB22376 Ascension Health Client Visit,04-02-2025,11-02-2025,12/05/2025
+9092,10379 Ingka Services LLP : SB22377 INGKA - Hej Day,06-02-2025,06-02-2025,07/05/2025
+9093,10162 Ola Electric Mobility Ltd : SB22378 Ola Roadster Launch,05-02-2025,04-02-2025,05/05/2025
+9094,10219 Tata Sons Pvt Ltd : SB22379 TATA Ethics & Affirmative Action Summit 2025,13-02-2025,13-02-2015,14/05/2015
+9593,10624 Aisle Network Pvt Ltd : SB22380 Aisle Valentines Day,08-02-2025,08-02-2025,09/05/2025
+9095,10034 Amway India Enterprises Pvt Ltd : SB22381 Amway Star Awards,16-03-2025,19-03-2025,17/06/2025
+9096,10217 TATA Consultancy Services Ltd : SB22382 TATA Legal Meet,27-02-2025,01-03-2025,30/05/2025
+9097,10100 Hindustan Unilever Ltd : SB22383 Hul Pukka event,10-02-2025,10-02-2025,11/05/2025
+10198,10708 NTT DATA Business Solutions Pvt Ltd : SB22384 NTT Data - Transformation NOW,18-03-2025,18-03-2025,16/06/2025
+9098,10084 GitHub India Pvt Ltd : SB22385 GitHub Wipro Connect,12-02-2025,12-02-2025,13/05/2025
+9099,10100 Hindustan Unilever Ltd : SB22386 HUL West Branch Connect 2025,08-02-2025,08-02-2025,09/05/2025
+9100,10100 Hindustan Unilever Ltd : SB22387 Hul CD conference 2025,24-02-2025,24-02-2025,25/05/2025
+9101,10200 Siemens Ltd : SB22388 Siemens SSP Launch,15-02-2025,15-02-2025,16/05/2025
+9102,10057 Cognizant Technology Solutions India Pvt Ltd : SB22389 Cognizant Crescendo,13-02-2025,13-02-2025,14/05/2025
+9594,10647 Infifresh Foods Pvt Ltd : SB22390 Captain fresh IPO kick-off event,14-02-2025,14-02-2025,15/05/2025
+9103,10200 Siemens Ltd : SB22391 Siemens - SRE Event,10-02-2025,10-02-2025,11/05/2025
+9104,10128 Lightspeed India Partners Advisors LLP : SB22392 Lightspeed - Lift Off 2025,19-02-2025,21-02-2025,22/05/2025
+9105,10200 Siemens Ltd : SB22393 Siemens GBS Townhall Event,28-02-2025,28-02-2025,29/05/2025
+9106,10200 Siemens Ltd : SB22394 Siemens Veronika Townhall  2025,26-02-2025,26-02-2025,27/05/2025
+9107,10100 Hindustan Unilever Ltd : SB22395 Hul Cornetto Stall at Zomaland,15-02-2025,16-02-2025,17/05/2025
+9108,10066 Dell International Services India Pvt Ltd : SB22396 Dell CSG Launch event,14-05-2025,14-05-2025,12/08/2025
+9109,10114 Intel Technology India Pvt Ltd : SB22397 Intel Cab and Bus for GPTW,24-04-2025,25-04-2025,24/07/2025
+9110,10100 Hindustan Unilever Ltd : SB22398 HUL - B&W Walkthrough,14-02-2025,14-02-2025,15/05/2025
+9111,10039 Autodesk India Pvt Ltd : SB22399 Autodesk Design & Manufacturing Summit 2025,20-03-2025,20-03-2025,18/06/2025
+9112,10178 Red Hat India Pvt Ltd : SB22400 RHEL + Ansible Workshop,25-03-2025,25-03-1935,23/06/1935
+9595,"10662 Indian Electrical & Electronics : SB22401 Elecrama ieema, WUS Dinner,",23-02-2025,23-02-2025,24/05/2025
+9113,10020 Accenture Solutions Pvt Ltd : SB22402 Accenture Duke Energy Client Visit Pune,17-02-2025,17-02-2025,18/05/2025
+9114,10031 Amazon Seller Services India Pvt Ltd : SB22403 Amazone Stamp Purchase,17-02-2025,17-02-2025,18/05/2025
+9115,10084 GitHub India Pvt Ltd : SB22404 GitHub Connect in Chennai,18-02-2025,18-02-2025,19/05/2025
+9116,10034 Amway India Enterprises Pvt Ltd : SB22405 Amway Diamond Forum,19-02-2025,21-02-2025,22/05/2025
+9117,10200 Siemens Ltd : SB22406 siemens Advanta Rainer,15-02-2025,15-02-2025,16/05/2025
+9356,10234 Tvs Srichakra Limitd : SB22407 Tvs Sub Dealer Meet,17-02-2025,17-02-2025,18/05/2025
+9118,10057 Cognizant Technology Solutions India Pvt Ltd : SB22408 Cognizant Acrylic Name Badge,17-02-2025,17-02-2025,18/05/2025
+9596,10649 Skyflow Labs India Pvt Ltd : SB22409 Towards Workshop - Bangalore & Mumbai,17-02-2025,17-02-2025,18/05/2025
+9119,10100 Hindustan Unilever Ltd : SB22410 CNBC x HUL - Lime Season,19-02-2025,19-02-2025,20/05/2025
+9120,10031 Amazon Seller Services India Pvt Ltd : SB22411 Amazon Insurgents & EBE - Summit,18-02-2025,18-02-2025,19/05/2025
+9121,10031 Amazon Seller Services India Pvt Ltd : SB22412 Amazon EBE Summit,19-02-2025,19-02-2025,20/05/2025
+9122,10100 Hindustan Unilever Ltd : SB22413 HUL advantage Assam 2.0,25-02-2025,01-03-2025,30/05/2025
+9123,10024 Adobe Systems India Pvt Ltd : SB22414 Adobe MakeIT,06-03-2025,12-03-2025,10/06/2025
+9124,10260 Adfactors Advertising LLP : SB22415 Adfactors Celebrating the Success of Initial Public Offer,18-02-2025,18-02-2025,19/05/2025
+9125,10065 Dbs Bank India Ltd : SB22416 DBS Bank IBG Townhall 2025,18-02-2025,18-02-2025,19/05/2025
+9126,10293 Brookprop Property Management Services Pvt Ltd : SB22417 Brookprpo ESG REPORT LAUNCH,19-02-2025,19-02-2025,20/05/2025
+9127,10151 Neo4j Inc : SB22418 Towards Graph Summit,18-02-2025,18-02-2025,19/05/2025
+9357,10234 Tvs Srichakra Limitd : SB22419  TVS Srichakra _Eurogrip Petrol Pump Activity & IT Park Activity,18-02-2025,18-02-2025,19/05/2025
+10199,10697 Birla Institute Of Technology : SB22420 BIT Mesra 70 Years Platinum Jubilee Celebration,18-02-2025,18-02-2025,19/05/2025
+9128,10020 Accenture Solutions Pvt Ltd : SB22421 Accenture Moview Tickets,19-02-2025,19-02-2025,20/05/2025
+10200,10704 Jubilant Foodworks Ltd : SB22422 Jubilant Investor Meet 2025,26-02-2025,26-02-2025,27/05/2025
+9129,10100 Hindustan Unilever Ltd : SB22423 HUL - Liquid IV Recovery Party,23-02-2025,23-02-2025,24/05/2025
+9130,10057 Cognizant Technology Solutions India Pvt Ltd : SB22424 Cognizant Impact Awards 2025,24-02-2025,24-02-2025,25/05/2025
+9131,10057 Cognizant Technology Solutions India Pvt Ltd : SB22425 Cognizant Hartford - Noida Facility,26-02-2025,26-02-2025,27/05/2025
+9132,10057 Cognizant Technology Solutions India Pvt Ltd : SB22426 Cognizant Townhall Setup,26-02-2025,27-02-2025,28/05/2025
+9133,10057 Cognizant Technology Solutions India Pvt Ltd : SB22427 Cognizant Suncorp Visit Pune,24-02-2025,24-02-2025,25/05/2025
+9134,"10190 SAP India Pvt Ltd : SB22428 SAP Industry Summit at Westin, Powai",11-03-2025,11-03-2025,09/06/2025
+9135,10114 Intel Technology India Pvt Ltd : SB22429 Intel Premium standee print,21-03-2025,21-03-2025,19/06/2025
+9597,10659 Cellvest Energy Pvt Ltd : SB22430 Cellvest Launch,25-02-2025,26-02-2025,27/05/2025
+9136,10114 Intel Technology India Pvt Ltd : SB22431 Intel AIPC Workshop at ECO Training,28-03-2025,30-05-2025,28/08/2025
+9598,10121 National Centre For The Performing Arts : SB22432 NCPA CONCERT,22-02-2025,22-02-2025,23/05/2025
+9137,10206 Softcell Technologies Global Pvt Ltd : SB22433 SOFTCELL Netapp Event,06-03-2025,06-03-2025,04/06/2025
+9138,10031 Amazon Seller Services India Pvt Ltd : SB22434 Amazon - LAT,21-02-2025,21-02-2025,22/05/2025
+9358,10234 Tvs Srichakra Limitd : SB22435 Tvs Shiprocket,22-02-2025,22-02-2025,23/05/2025
+9139,10024 Adobe Systems India Pvt Ltd : SB22436 Adobe India Leadership Connect,06-03-2025,07-03-2025,05/06/2025
+9140,10004 Asia Pacific Travel Retail Association : SB22437 Aptra India Conference 2025,09-04-2025,09-04-2025,08/07/2025
+9141,10569 V5 TechSol India LLP : SB22438 Netapp V5 Techsol Customer Event,27-02-2025,27-02-2025,28/05/2025
+9142,10178 Red Hat India Pvt Ltd : SB22439 Red Hat Q1 Tech Webinar Series,28-03-2025,28-03-2025,26/06/2025
+9143,10210 Star India Pvt Ltd : SB22440 Star India Kannada Screening,24-02-2025,24-02-2025,25/05/2025
+9144,10190 SAP India Pvt Ltd : SB22441 SAP Booth at NTLF 2025,24-02-2025,25-02-2025,26/05/2025
+9145,"10103 IKEA India Pvt Ltd : SB22442 IKEA - RAI Stall,",27-02-2025,28-02-2025,29/05/2025
+9146,10228 Thoughtworks Technologies India Pvt Ltd : SB22443 THOUGHTWORKS BOOTH at the NASSCOM event,25-02-2025,25-02-2025,26/05/2025
+9599,10669 CIO Association : SB22444 CIO Netskope_CIOKlub event,28-02-2025,28-02-2025,29/05/2025
+9359,10234 Tvs Srichakra Limitd : SB22445 Tvs RRC & MMC SOUTH,25-02-2025,25-02-2025,26/05/2025
+9147,10057 Cognizant Technology Solutions India Pvt Ltd : SB22446 Cognizant MACY'S Client Visit,03-03-2025,03-03-2025,01/06/2025
+9148,10151 Neo4j Inc : SB22447 Neo4J Swags with arrangements,04-03-2025,04-03-2025,02/06/2025
+9149,10403 Lenovo Global Technology (India) Pvt Ltd : SB22448 Adobe Make it,06-03-2025,12-03-2025,10/06/2025
+9150,10200 Siemens Ltd : SB22449 Siemens Digital Kiosk,10-03-2025,20-03-2025,18/06/2025
+9339,10191 SAP Labs India Pvt Ltd : SB22450 SAP Build Day,26-03-2025,26-03-2025,24/06/2025
+9151,10461 Phonepe Pvt Ltd : SB22451 Phonepe Converge,28-02-2025,28-02-2025,29/05/2025
+9706,10686 Inpg Workforce Solutions Pvt Ltd : SB22452 INPG Pinnacle R&R,10-03-2025,10-03-2025,08/06/2025
+9152,10121 Ki Mobility Solutions Pvt Ltd : SB22453 Indoor Showroom Inauguration,07-03-2025,07-03-2025,05/06/2025
+9153,10031 Amazon Seller Services India Pvt Ltd : SB22454 Amazon - LML,27-02-2025,27-02-2025,28/05/2025
+9154,10241 Vivo Mobile India Pvt Ltd : SB22455 Vivo IQOO 10R Launch,11-03-2025,11-03-2025,09/06/2025
+9155,10065 Dbs Bank India Ltd : SB22456 DBS Bank - DBS Technology Roadshow,27-02-2025,27-02-2025,28/05/2025
+9156,10057 Cognizant Technology Solutions India Pvt Ltd : SB22457 Cognizant Gurgaon Client Visit,28-02-2025,28-02-2025,29/05/2025
+9157,10065 Dbs Bank India Ltd : SB22458 DBS CEO Give Away,28-02-2025,28-02-2025,29/05/2025
+10201,10713 The Boston Consulting Group (India) Pvt Ltd : SB22459 BCG Connect Day,04-03-2025,04-03-2025,02/06/2025
+9158,10110 Innocean Worldwide Communication Pvt Ltd : SB22460 HMI Townhall Event 2025,04-03-2025,04-03-2025,02/06/2025
+9159,10293 Brookprop Property Management Services Pvt Ltd : SB22461 Holi 2025 : Pan India Celebration,14-03-2025,14-03-2025,12/06/2025
+9160,10200 Siemens Ltd : SB22462 Siemens DEI Tree Making,04-03-2025,04-03-2025,02/06/2025
+9161,10057 Cognizant Technology Solutions India Pvt Ltd : SB22463 Cognizant NLG Client Visit,03-03-2025,05-03-1935,03/06/1935
+9162,10431 NatWest Digital Services India Pvt Ltd (RBS Services India Pvt Ltd) : SB22464 Natwest Nicola Town Hall Meet,04-03-2025,04-03-2025,02/06/2025
+9163,10100 Hindustan Unilever Ltd : SB22465 HUL CEO Review,05-03-2025,10-03-2025,08/06/2025
+9600,10634 Sheela Foam Ltd : SB22466 Shella Kurlon Business Meet,04-03-2025,04-03-2025,02/06/2025
+9164,10057 Cognizant Technology Solutions India Pvt Ltd : SB22467 Cognizant EDJ Client visit.,03-03-2025,03-03-2025,01/06/2025
+9165,10057 Cognizant Technology Solutions India Pvt Ltd : SB22468 Cognizant Nation Wide.,04-03-2025,04-03-2025,02/06/2025
+9166,10057 Cognizant Technology Solutions India Pvt Ltd : SB22469 Cognizant RBC Client Visit 2025,24-03-2025,26-03-2025,24/06/2025
+9167,10157 Novo Nordisk India Pvt Ltd : SB22470 Novo Nordisk Townhall,05-03-2025,05-03-2025,03/06/2025
+9601,10640 Bangalore International Airport Ltd : SB22471 BIAL Partner Connect 6.0,13-03-2025,14-03-2025,12/06/2025
+10202,10716 Wella India Pvt Ltd : SB22472 Wella Trendvision,11-03-2025,11-03-2025,09/06/2025
+10203,10722 Embassy of Ireland : SB22473 Embassy of Ireland on 17th March 2025,17-03-2025,17-03-2025,15/06/2025
+10204,10703 Hindustan Petroleum Corporation Ltd : SB22474 HPCL Women's Day celebration,08-03-2025,08-03-2025,06/06/2025
+9168,10095 Hero Motocorp Ltd : SB22475 Hero International Women's Day,07-03-2025,08-03-2025,06/06/2025
+10205,10699 Ducati India Pvt Ltd : SB22476 Ducati Panigale V4 Launch,05-03-2025,05-03-2025,03/06/2025
+9340,10087 Google India Pvt Ltd : SB22477 Google YT Shopping X Tech,20-03-2025,20-03-2025,18/06/2025
+9169,10203 Signify Innovations India Ltd : SB22478 Signify Plaque and Certificates,10-03-2025,11-03-2025,09/06/2025
+9341,"10293 Brookprop Property Management Services Pvt Ltd : SB22479 Brookfield IPC Event,",03-07-2025,03-07-2025,01/10/2025
+9170,10065 Dbs Bank India Ltd : SB22480 DBS Piyush Gupta Farewell Photographer,07-03-2025,07-03-2025,05/06/2025
+9929,10120 Eicher Motors Ltd : SB22481 Eicher Womens Day activation,07-03-2025,07-03-2025,05/06/2025
+9930,10234 Tvs Srichakra Limitd : SB22482 Eurogrip RRC Activity FEB 2025,07-03-2025,07-03-2025,05/06/2025
+9931,10095 Hero Motocorp Ltd : SB22483 Hero Xoom Media Drive,08-03-2025,10-03-2025,08/06/2025
+9932,10065 Dbs Bank India Ltd : SB22484 DBS T&O Townhall,12-03-2025,13-03-2025,11/06/2025
+10206,10719 Jamf India Pvt Ltd : SB22485 Jamf CIO Summit event,26-03-2025,26-03-2025,24/06/2025
+9933,10200 Siemens Ltd : SB22486 Siemens Townhall,11-03-2025,11-03-2025,09/06/2025
+9934,10031 Amazon Seller Services India Pvt Ltd : SB22487 Amazon Holi Event,11-03-2025,11-03-2025,09/06/2025
+9935,10179 Redington Ltd : SB22488 NetApp_CrossGen_RIL_Kochi_eventCustomer Event,13-03-2025,13-03-2025,11/06/2025
+9936,10031 Amazon Seller Services India Pvt Ltd : SB22489 Amazon OTS Townhall Meeting.,10-03-2025,10-03-2025,08/06/2025
+9937,10065 Dbs Bank India Ltd : SB22490 DBS Sun board Printings,10-03-2025,10-03-2025,08/06/2025
+9938,10100 Hindustan Unilever Ltd : SB22491 Hul  Magnum x LFW,26-03-2025,30-03-2025,28/06/2025
+9939,10065 Dbs Bank India Ltd : SB22492 DBS Badminton Players  Meet & Greet,28-03-2025,28-03-2025,26/06/2025
+9940,10065 Dbs Bank India Ltd : SB22493 DBS Virtual Photobooth,11-03-2025,11-03-2025,09/06/2025
+9941,10200 Siemens Ltd : SB22494 Siemens GBS Townhall,13-03-2025,13-03-2025,11/06/2025
+9942,10100 Hindustan Unilever Ltd : SB22495 HUL SC Conference 2025,18-03-2025,19-03-2025,17/06/2025
+9943,10100 Hindustan Unilever Ltd : SB22496 HUL MacBook Purchas,12-03-2025,12-03-2025,10/06/2025
+9944,10100 Hindustan Unilever Ltd : SB22497 Hul JBP Meet 2025,12-03-2025,12-03-2025,10/06/2025
+9945,10165 OnePlus Technology India Pvt Ltd : SB22498 OnePlus SFS pop-up,12-03-2025,12-03-2025,10/06/2025
+9946,10165 OnePlus Technology India Pvt Ltd : SB22499 OnePlus Jamnight @ IIT DTU,12-03-2025,12-03-2025,10/06/2025
+9947,10218 Tata Motors Ltd : SB22500 Tata Motors Stealth Mall Activation,16-03-2025,22-03-2025,20/06/2025
+9948,10200 Siemens Ltd : SB22501 Siemens MO Townhall,11-03-2025,11-03-2025,09/06/2025
+9949,10200 Siemens Ltd : SB22502 Siemens Elevate at Siemens Office,12-03-2025,25-03-2025,23/06/2025
+9950,10100 Hindustan Unilever Ltd : SB22503 HUL North Branch Meet 2025,17-03-2025,17-03-2025,15/06/2025
+9951,10031 Amazon Seller Services India Pvt Ltd : SB22504 Amazon - AA Leadership Connect,19-03-2025,19-03-2025,17/06/2025
+9952,10366 Havas Media India Pvt Ltd : SB22505 Jio with arrangements,11-03-2025,11-03-2025,09/06/2025
+9953,10065 Dbs Bank India Ltd : SB22506 DBS India Townhall Q1 2025,21-03-2025,21-03-2025,19/06/2025
+9954,10114 Intel Technology India Pvt Ltd : SB22507 Intel Premium standee delivered,12-03-2025,12-03-2025,10/06/2025
+9955,10114 Intel Technology India Pvt Ltd : SB22508 Intel AIPC Workshop,28-03-2025,28-03-2025,26/06/2025
+10207,10692 Air India Express Ltd : SB22509 Aircraft launch,11-03-2025,11-03-2025,09/06/2025
+9956,10200 Siemens Ltd : SB22510 Siemens Townhall,13-03-2025,13-03-2025,11/06/2025
+9957,10020 Accenture Solutions Pvt Ltd : SB22511 Accenture  Interns Welcome Networking Dinner,04-04-2025,04-04-2025,03/07/2025
+9958,10160 Nvidia Graphics Pvt Ltd : SB22512 Nvidia 2025,25-12-2025,25-12-2025,25/03/2026
+9959,10242 Vmware Software India Pvt Ltd : SB22513 VCF Experience Days and VMUG,30-04-2025,30-04-2025,29/07/2025
+9960,10020 Accenture Solutions Pvt Ltd : SB22514 Accenture RSA Super Star Awards,18-03-2025,18-03-2025,16/06/2025
+9961,10057 Cognizant Technology Solutions India Pvt Ltd : SB22515 Acrylic Name Badge Pune Visit,13-03-2025,13-03-2025,11/06/2025
+9962,10020 Accenture Solutions Pvt Ltd : SB22516 Accenture IHG Client Visit,25-03-2025,25-03-2025,23/06/2025
+9963,10102 Hitachi Vantara India Pvt Ltd : SB22517 Hitachi CIO Klub Chennai chapter event,25-06-2025,25-06-2025,23/09/2025
+9964,10217 TATA Consultancy Services Ltd : SB22518 TATA debossed diaries & pens,17-03-2025,17-03-2025,15/06/2025
+9965,10217 TATA Consultancy Services Ltd : SB22519 TATA debossed Logo Installation,18-03-2025,18-03-2025,16/06/2025
+9966,10649 Skyflow Labs India Pvt Ltd : SB22520 Towards Workshop - Delhi,27-04-2025,27-04-2025,26/07/2025
+9967,10100 Hindustan Unilever Ltd : SB22521 Hul Indulekha - Good Hair Day,18-03-2025,18-03-2025,16/06/2025
+10208,10720 Maruti Suzuki India Ltd : SB22522 Maruti Flatbed Requirement,28-03-2025,28-03-2025,26/06/2025
+9968,10185 Renault Nissan Technology & Business Centre India Pvt Ltd : SB22523 RNTBCI Cohort 2 Start Up Pitch awards,19-03-2025,19-03-2025,17/06/2025
+9969,10031 Amazon Seller Services India Pvt Ltd : SB22524 Amazon - eCF Leadership 2025,19-03-2025,19-03-2025,17/06/2025
+9970,10351 GlaxoSmithKline Consumer Pvt Ltd : SB22525 GlaxoSmithKline Certificates & Trophies,19-03-2025,19-03-2025,17/06/2025
+9971,10020 Accenture Solutions Pvt Ltd : SB22526 Accenture International Women's Day 2025,19-03-2025,19-03-2025,17/06/2025
+9972,10084 GitHub India Pvt Ltd : SB22527 GitHub connect - Razorpay in Bangalore,18-03-2025,18-03-2025,16/06/2025
+9973,10142 Microsoft Corporation (I) Pvt Ltd : SB22528 Microsoft townhall,18-03-2025,18-03-2025,16/06/2025
+9974,10057 Cognizant Technology Solutions India Pvt Ltd : SB22529 Cognizant Allianz Client Visit,24-03-2025,24-03-2025,22/06/2025
+10209,10711 Sonata Software Ltd : SB22530 Photographer requirement for Sonata Software - Meet,18-03-2025,18-03-2025,16/06/2025
+10210,10715 Tvs Vehicle Mobility Solution Pvt Ltd : SB22531 TVS VEHICLE MOBILITY Sign Board,18-03-2025,18-03-2025,16/06/2025
+9975,10431 NatWest Digital Services India Pvt Ltd (RBS Services India Pvt Ltd) : SB22532 Natwest Logistics Town Hall Meet,26-03-2025,26-03-2025,24/06/2025
+9976,10031 Amazon Seller Services India Pvt Ltd : SB22533 Amazon trifold Posters,21-03-2025,21-03-2025,19/06/2025
+9977,10057 Cognizant Technology Solutions India Pvt Ltd : SB22534 Cognizant US Bank Client Visit,24-03-2025,31-03-2025,29/06/2025
+9978,10057 Cognizant Technology Solutions India Pvt Ltd : SB22535 Cognizant US Bank Client Visit,04-04-2025,04-04-2025,03/07/2025
+9979,10304 Citi Bank : SB22536 Citi Bank - Photographer,19-03-2025,19-03-2025,17/06/2025
+9980,10200 Siemens Ltd : SB22537 Siemens Dahod Ministry Visit,19-03-2025,19-03-2025,17/06/2025
+9981,10133 Mahindra & Mahindra Ltd : SB22538 Mahindra GSO Offsite Decor,27-03-2025,27-03-2025,25/06/2025
+9982,10034 Amway India Enterprises Pvt Ltd : SB22539 Amway Doug DeVos India Leadership Summit,24-03-2025,24-03-2025,22/06/2025
+9983,10190 SAP India Pvt Ltd : SB22540 SAP NOW 2025,23-04-2025,23-04-2025,22/07/2025
+9984,10633 ServiceNow Software Development India Pvt Ltd : SB22541 Networking Event @ IPL Chinnaswamy Stadium,18-04-2025,18-04-2025,17/07/2025
+9985,10058 Confluent India Pvt Ltd : SB22542 Confluent Booklet Printing,25-03-2025,25-03-2025,23/06/2025
+9986,10293 Brookprop Property Management Services Pvt Ltd : SB22543 BROOKFIELD POWAI - CUSTOMER EXPERIENCE JOURNEY,21-03-2025,21-03-2025,19/06/2025
+9987,10114 Intel Technology India Pvt Ltd : SB22544 Intel GPTW activities,20-03-2025,20-03-2025,18/06/2025
+9988,10102 Hitachi Vantara India Pvt Ltd : SB22545 Hitachi SKO 25,23-04-2025,25-04-2025,24/07/2025
+9989,10057 Cognizant Technology Solutions India Pvt Ltd : SB22546 Cognizant Computershare Client Visit,26-03-2025,26-03-2025,24/06/2025
+9990,10031 Amazon Seller Services India Pvt Ltd : SB22547 Amazon Booth - Soul Sante,23-03-2025,23-03-2025,21/06/2025
+9991,10128 Lightspeed India Partners Advisors LLP : SB22548 LSIP - Pickleball Tournament,23-03-2025,23-03-2025,21/06/2025
+9992,10200 Siemens Ltd : SB22549 Siemens CEO Townhall Event,19-03-2025,19-03-2025,17/06/2025
+9993,10140 Metro Cash & Carry India Pvt Ltd : SB22550 Metro Cash & Carry - Annual Meet,26-03-2025,28-03-2025,26/06/2025
+9994,10165 OnePlus Technology India Pvt Ltd : SB22551 OnePlus pop-up,29-03-2025,30-03-2025,28/06/2025
+9995,10100 Hindustan Unilever Ltd : SB22552 Hul  Grat Fest 2025,25-03-2025,25-03-2025,23/06/2025
+9996,10200 Siemens Ltd : SB22553 Siemens SRE Townhall,25-03-2025,25-03-2025,23/06/2025
+9997,10676 Goc Services India Pvt Ltd : SB22554 GOC - Backdrop Installation,24-03-2025,24-03-2025,22/06/2025
+9998,10031 Amazon Seller Services India Pvt Ltd : SB22555 Amazon AFBP Graduation Ceremony,24-03-2025,24-03-2025,22/06/2025
+9999,10031 Amazon Seller Services India Pvt Ltd : SB22556 Amazon Smart Wallet Launch,26-03-2025,26-03-2025,24/06/2025
+10000,10165 OnePlus Technology India Pvt Ltd : SB22557 OnePlus Jam Night in Delhi,23-03-2025,23-03-2025,21/06/2025
+10001,10057 Cognizant Technology Solutions India Pvt Ltd : SB22558 Cognizant Nationwide Client Visit,28-03-2025,01-04-2025,30/06/2025
+10002,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22559 HPE Cloud Connect,25-04-2025,25-04-2025,24/07/2025
+10003,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22560 HPE Aruba Networking Day,27-03-2025,27-03-2025,25/06/2025
+10004,"10066 Dell International Services India Pvt Ltd : SB22561 Dell - Indian Express events in May - 21, 22, 28 & 30th May",21-05-2025,30-05-2025,28/08/2025
+10005,"10066 Dell International Services India Pvt Ltd : SB22562 Dell - Indian Express events in June - 4, 12 & 18th June.",04-06-2025,18-06-2025,16/09/2025
+10006,"10066 Dell International Services India Pvt Ltd : SB22563 Dell - Indian Express events in July - 2, 9 & 16th July",02-07-2025,16-07-2025,14/10/2025
+10007,10046 BP Business Solutions India Pvt Ltd : SB22564 BP India LT Dinner,01-04-2025,01-04-2025,30/06/2025
+10008,10036 Apparel Resources Pvt Ltd : SB22565 Apparel Fashion Tech World,03-04-2025,04-04-2025,03/07/2025
+10009,10100 Hindustan Unilever Ltd : SB22566 HUL MT Conference 2025,27-03-2025,27-03-2025,25/06/2025
+10010,10065 Dbs Bank India Ltd : SB22567 DBS Plasma Installation,04-04-2025,04-04-2025,03/07/2025
+10011,10218 Tata Motors Ltd : SB22568 Tata Motors Investor Day 2025,09-06-2025,09-06-2025,07/09/2025
+10012,10241 Vivo Mobile India Pvt Ltd : SB22569 Vivo V50e in Mumbai,10-04-2025,10-04-2025,09/07/2025
+10013,10020 Accenture Solutions Pvt Ltd : SB22570 Accenture Photographer Requirement - Multi City,07-04-2025,07-04-2025,06/07/2025
+10014,10114 Intel Technology India Pvt Ltd : SB22571 Intel Booth at Start Up Mahakumbh,03-04-2025,05-04-1935,04/07/1935
+10015,10277 Astrazeneca India Pvt Ltd : SB22572 Team Bonding - Astrazeneca,01-04-2025,01-04-2025,30/06/2025
+10016,10031 Amazon Seller Services India Pvt Ltd : SB22573 Amazon Townhall Meeting,28-03-2025,28-03-2025,26/06/2025
+10017,10165 OnePlus Technology India Pvt Ltd : SB22574 OnePlus OEF,05-04-2025,06-04-2025,05/07/2025
+10018,10046 BP Business Solutions India Pvt Ltd : SB22575 BP All India Townhall 2025,01-04-2025,01-04-2025,30/06/2025
+10019,10185 Renault Nissan Technology & Business Centre India Pvt Ltd : SB22576 RNTBCI Gemba visit,01-04-2025,04-04-2025,03/07/2025
+10020,10095 Hero Motocorp Ltd : SB22577 Hero DIC Zonal Meet,07-04-2025,18-04-2025,17/07/2025
+10021,10200 Siemens Ltd : SB22578 Siemens Switch board Factory 50 years,05-04-2025,05-04-2025,04/07/2025
+10211,10719 Jamf India Pvt Ltd : SB22579 CIO Summit event,25-04-2025,25-04-2025,24/07/2025
+10022,10102 Hitachi Vantara India Pvt Ltd : SB22580 Towards CIO Roundtable in Bangalore,04-04-2025,04-04-2025,03/07/2025
+10023,10055 Clarivate Analytics India Pvt Ltd : SB22581 Booking the hotel Aloft New Delhi,08-04-2025,08-04-2025,07/07/2025
+10024,10046 BP Business Solutions India Pvt Ltd : SB22582 BP Exploration,02-04-2025,02-04-2025,01/07/2025
+10025,10065 Dbs Bank India Ltd : SB22583 DBS Webinar session with Navneet Munot,02-04-2025,02-04-2025,01/07/2025
+10214,10700 Asus Global Pte Ltd : SB22584 Asus P series Launch,15-04-2025,15-04-2025,14/07/2025
+10026,10217 TATA Consultancy Services Ltd : SB22585 Tata Giveaways,10-04-2025,10-04-2025,09/07/2025
+10027,10100 Hindustan Unilever Ltd : SB22586 Hul R&D Leadership Forum,04-04-2025,04-04-2025,03/07/2025
+10028,10633 ServiceNow Software Development India Pvt Ltd : SB22587 Towards Giveaway Production,02-04-2025,02-04-2025,01/07/2025
+10212,10721 Superhealth Hospitals Pvt Ltd : SB22588 Superhealth Hospital Branding,10-04-2025,10-04-2025,09/07/2025
+10029,10031 Amazon Seller Services India Pvt Ltd : SB22589 Amazon - L 7 Recognition,02-04-2025,02-04-2025,01/07/2025
+10030,10066 Dell International Services India Pvt Ltd : SB22590 Dell ISG Launch in Pune,11-06-2025,11-06-2025,09/09/2025
+10031,10066 Dell International Services India Pvt Ltd : SB22591 Dell CSG Launch in Hyderabad,25-06-2025,25-06-2025,23/09/2025
+10032,10024 Adobe Systems India Pvt Ltd : SB22592 Adobe Director Summit,04-04-2025,04-04-2025,03/07/2025
+10033,10057 Cognizant Technology Solutions India Pvt Ltd : SB22593 Cognizant Client Visit Raheja,07-04-2025,09-04-2025,08/07/2025
+10034,10200 Siemens Ltd : SB22594 Siemens 100 years traction: Bharat Mandapam Stall,18-04-2025,18-04-2025,17/07/2025
+10035,10103 IKEA India Pvt Ltd : SB22595 IKEA - May Activity,03-05-2025,03-05-2025,01/08/2025
+10036,10178 Red Hat India Pvt Ltd : SB22596 Red Hat Tech Talk Event Series,15-06-2025,15-06-2025,13/09/2025
+10037,10234 Tvs Srichakra Limitd : SB22597 Tvs Shiprocket Recharge,25-04-2025,25-04-2025,24/07/2025
+10581,10122 Kiran Nadar Museum of Art : SB22598 KNMA WithIn by Aditi Mangaldas,24-04-2025,24-04-2025,23/07/2025
+10038,10191 SAP Labs India Pvt Ltd : SB22599 SAP Innovation Days,07-04-2025,07-04-2025,06/07/2025
+10039,10020 Accenture Solutions Pvt Ltd : SB22600 Accenture Client event,15-04-2025,15-04-2025,14/07/2025
+10213,10723 Novo Nordisk Pharma (Singapore) Pte Ltd : SB22601 Proposal for Novo Nordisk Q1 Digest,07-04-2025,07-04-2025,06/07/2025
+10040,10100 Hindustan Unilever Ltd : SB22602 HUL - B&W JBP Myntra Meet 2025,07-04-2025,07-04-2025,06/07/2025
+10041,10200 Siemens Ltd : SB22603 Siemens Individual PVC card with QR code,26-05-2025,26-05-2025,24/08/2025
+10042,10031 Amazon Seller Services India Pvt Ltd : SB22604 Amazon rockstars Gurgaon,10-04-2025,10-04-2025,09/07/2025
+10043,10114 Intel Technology India Pvt Ltd : SB22605 Intel Premium standee print,08-04-2025,08-04-2025,07/07/2025
+10044,10217 TATA Consultancy Services Ltd : SB22606 TCS W10K 2025,27-04-2025,27-04-2025,26/07/2025
+10045,10633 ServiceNow Software Development India Pvt Ltd : SB22607 ServiceNow Giveaways,25-04-2025,25-04-2025,24/07/2025
+10046,10200 Siemens Ltd : SB22608 Siemens Mobility Works,09-04-2025,09-04-2025,08/07/2025
+10047,10103 IKEA India Pvt Ltd : SB22609 IKEA - April Activity,18-04-2025,18-04-2025,17/07/2025
+10535,10031 Amazon Seller Services India Pvt Ltd : SB22610 Amazon Whiteboard Animation video project,11-04-2025,11-04-2025,10/07/2025
+10536,10725 Bumblebee Networks : SB22611 Bumblebee Fun Activities,11-04-2025,11-04-2025,10/07/2025
+10582,10089 Greenlam Industries Ltd : SB22612 Greenlam GT Launch,24-04-2025,24-04-2025,23/07/2025
+10583,10018 Vinfast Auto India Pvt Ltd : SB22613 VinFast Digital Promotions,25-04-2025,25-04-2025,24/07/2025
+10537,10214 Tally Solutions Pvt Ltd : SB22614 Tally Mahasabha 2025,28-04-2025,28-04-2025,27/07/2025
+10584,10110 Innocean Worldwide Communication Pvt Ltd : SB22615 Kia Clavis Hybrid,07-05-2025,07-05-2025,05/08/2025
+10538,10102 Hitachi Vantara India Pvt Ltd : SB22616  HDFC Bank Tech Workshop HYD,17-04-2025,17-04-2025,16/07/2025
+10539,10057 Cognizant Technology Solutions India Pvt Ltd : SB22617 Cognizant NW visit,16-04-2025,18-04-2025,17/07/2025
+10585,10110 Innocean Worldwide Communication Pvt Ltd : SB22618 Hyundai Global Service Seminar 2025,28-04-2025,30-04-2025,29/07/2025
+10540,10200 Siemens Ltd : SB22619 Siemens - HR Offiste 2025,23-04-2025,25-04-2025,24/07/2025
+10541,10170 Palo Alto Networks (India) Pvt Ltd : SB22620 Palo Cybersecurity Leadership Summitt,09-05-2025,11-05-2025,09/08/2025
+10542,10730 TechnoBind Solutions Pvt Ltd : SB22621 Towards T-shirts with branding - Partner Kick Off,16-04-2025,16-04-2025,15/07/2025
+10586,10142 Microsoft Corporation (I) Pvt Ltd : SB22622 Townhall at Microsoft,22-04-2025,22-04-2025,21/07/2025
+10587,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22623 HPE Zerto Enablement,16-04-2025,16-04-2025,15/07/2025
+10543,10461 Phonepe Pvt Ltd : SB22624 Phone Pe - Converge,16-04-2025,16-04-2025,15/07/2025
+10544,10157 Novo Nordisk India Pvt Ltd : SB22625 GBS Finance Offsite ,16-04-2025,16-04-2025,15/07/2025
+10588,10024 Adobe Systems India Pvt Ltd : SB22626 Adobe Elite Circle,08-05-2025,08-05-2025,06/08/2025
+10545,10431 NatWest Digital Services India Pvt Ltd (RBS Services India Pvt Ltd) : SB22627 Natwest Nasscom GCC Summit 2025,22-04-2025,23-04-2025,22/07/2025
+10546,10178 Red Hat India Pvt Ltd : SB22628 Red ABM Account Day,04-06-2025,04-06-2025,02/09/2025
+10547,10212 STT Global Data Centres India Pvt Ltd : SB22629 STT Advantage Employee offsite,21-05-2025,25-05-2025,23/08/2025
+10589,10024 Adobe Systems India Pvt Ltd : SB22630 Adobe Partner Summit hotel,18-06-2025,18-06-2025,16/09/2025
+10548,10178 Red Hat India Pvt Ltd : SB22631 Red Hat BFSI Summit,11-06-2025,11-06-2025,09/09/2025
+10549,"10020 Accenture Solutions Pvt Ltd : SB22632 Accenture stall @ NASSCOM GCC Summit,",23-04-2025,23-04-2025,22/07/2025
+10550,10057 Cognizant Technology Solutions India Pvt Ltd : SB22633 Cognizant - Client Visit,21-04-2025,21-04-2025,20/07/2025
+10551,10178 Red Hat India Pvt Ltd : SB22634 Red Hat Immersion Day - Mumbai | Q2,11-06-2025,11-06-2025,09/09/2025
+10552,10031 Amazon Seller Services India Pvt Ltd : SB22635 Amazon BOX Installation,21-04-2025,21-04-2025,20/07/2025
+10553,10249 WM Global Technology Services India Pvt Ltd : SB22636 Walmart Townhall,28-04-2025,28-04-2025,27/07/2025
+10554,10431 NatWest Digital Services India Pvt Ltd (RBS Services India Pvt Ltd) : SB22637 Natwest Ruchika Town Hall Meet,28-04-2025,28-04-2025,27/07/2025
+10555,10178 Red Hat India Pvt Ltd : SB22638 Red Hat F & B,29-04-2025,29-04-2025,28/07/2025
+10556,10293 Brookprop Property Management Services Pvt Ltd : SB22639 BROOKFIELD DC VS RCB IPL,27-04-2025,27-04-2025,26/07/2025
+10590,10087 Google India Pvt Ltd : SB22640 YTCC X-Waves,02-05-2025,02-05-2025,31/07/2025
+10557,10200 Siemens Ltd : SB22641 Siemens GBS SSON Visit,25-04-2025,25-04-2025,24/07/2025
+10558,10031 Amazon Seller Services India Pvt Ltd : SB22642 Amazon Townhall event,23-04-2025,23-04-2025,22/07/2025
+10559,10249 WM Global Technology Services India Pvt Ltd : SB22643 AI@Walmart,25-04-2025,25-04-2025,24/07/2025
+10560,10111 Intel Americas INC : SB22644 Intel - Webinr Series for Audience Acquasition,29-04-2025,25-06-2025,23/09/2025
+10561,"10100 Hindustan Unilever Ltd : SB22645 Hul Shiva's Farewell Event,",24-04-2024,24-04-2024,23/07/2024
+10591,10095 Hero Motocorp Ltd : SB22646 Hero Farwell event,23-04-2025,23-04-2025,22/07/2025
+10562,10735 Indo-French Chamber Of Commerce & Industry : SB22647 Indo IFCCI Seminar. ,24-04-2025,24-04-2025,23/07/2025
+10563,10133 Mahindra & Mahindra Ltd : SB22648 Mahindra Press & Analyst Meet,05-05-2025,05-05-2025,03/08/2025
+10564,10057 Cognizant Technology Solutions India Pvt Ltd : SB22649 Cognizant Zumba activity,24-04-2025,24-04-2025,23/07/2025
+10565,10123 Kotak Mahindra Bank Ltd : SB22650 Kotak Townhall with CEO,05-05-2025,06-05-2025,04/08/2025
+10566,10031 Amazon Seller Services India Pvt Ltd : SB22651 Amazon IN Finance Career Day 2025,28-04-2025,28-04-2025,27/07/2025
+10567,10031 Amazon Seller Services India Pvt Ltd : SB22652 Amazon collateral design and print,24-04-2025,24-04-2025,23/07/2025
+10568,10200 Siemens Ltd : SB22653 SS Plate _SEIL Name Plates,15-05-2025,15-05-2025,13/08/2025
+10569,10031 Amazon Seller Services India Pvt Ltd : SB22654 Amazon Transcend Graduation,29-04-2025,29-04-2025,28/07/2025
+10570,10178 Red Hat India Pvt Ltd : SB22655 Red ACE Program - Aditya Birla Group,26-05-2025,26-05-2025,24/08/2025
+10592,10165 OnePlus Technology India Pvt Ltd : SB22656 OnePlus Masterclass,26-04-2025,26-04-2025,25/07/2025
+10593,10087 Google India Pvt Ltd : SB22657 Google YT Shopping Lifestyle edition,30-05-2025,30-05-2025,28/08/2025
+10571,10178 Red Hat India Pvt Ltd : SB22658 Red Hat Immersion Day,29-05-2025,29-05-2025,27/08/2025
+10572,10031 Amazon Seller Services India Pvt Ltd : SB22659 Amazon Day One at Work,28-04-2025,28-04-2025,27/07/2025
+10573,10100 Hindustan Unilever Ltd : SB22660 HUL iSight App Showcase,28-04-2025,28-04-2025,27/07/2025
+10574,10526 Takasago International India Pvt Ltd : SB22661 Takasago Food solution centre Inauguration,01-05-2025,01-05-2025,30/07/2025
+10594,10218 Tata Motors Ltd : SB22662 Tata Fleet Management at Waves,29-04-2025,05-05-2025,03/08/2025
+10575,10200 Siemens Ltd : SB22663 Siemens Canteen Inauguration Event,01-05-2025,01-05-2025,30/07/2025
+10595,10034 Amway India Enterprises Pvt Ltd : SB22664 Amway BBS Multicity events,18-05-2025,22-07-2025,20/10/2025
+10576,10678 Embee Software Pvt Ltd : SB22665 CIO KERALA CHAPTER,09-05-2025,09-05-2025,07/08/2025
+10596,10097 Hewlett Packard Enterprise India Pvt Ltd : SB22666 HPE Aruba CXO Meet,05-05-2025,07-05-2025,05/08/2025
+10577,10736 International SOS Services (India) Pvt Ltd : SB22667 40th Year Anniversary,05-05-2025,05-05-2025,03/08/2025
+10578,10293 Brookprop Property Management Services Pvt Ltd : SB22668 Brookprop WATERSTONES,02-05-2025,02-05-2025,31/07/2025
+6489,10100 Hindustan Unilever Ltd : SB:9 Test Project 009,06-01-2025,31-03-2025,29/06/2025
+6490,Test Customer 001 - Shobiz : SB:10 The blue flames lab private limited,06-01-2025,31-01-2025,01/05/2025
+10644,10200 Siemens Ltd : Siemens Test Project 120525,12-05-2025,31-12-2025,31/03/2026
+9787,BFL test Customer : Test KT Project,08-04-2025,30-05-2025,28/08/2025
+1349,Test Customer 001 - Shobiz : Test Project 001 - Shobiz,28-11-2024,31-03-2025,29/06/2025
+1450,Test Customer 001 - Shobiz : Test Project 002 - Shobiz,28-11-2024,31-12-2024,31/03/2025
+9785,Test Customer 001 - Shobiz : Test project 04 2025,04-04-2025,30-04-2025,29/07/2025
+10646,Test Customer 001 - Shobiz : Test Project 12-05-25,12-05-2025,24-09-2025,23/12/2025
+10645,Test Customer 001 - Shobiz : Test Project 12/05,12-05-2025,24-06-2025,22/09/2025
+10657,Test Customer 001 - Shobiz : Test Project 15 05,15-05-2025,24-06-2025,22/09/2025
+10643,10020 Accenture Solutions Pvt Ltd : Test Shobiz Project - 12052025,12-05-2025,31-12-2025,31/03/2026
+10298,BFL test Customer : testing- project practice,15-04-2025,30-04-2025,29/07/2025

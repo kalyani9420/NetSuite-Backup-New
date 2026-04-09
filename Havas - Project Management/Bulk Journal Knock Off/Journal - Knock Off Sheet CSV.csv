@@ -1,0 +1,3 @@
+Customer Name (in Netsuite),Receipt Voucher Number,Subsidiary Location,A/R Account,Bank Account,Receipt Date,Invoice Voucher Number,Payment Amount,Journal Voucher Number,Journal Amount to Apply
+1348,Test/01/2025,1,119,3153,26/04/2025,15521,1500,38070,50
+1348,Test/02/2025,1,119,3153,26/05/2025,21143,1500,10513,270

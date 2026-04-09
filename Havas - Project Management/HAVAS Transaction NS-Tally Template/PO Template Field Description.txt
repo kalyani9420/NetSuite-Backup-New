@@ -1,0 +1,61 @@
+PO Field Mapping :
+
+External Id - Voucher Number 
+
+Created By - Other Refernce
+
+PO Date - Date
+
+Vendor - Vendor
+
+Type of Expense - 
+If PO is related to Project then Select 'Direct'
+If PO is not related to Project then Select 'Indirect'
+
+Nature Of Document - Invoices for inward supply from unregistered person
+
+Place Of Supply - State of Vendor
+
+Subsidiary - Shobiz Experiential Communications Pvt Ltd
+
+Subsidiary Location , Line Of Business & Department -
+If PO is related to Project then above field will map with the project's Subsidiary Location , Line Of Business & Department
+If PO is not related to Project then above field will be blank
+
+Approval status - Pending Approval
+
+Terms - Terms of Payment
+
+Currency - Indian Rupee
+
+Ship to - Keep Blank
+
+Item - Item (Havas Template)
+
+Rate - Rate (Havas Template)
+
+Quantity - Quantity (Havas Template)
+
+Amount - Keep Blank
+
+Project -
+If PO related to project then select SB code else keep it blank
+
+HSN and SAC Code - CGST+SGST / IGST (Havas Template)
+Note : This will be map with HSN and SAC Code and HSN and SAC %
+
+
+India Tax Nature - Service
+
+Nexus - Branch Name (Havas Template) 
+Note : Nexus-Maharashtra will be the default nexus according to shobiz subsidiary address.
+
+Nexus Overide - If the branch name is not Maharashtra, then Nexus override will be true, and select the appropriate nexus according to Havas Template.
+
+
+
+
+Question To Ask :
+1. 9 Project has not imported to project because of missing customer in HAVAS customer master
+2. Studio Merchandies PO mapping for CGST SGST (Line No 299)
+ 

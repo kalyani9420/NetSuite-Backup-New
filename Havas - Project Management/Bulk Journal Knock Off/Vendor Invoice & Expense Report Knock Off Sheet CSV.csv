@@ -1,0 +1,5 @@
+Vendor /Employee Name (in Netsuite),Payment Voucher Number,Subsidiary Location,A/P Account,Bank Account,Payment Date,Vendor Invoice/ Bill Credit / Expense Report Voucher Number,Payment Amount,Journal Voucher Number,Journal Amount to Apply
+1347,Test/27/11,4,2452,3162,15/04/2025,23616,2000,38909,-5000
+1347,Test/27/11,4,2452,3162,15/04/2025,18804,2000,38908,-4000
+1347,Test/27/11,4,2452,3162,15/04/2025,10177,6200,,
+8,Test/28/11,3,2452,3162,16/04/2025,34565,5000,38914,-5000

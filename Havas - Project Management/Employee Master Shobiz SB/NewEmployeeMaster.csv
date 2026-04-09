@@ -1,0 +1,327 @@
+Employee ID,firstName,lastName,Full Name,Email,Mobile Phone,City,Job Title,PAN,Bank Name,Account Number,IFSC Code,Bank Account Type
+1044801,Sajid,Shaikh,Sajid Shaikh,sajid.shaikh@shobizhavas.com,7021636548,Mumbai,Deputy General Manager - Accounts,ADUPM1330N,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044802,Rajaram,Shinde,Rajaram Shinde,rajaram.shinde@shobizhavas.com,9322652481,Mumbai,Manager - Administration,CVIPS8539M,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044803,Rahul,Deherkar,Rahul Deherkar,rahul.deherkar@shobizhavas.com,9323282342,Mumbai,Client Servicing Director,AJRPD0115D,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044806,Mangesh,Waghmare,Mangesh Waghmare,mangesh.waghmare@shobizhavas.com,9324141176,Mumbai,MANAGER - OPERATIONS,AAVPW8202F,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044807,Sohan,Darekar,Sohan Darekar,sohan.darekar@shobizhavas.com,9322905601,Mumbai,Associate Vice President - Strategic Business Unit & Digital,AKVPD2840A,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044808,Sarita,Stokes,Sarita Stokes,sarita.stokes@shobizhavas.com,9833404830,Mumbai,Executive Assistant to CEO,AJWPS0965R,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044809,Anil Kumar,Singh,Anil Kumar Singh,anil.singh@shobizhavas.com,9910352121,Delhi/ Gurgaon,Senior Manager - Operations,BMPPS9030J,HDFC Bank,2.71E+11,HDFC0000060,Savings
+1044810,Sidhant,Saxena,Sidhant Saxena,sidhant.saxena@shobizhavas.com,9873452555,Delhi/ Gurgaon,Senior Vice President - Strategic Business Unit,AWRPS1718A,HDFC Bank,9.21E+11,HDFC0000060,Savings
+1044813,Ashutosh,Darekar,Ashutosh Darekar,ashutosh.darekar@shobizhavas.com,7498285429,Mumbai,Head - Audience Acquisition (IEMS),ATJPD4230D,HDFC Bank,5.40E+12,HDFC0000540,Savings
+1044814,Nandini,Nair,Nandini Nair,nandini.nair@shobizhavas.com,9341828781,Bangalore,Account Director,AFBPN8893E,HDFC Bank,5.31E+11,HDFC0000053,Savings
+1044815,Jagdish Kumar,Singh,Jagdish Kumar Singh,jagdish.singh@shobizhavas.com,9313826815,Delhi/ Gurgaon,Associate Director - Operations,COPPS1162A,HDFC Bank,3.37E+12,HDFC0000060,Savings
+1044816,Sachin,Daripkar,Sachin Daripkar,sachin.daripkar@shobizhavas.com,9920575599,Mumbai,Experience Design Director,AEXPD5636C,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044818,Abhimanyu,Awate,Abhimanyu Awate,abhimanyu.awate@shobizhavas.com,9619685501,Mumbai,Associate Experience Design Director,AQMPA6734D,HDFC Bank,3.57E+12,HDFC0000357,Savings
+1044819,Kundan,Badiwal,Kundan Badiwal,kundan.badiwal@shobizhavas.com,9818794283,Delhi/ Gurgaon,Associate Vice President - Strategic Business Unit,APEPB1944D,HDFC Bank,2.72E+11,HDFC0000060,Savings
+1044820,Prasad,Naik,Prasad Naik,prasad.naik@shobizhavas.com,9892499454,Mumbai,Associate Director - IT,ABZPN0407G,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044821,Sameer,Doshi,Sameer Doshi,sameer.doshi@shobizhavas.com,9867183001,Mumbai,Associate Graphic Design Director,AKPPD5576R,Kotak Mahindra Bank,3249464664,KKBK0000958,Savings
+1044822,Nandlal,Rajora,Nandlal Rajora,nandlal.rajora@shobizhavas.com,9820923343,Mumbai,Manager - Sourcing,AJVPR1967K,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044826,Hazarat,Ansari,Hazarat Ansari,hazarat.ansari@shobizhavas.com,9323359978,Mumbai,Associate Account Director,AMFPA0123M,Kotak Mahindra Bank,3249440538,KKBK0000958,Savings
+1044827,Abdul,Rahman,Abdul Rahman,abdul.rehman@shobizhavas.com,9379441692,Bangalore,Senior Manager - Operations,AMPPA7056B,HDFC Bank,7.51E+11,HDFC0000075,Savings
+1044829,Sagar,Khedekar,Sagar Khedekar,sagar.khedekar@shobizhavas.com,9322885046,Mumbai,Associate Director - MICE,ATMPK1355R,HDFC Bank,4.08E+12,HDFC0000408,Savings
+1044830,Mohammed,Waris,Mohammed Waris,mohd.waris@shobizhavas.com,9313716837,Delhi/ Gurgaon,Associate Graphic Design Director,ABFPW8310H,HDFC Bank,2.71E+11,HDFC0000060,Savings
+1044833,Nazia,M,Nazia M,nazia.mohammed@shobizhavas.com,7483389880,Bangalore,Associate Director - Response (IEMS),AHYPN3956H,HDFC Bank,7.51E+11,HDFC0000075,Savings
+1044835,Neetu Prakash,Poojary,Neetu Prakash Poojary,neetuprakash.poojary@shobizhavas.com,7498793105,Mumbai,Associate Director - IT,APAPP3346K,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044836,Vyshali,PK,Vyshali PK,vyshali.pk@shobizhavas.com,8217483973,Bangalore,Senior Manager - Response (IEMS),AHUPV2721N,HDFC Bank,7.51E+11,HDFC0000075,Savings
+1044838,Aravind,Kumar.S,Aravind Kumar.S,aravind.kumar@shobizhavas.com,9840060258,Chennai,Director - Strategic Business Unit,AJTPA7071P,HDFC Bank,1.11E+12,HDFC0002014,Savings
+1044841,Megha,Mittal,Megha Mittal,megha.mittal@shobizhavas.com,7483291220,Bangalore,Senior Manager - Audience Acquisition (IEMS),BOZPM1383Q,HDFC Bank,7.51E+11,HDFC0000075,Savings
+1044843,Chetan,Handa,Chetan Handa,chetan.handa@shobizhavas.com,9323282174,Mumbai,Senior Vice President - Operations,ABDPH6897E,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044846,Hemanand,Karkera,Hemanand Karkera,hemanand.karkera@shobizhavas.com,9324624934,Mumbai,Associate Director - DBMS (IEMS),AWQPK1816L,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044848,Sikandar,Shaikh,Sikandar Shaikh,sikandar.shaikh@shobizhavas.com,8291250330,Mumbai,Senior Manager - IT,AOVPS9282B,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044849,Shabnam,Shaikh,Shabnam Shaikh,shabnam.shaikh@shobizhavas.com,8169287733,Mumbai,Senior Manager - Audience Acquisition (IEMS),BVEPS6580D,Bank Of Baroda,9.95E+13,BARB0DBORLE,Savings
+1044850,Samadhan,Babar,Samadhan Babar,samadhan.babar@shobizhavas.com,9320288508,Mumbai,Senior Manager - Operations,BFAPB5268M,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044852,Paulraj,S,Paulraj S,paulraj.s@shobizhavas.com,9790840099,Chennai,MANAGER - OPERATIONS,DGXPP5182A,HDFC Bank,5.01E+13,HDFC0002014,Savings
+1044853,Rakesh,Gupta,Rakesh Gupta,rakesh.gupta@shobizhavas.com,8655662570,Mumbai,Manager - DBMS (IEMS),ALRPG7870L,HDFC Bank,5.01E+12,HDFC0000501,Savings
+1044857,Amarpreet,Singh,Amarpreet Singh,amarpreet.singh@shobizhavas.com,9818092326,Delhi/ Gurgaon,Senior Manager - Operations,BSYPS5670K,HDFC Bank,2.71E+11,HDFC0000060,Savings
+1044859,Pawan,Shinde,Pawan Shinde,pawan.shinde@shobizhavas.com,9167945958,Mumbai,Manager - DBMS (IEMS),DFGPS3293B,Union Bank Of India,7.72E+14,UBIN0577235,Savings
+1044860,Mitesh,Sampat,Mitesh Sampat,mitesh.sampat@shobizhavas.com,9221378562,Mumbai,Manager - DBMS (IEMS),BBJPS9875C,Kotak Mahindra Bank,749707987,KKBK0000958,Savings
+1044863,Sunil,Sawant,Sunil Sawant,sunil.sawant@shobizhavas.com,7498267914,Mumbai,Associate Account Director,BIPPS7068O,Kotak Mahindra Bank,2849551460,KKBK0000958,Savings
+1044864,Darwin,Anthony,Darwin Anthony,darwin.raj@shobizhavas.com,9551866143,Chennai,Deputy Manager - Response (IEMS),BGYPD9097D,HDFC Bank,5.01E+13,HDFC0002014,Savings
+1044865,Shabana,Gadhwala,Shabana Gadhwala,shabana.gadhwala@shobizhavas.com,7977122678,Mumbai,Deputy General Manager - Accounts,AJTPG2411R,Kotak Mahindra Bank,3650371070,KKBK0000958,Savings
+1044869,M Praveen,Raj,M Praveen Raj,praveen.raj@shobizhavas.com,9381039931,Chennai,MANAGER - OPERATIONS,BUPPP0773D,HDFC Bank,41050616770,HDFC0000060,Savings
+1044872,Neha,Kurlekar,Neha Kurlekar,neha.kurlekar@shobizhavas.com,Ashwin Mishra,Mumbai,Deputy Manager - Administration,BIDPK4717J,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1044874,Dinesh,Singh,Dinesh Singh,dinesh.singh@shobizhavas.com,9716691011,Delhi/ Gurgaon,Experience Design Director,CMMPS0985A,HDFC Bank,5.88E+12,HDFC0000060,Savings
+1044876,Pritam,Amberkar,Pritam Amberkar,pritam.amberkar@shobizhavas.com,9833659110,Mumbai,Associate Experience Design Director,AFXPA8077R,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1044878,Ravi,Kumar,Ravi Kumar,ravi.lal@shobizhavas.com,8882791552,Delhi/ Gurgaon,SENIOR EXECUTIVE - OPERATIONS,ARRPR1781M,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044881,Gurpreet Singh,Khani,Gurpreet Singh Khani,gurpreet.singh@shobizhavas.com,8882633525,Delhi/ Gurgaon,Manager - Technology Business Support,EIYPS4250N,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044886,Rohit,Chouhan,Rohit Chouhan,rohit.chouhan@shobizhavas.com,9910422672,Delhi/ Gurgaon,Manager - HR,AJEPC4364Q,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044888,Sunny,Kapoor,Sunny Kapoor,sunny.kapoor@shobizhavas.com,9999316635,Delhi/ Gurgaon,Experience Design Director,AYFPK8289A,HDFC Bank,9.21E+11,HDFC0000060,Savings
+1044890,Masiuzzama,Ahmad,Masiuzzama Ahmad,masiuzzama.ahmad@shobizhavas.com,8010095284,Delhi/ Gurgaon,Graphic Design Manager,BQDPM6678L,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044892,Tejpal Singh,Patpatia,Tejpal Singh Patpatia,tejpal.patpatia@shobizhavas.com,9820120511,Mumbai,Chief Operating Officer,AFNPP2903F,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044898,Hari,Bailwal,Hari Bailwal,hari.bailwal@shobizhavas.com,9321925719,Mumbai,Senior Director - Operations,AMXPB1398R,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1044903,Pankaj Kumar,Mishra,Pankaj Kumar Mishra,pankaj.mishra@shobizhavas.com,9953546939,Delhi/ Gurgaon,Manager - Administration,ARHPM3994M,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044904,Sudhir,Rewale,Sudhir Rewale,sudhir.rewale@shobizhavas.com,8087979557,Mumbai,Manager - DBMS (IEMS),AJWPR0082L,HDFC Bank,5.01E+13,HDFC0000627,Savings
+1044905,Vishal,Masurkar,Vishal Masurkar,vishal.masurkar@shobizhavas.com,7666902022,Mumbai,Lead Graphic Designer,ALQPM2723B,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1044907,Sudhakar,Sawant,Sudhakar Sawant,sudhakar.sawant@shobizhavas.com,9869157326,Mumbai,Lead Graphic Designer,BCCPS4507B,HDFC Bank,5.01E+13,HDFC0001105,Savings
+1044908,Lokesh,Sonar,Lokesh Sonar,lokesh.sonar@shobizhavas.com,9930363119,Mumbai,MANAGER - OPERATIONS,FWFPS3178R,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1044912,Farizuddin,Shaikh,Farizuddin Shaikh,fariz.shaikh@shobizhavas.com,9324701953,Mumbai,Senior Manager - Client Servicing,HFGPS3091B,Kotak Mahindra Bank,2749194668,KKBK0000958,Savings
+1044913,Parvesh,Mahalwal,Parvesh Mahalwal,parvesh.mahalwal@shobizhavas.com,9871320360,Delhi/ Gurgaon,Senior Manager - Operations,AWMPM9737G,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044916,Rinku,Tomar,Rinku Tomar,rinku.kumar@shobizhavas.com,9873834390,Delhi/ Gurgaon,General Manager - Accounts,BEIPK0804H,HDFC Bank,3.37E+12,HDFC0000060,Savings
+1044917,Hardik,Soni,Hardik Soni,hardik.soni@shobizhavas.com,9819770551,Mumbai,Director - Brand Strategy,DZZPS4367F,HDFC Bank,5.01E+13,HDFC0001105,Savings
+1044923,Shadab Iqbal,Khan,Shadab Iqbal Khan,shadab.khan@shobizhavas.com,8369448861,Mumbai,Lead Experience Designer,ESFPK2790N,HDFC Bank,5.01E+13,HDFC0000001,Savings
+1044924,Tribhuvan,Kapoor,Tribhuvan Kapoor,tribhuvan.kapoor@shobizhavas.com,9716147776,Delhi/ Gurgaon,Senior Account Director,AVDPK1564F,HDFC Bank,1.39E+12,HDFC0000060,Savings
+1044926,Paresh,Surve,Paresh Surve,paresh.surve@shobizhavas.com,8879746766,Mumbai,Senior Manager - Operations,CBSPS0553F,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1044927,Subir,Majumdar,Subir Majumdar,subir.majumdar@shobizhavas.com,9820024808,Mumbai,Chief Creative Officer,ADZPM6654Q,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044935,Shadab,Khan,Shadab Khan,shadab.k@shobizhavas.com,7011552253,Delhi/ Gurgaon,Associate Experience Design Director,CPXPK9412E,HDFC Bank,1.39E+13,HDFC0000060,Savings
+1044936,Amir,Khan,Amir Khan,amir.khan@shobizhavas.com,9718679102,Delhi/ Gurgaon,Senior Manager -  Communication,CLPPK3519Q,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044942,Ashwath,Rao,Ashwath Rao,ashwath.rao@shobizhavas.com,9566278657,Chennai,Associate Account Director,ALDPA7457R,HDFC Bank,3.23E+12,HDFC0000060,Savings
+1044945,Pravin,Mahajan,Pravin Mahajan,pravin.mahajan@shobizhavas.com,9323282410,Mumbai,Senior Vice President - Strategic Business Unit,AGIPM4934B,HDFC Bank,1.43E+12,HDFC0000288,Savings
+1044946,Rajesh,Singh,Rajesh Singh,rajesh.singh@shobizhavas.com,9820616514,Mumbai,Executive Vice President - Event Services,AJRPS0372F,Kotak Mahindra Bank,4049806357,KKBK0000958,Savings
+1044950,Santosh,Singh,Santosh Singh,santosh.singh@shobizhavas.com,7738169243,Mumbai,Senior Manager - Operations,BUXPS8809M,HDFC Bank,6.27E+12,HDFC0000627,Savings
+1044954,Prathamesh,Aroskar,Prathamesh Aroskar,prathamesh.aroskar@shobizhavas.com,8097516109,Mumbai,Graphic Design Manager,BCVPA4376B,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044957,Nikhita,Vora,Nikhita Vora,nikhita.vora@shobizhavas.com,8082013454,Mumbai,Manager - Response (IEMS),BXYPS7275K,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1044958,Harish,Aawade,Harish Aawade,harish.aawade@shobizhavas.com,9769426844,Mumbai,MANAGER - OPERATIONS,AJGPA7863G,HDFC Bank,2.61E+11,HDFC0000026,Savings
+1044962,Abhishek,Chakankar,Abhishek Chakankar,abhishek.chakankar@shobizhavas.com,9987804953,Mumbai,Associate Graphic Design Director,ADWPC9461G,Kotak Mahindra Bank,9048966323,KKBK0000958,Savings
+1044964,Shrikant,Rele,Shrikant Rele,shrikant.rele@shobizhavas.com,9619902118,Mumbai,Head - IT & Security,ABTPR9871J,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044965,Imran,Khan,Imran Khan,imran.khan@shobizhavas.com,9999670844,Delhi/ Gurgaon,Director - Audio-Visual Studio,BCZPK5339N,HDFC Bank,4.32E+11,HDFC0000060,Savings
+1044966,Harshit,Jain,Harshit Jain,harshit.jain@shobizhavas.com,9540343848,Delhi/ Gurgaon,Manager - MICE,AJDPJ0434F,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044969,Clinton,J,Clinton J,clinton.jesuraja@shobizhavas.com,8807195857,Chennai,Deputy Manager - Administration,BRBPC0131P,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044972,Anshika,Mishra,Anshika Mishra,anshika.mishra@shobizhavas.com,9910734321,Delhi/ Gurgaon,Associate Director - Brand Strategy,AZWPM3116A,HDFC Bank,9.29E+12,HDFC0000060,Savings
+1044976,Nitin,Kumar,Nitin Kumar,nitin.kumar@shobizhavas.com,9891301632,Delhi/ Gurgaon,Associate Experience Design Director,DWZPK0206C,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044982,Sarfaraz,Memon,Sarfaraz Memon,sarfaraz.memon@shobizhavas.com,9699884113,Mumbai,Manager - Technology Business Support,AUSPM8878N,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1044984,Sreyashi,Datta,Sreyashi Datta,sreyashi.datta@shobizhavas.com,9999135698,Delhi/ Gurgaon,Director - Brand Strategy,AMHPD0639F,HDFC Bank,1.93E+13,HDFC0000060,Savings
+1044986,Karthik,R,Karthik R,karthik.r@shobizhavas.com,9944445767,Chennai,Experience Design Manager,DNJPK1736G,HDFC Bank,5.01E+13,HDFC0003923,Savings
+1044999,Puneet,Kumar,Puneet Kumar,puneet.kumar@shobizhavas.com,9811558611,Delhi/ Gurgaon,Deputy Manager - Operations,BPSPK9088Q,HDFC Bank,5.01E+13,HDFC0001385,Savings
+1045004,Sagar,Bamnolikar,Sagar Bamnolikar,sagar.bamnolikar@shobizhavas.com,9930370205,Mumbai,Manager - Audio -Visual Studio,BDGPB4931F,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1045016,Shashikant,Thule,Shashikant Thule,shashikant.thule@shobizhavas.com,9920325680,Mumbai,Associate Experience Design Director,AFIPT5081R,HDFC Bank,1.57E+13,HDFC0001574,Savings
+1045025,Melanie,Teles,Melanie Teles,melanie.teles@shobizhavas.com,7718054067,Mumbai,Senior Manager - Client Servicing,AVNPT8993T,HDFC Bank,5.01E+13,HDFC0000542,Savings
+1045030,Ghanshyam,Asolkar,Ghanshyam Asolkar,ghanshyam.asolkar@shobizhavas.com,9833806781,Mumbai,MANAGER - OPERATIONS,AOLPA1108C,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1045038,Sameer,Tobaccowala,Sameer Tobaccowala,sameer.tobaccowala@shobizhavas.com,9821010399,Mumbai,Chief Executive Officer,AAAPT5158N,HSBC Bank,3481975006,HSBC0400003,Savings
+1045044,Santosh,Bhogal,Santosh Bhogal,santosh.bhogal@shobizhavas.com,9920021084,Mumbai,Office Assistant,ALXPB5734C,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1045046,Sanjay,Katale,Sanjay Katale,sanjay.katale@shobizhavas.com,9321925720,Mumbai,Office Assistant,AXTPK3239K,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1045047,Sanil,Thombare,Sanil Thombare,sanil.thombare@shobizhavas.com,7276249321,Mumbai,Office Assistant,AFMPT7607M,Kotak Mahindra Bank,4549317094,KKBK0000958,Savings
+1045048,Gajanan,Bhatkar,Gajanan Bhatkar,gajanan.bhatkar@shobizhavas.com,9324711888,Mumbai,Driver,ASHPB2270L,The Shamrao Vithal Co-Operative Bank Ltd,1.01E+14,SVCB0000005,Savings
+1045049,Nanhe,Masih,Nanhe Masih,,9599739703,Delhi/ Gurgaon,Office Assistant,AOWPM7839P,HDFC Bank,2.71E+11,HDFC0000060,Savings
+1045050,Padmakar,Jadhav,Padmakar Jadhav,padmakar.jadhav@shobizhavas.com,8291302334,Mumbai,Office Assistant,AWIPJ0844R,HDFC Bank,1.43E+12,HDFC0000143,Savings
+1045051,Suresh,Pardale,Suresh Pardale,suresh.pardale@shobizhavas.com,9869735693,Mumbai,Office Assistant,AVGPP4418E,HDFC Bank,5.42E+12,HDFC0000542,Savings
+1045053,Aatish,Pawar,Aatish Pawar,aatish.pawar@shobizhavas.com,8169850354,Mumbai,Office Assistant,CCXPP1371A,Kotak Mahindra Bank,4549320124,KKBK0000958,Savings
+1045055,Kalu,Haldar,Kalu Haldar,,7011041971,Delhi/ Gurgaon,Office Assistant,ADLPH2221A,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1045056,Pandurang,Desai,Pandurang Desai,pandurang.desai@shobizhavas.com,9819869372,Mumbai,Office Assistant,ASDPD8813H,Kotak Mahindra Bank,4450297249,KKBK0000958,Savings
+1045057,Ganpat,Jadhav,Ganpat Jadhav,ganpat.jadhav@shobizhavas.com,8652340662,Mumbai,Driver,AGOPJ2456M,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1045058,Sachin,Jadhav,Sachin Jadhav,sachin.jadhav@shobizhavas.com,9324673762,Mumbai,Office Assistant,AFSPJ8304H,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1045059,Deepak,Dingankar,Deepak Dingankar,deepak.dingankar@shobizhavas.com,8355868230,Mumbai,Office Assistant,BRFPD1467B,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1045060,Jagdish Chand,Joshi,Jagdish Chand Joshi,,9911395355,Delhi/ Gurgaon,Office Assistant,AILPC1789R,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1045061,Banty,Charan,Banty Charan,,9971243476,Delhi/ Gurgaon,Office Assistant,CGNPB3905L,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1045065,Mahendra,Mane,Mahendra Mane,mahendra.mane@shobizhavas.com,8268114763,Mumbai,Office Assistant,ARJPM9237B,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1112620,Ghanshyam,P,Ghanshyam P,ghanshyam.p@shobizhavas.com,9650677347,Delhi/ Gurgaon,Manager - Audio -Visual Studio,EDVPS9665F,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1112896,Shailesh,Patil,Shailesh Patil,shailesh.patil@shobizhavas.com,9136868347,Mumbai,Manager - Technology Business Support,BMUPP9720R,Kotak Mahindra Bank,6349667768,KKBK0000958,Savings
+1113583,Mahima,Mathur,Mahima Mathur,mahima.mathur@shobizhavas.com,9953454510,Delhi/ Gurgaon,Manager - Client Servicing,CSSPM7380K,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1114765,Anjas,Mishra,Anjas Mishra,Anjas.Mishra@shobizhavas.com,9910669041,Delhi/ Gurgaon,Director - Brand Strategy,CNCPM6034K,HDFC Bank,5.01E+13,HDFC0002074,Savings
+1114836,Sonia,Thakur,Sonia Thakur,sonia.thakur@shobizhavas.com,9599206804,Delhi/ Gurgaon,Associate Account Director,AVWPT9345C,ICICI Bank,3.85E+11,ICIC0003851,Savings
+1115298,Sony,Parikh,Sony Parikh,sony.parikh@shobizhavas.com,9820988591,Mumbai,Senior Vice President - Strategic Business Unit,AFUPA3375B,HDFC Bank,5.42E+12,HDFC0000542,Savings
+1115629,Anandrao,Patil,Anandrao Patil,anand.patil@shobizhavas.com,7303137697,Mumbai,Manager - IT,AVZPP0861G,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1118613,Avinash,Pole,Avinash Pole,avinash.pole@shobizhavas.com,9137049295,Mumbai,Manager - Technology Business Support,DDUPP0132C,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1119577,Deepika,Sharma,Deepika Sharma,deepika.shrivastava@shobizhavas.com,9810804948,Delhi/ Gurgaon,Account Director,AQFPS1663N,HDFC Bank,2.71E+12,HDFC0000060,Savings
+1119879,Kapeel,Parmekar,Kapeel Parmekar,kapeel.parmekar@shobizhavas.com,7338643666,Bangalore,Senior Manager - Operations,AZNPP0407G,HDFC Bank,4.11E+12,HDFC0000411,Savings
+1119886,Prashant,Sonar,Prashant Sonar,prashant.sonar@shobizhavas.com,9987525838,Mumbai,Manager - Technology Business Support,BTPPS6936Q,HDFC Bank,2.88E+12,HDFC0000288,Savings
+1120758,Sandeep,Chhabria,Sandeep Chhabria,sandeep.chhabria@shobizhavas.com,9833058831,Mumbai,Associate Vice President - Brand Strategy,AHWPC4296K,Kotak Mahindra Bank,3249438054,KKBK0000958,Savings
+1121728,Shoeb,Kadri,Shoeb Kadri,shoeb.kadri@shobizhavas.com,8080622848,Mumbai,Lead - Autocad,CYPPK5437G,ICICI Bank,1.07E+11,ICIC0001071,Savings
+1121769,Manish,Kharkar,Manish Kharkar,,9967079496,Mumbai,Office Assistant,BPGPK4267M,Abhyudaya Co-Op Bank Ltd,1.10E+13,ABHY0065011,Savings
+1122005,Sneha,Varma,Sneha Varma,sneha.varma@shobizhavas.com,9769252815,Mumbai,Manager - Legal,ARBPV1459J,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1122672,Amrita,Sawhney,Amrita Sawhney,amrita.sawhney@shobizhavas.com,9845994992,Bangalore,Vice President - Strategic Business Unit,BPGPS3941L,HDFC Bank,2.86E+12,HDFC0000286,Savings
+1123291,Sushil,Nain,Sushil Nain,sushil.nain@shobizhavas.com,8800663191,Delhi/ Gurgaon,Associate Director - Operations,AMNPN6992P,HDFC Bank,6.14E+12,HDFC0000060,Savings
+1123616,Sathya Kumar,S,Sathya Kumar S,,9880457114,Bangalore,Office Assistant,CBVPS8011H,Kotak Mahindra Bank,1.26E+11,KKBK0008038,Savings
+1123621,Harsh,Mudliyar,Harsh Mudliyar,harsh.mudliyar@shobizhavas.com,7977033722,Mumbai,Manager - Client Servicing,CZSPM6662D,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1125213,Akash,Kumar,Akash Kumar,kumar.akash@shobizhavas.com,9845890295,Bangalore,Senior Manager - Client Servicing,BGEPA0972J,State Bank Of India,52207556581,SBIN0010500,Savings
+1125215,Libreta,D'mello,Libreta D'mello,libreta.dmello@shobizhavas.com,9702563341,Mumbai,Deputy Manager - Client Servicing,GVJPD1591R,HDFC Bank,5.01E+13,HDFC0000357,Savings
+1125228,Nikhil,Sharma,Nikhil Sharma,nikhil.sharma@shobizhavas.com,9899079786,Delhi/ Gurgaon,Senior Account Director - CS & BD,AWRPS1426M,HDFC Bank,5.01E+13,HDFC0001343,Savings
+1125481,Mohammed,Shahbaz,Mohammed Shahbaz,Mohammed.shahbaz@shobizhavas.com,9738522501,Bangalore,Manager - Response (IEMS),GJOPS4035N,ICICI Bank,4701630407,ICIC0000047,Savings
+1126115,Syeda Lubna,Kousar,Syeda Lubna Kousar,lubna.syeda@shobizhavas.com,9741300554,Bangalore,Senior Manager - Audience Acquistion & Lead Generation,BHAPK1227P,Axis Bank,9.11E+14,UTIB0000114,Savings
+1126186,Sagar,Murudkar,Sagar Murudkar,sagar.murudkar@shobizhavas.com,9769016928,Mumbai,Manager - DBMS (IEMS),AOJPM3231L,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1126217,Ritu,Vohra,Ritu Vohra,Ritu.Vohra@shobizhavas.com,9212106169,Delhi/ Gurgaon,Manager - HR,AGBPV3033B,HDFC Bank,5.01E+13,HDFC0001070,Savings
+1126220,Anita,Singh,Anita Singh,anita.singh@shobizhavas.com,9833677640,Mumbai,Senior Manager - Client Servicing,CRJPS3251B,HDFC Bank,5.01E+13,HDFC0000443,Savings
+1126975,Garv,Aggarwal,Garv Aggarwal,Garv.Aggarwal@shobizhavas.com,7042752900,Delhi/ Gurgaon,Deputy Manager - Client Servicing,DTTPA1843N,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1127205,Deepak,Khairnar,Deepak Khairnar,deepak.khairnar@shobizhavas.com,8879654143,Mumbai,Manager - MICE,CCBPK8197D,HDFC Bank,5.01E+13,HDFC0000143,Savings
+1127925,Supriya,Naik,Supriya Naik,supriya.naik@shobizhavas.com,9664292559,Mumbai,Manager - MICE,AMRPD1374R,State Bank Of India,31581211544,SBIN0001884,Savings
+1128119,Tijo,Joseph,Tijo Joseph,tijo.joseph@shobizhavas.com,9480550695,Bangalore,Senior Manager - IT,APHPJ9976L,ICICI Bank,4701630472,ICIC0000047,Savings
+1128186,Ravi,Kiroula,Ravi Kiroula,ravi.kiroula@shobizhavas.com,8376815312,Delhi/ Gurgaon,Associate Director - Operations,CYVPK6519D,ICICI Bank,1.84E+11,ICIC0001842,Savings
+1128478,Harshal,Ghadigaonkar,Harshal Ghadigaonkar,harshal.ghadigaonkar@shobizhavas.com,7506018928,Mumbai,Senior Manager - Client Servicing,BFVPG6070F,Kotak Mahindra Bank,2213724988,KKBK0001392,Savings
+1128675,Minakshi,Jangid,Minakshi Jangid,Minakshi.Jangid@shobizhavas.com,8755813872,Delhi/ Gurgaon,Manager - Copy,AWVPJ3000A,HDFC Bank,5.01E+13,HDFC0001070,Savings
+1128676,Vanshika,Malhotra,Vanshika Malhotra,Vanshika.Malhotra@shobizhavas.com,9818827529,Delhi/ Gurgaon,Manager - Client Servicing,ETYPM4992N,HDFC Bank,5.01E+13,HDFC0000396,Savings
+1128882,Vijender,H,Vijender H,vijender.h@shobizhavas.com,9910702398,Delhi/ Gurgaon,Deputy Manager - Operations,AFVPT0842D,State Bank Of India,62069366443,SBIN0016337,Savings
+1129013,Divya,Bauva,Divya Bauva,divya.bauva@shobizhavas.com,9821080805,Mumbai,Manager - Client Servicing,BVAPB6238H,HDFC Bank,5.01E+13,HDFC0000146,Savings
+1129258,Pranil,Buva,Pranil Buva,pranil.buva@shobizhavas.com,8591065176,Mumbai,MANAGER - OPERATIONS,CFKPB0748H,Kotak Mahindra Bank,5246214365,KKBK0000631,Savings
+1129362,Ravish,Nair,Ravish Nair,ravish.nair@shobizhavas.com,8884445485,Bangalore,Senior Manager - Operations,AOHPR3365N,Kotak Mahindra Bank,6045330546,KKBK0008075,Savings
+1129821,Soumya,Balasunder,Soumya Balasunder,soumya.balasunder@shobizhavas.com,9036008316,Bangalore,Associate Experience Design Director,BECPB3465H,HDFC Bank,5.01E+13,HDFC0004269,Savings
+1129995,Varun,Sodhi,Varun Sodhi,Varun.Sondhi@shobizhavas.com,9899993848,Delhi/ Gurgaon,Account Director,BGLPS7672E,Standard Chartered Bank,53310399097,SCBL0036042,Savings
+1130110,Nikhita,Bajaj,Nikhita Bajaj,nikhita.bajaj@shobizhavas.com,8447705853,Delhi/ Gurgaon,Director - Brand Strategy,BJLPB9902K,ICICI Bank,3.42E+11,ICIC0006284,Savings
+1130111,Yogesh Kumar,Bansal,Yogesh Kumar Bansal,yogesh.bansal@shobizhavas.com,8076281836,Delhi/ Gurgaon,Lead Experience Designer,BXWPB6327H,HDFC Bank,5.01E+13,HDFC0002074,Savings
+1130339,Maitri,Minat,Maitri Minat,maitri.minat@shobizhavas.com,8291925398,Mumbai,Deputy Manager - Response (IEMS),FCBPM6213H,Union Bank Of India,5.65E+14,UBIN0556530,Savings
+1130342,Ishwar Singh,Adhikari,Ishwar Singh Adhikari,ishwar.adhikari@shobizhavas.com,9654023958,Delhi/ Gurgaon,Lead Graphic Designer,BRCPA5474J,HDFC Bank,5.01E+13,HDFC0002074,Savings
+1130468,Nitesh,Tembkar,Nitesh Tembkar,nitesh.tembkar@shobizhavas.com,9022494555,Mumbai,Senior Manager - MICE,AKMPT1918J,Kotak Mahindra Bank,2549217031,KKBK0000958,Savings
+1130515,Tulika,Ganguly,Tulika Ganguly,Tulika.Ganguly@shobizhavas.com,9999722432,Delhi/ Gurgaon,Senior Manager - Client Servicing,DVKPG1291P,IDBI Bank Ltd,1.69E+14,IBKL0000169,Savings
+1130573,Datta,Chopde,Datta Chopde,datta.chopde@shobizhavas.com,9821270823,Mumbai,Junior Graphic Designer,AFCPC6198J,Kotak Mahindra Bank,3249439686,KKBK0000958,Savings
+1130610,Mandar,Khedekar,Mandar Khedekar,mandar.khedekar@shobizhavas.com,9167422551,Mumbai,MANAGER - OPERATIONS,DCQPK3687C,Bank Of Maharashtra,68010662898,MAHB0000454,Savings
+1130743,Kanupriya,Aggarwal,Kanupriya Aggarwal,kanupriya.aggarwal@shobizhavas.com,8743854533,Delhi/ Gurgaon,Deputy Manager - Client Servicing,KIBPK2091G,Bank Of India,6.05E+14,BKID0006053,Savings
+1130842,Manoj,Chaudhari,Manoj Chaudhari,manoj.chaudhari@shobizhavas.com,8080993601,Mumbai,Experience Design Manager,AMCPC4423D,Kotak Mahindra Bank,8.01E+11,KKBK0001413,Savings
+1130910,Dhara,Desai,Dhara Desai,dhara.desai@shobizhavas.com,9819899169,Mumbai,Deputy General Manager - HR,AIAPD1580C,ICICI Bank,32401514562,ICIC0000324,Savings
+1131024,Anurama,V,Anurama V,anurama.v@shobizhavas.com,9663869689,Bangalore,Manager HR,BANPA0008E,ICICI Bank,26901537529,ICIC0001937,Savings
+1131209,Rohan,Gurav,Rohan Gurav,rohan.gurav@shobizhavas.com,7021009931,Mumbai,Deputy Manager - CS & BD,BWQPG5226D,HDFC Bank,5.01E+13,HDFC0001204,Savings
+1131553,Shajid,Khan,Shajid Khan,shajid.khan@shobizhavas.com,8384884319,Delhi/ Gurgaon,Senior Audio-Visual Editor,LHFPK6410D,HDFC Bank,5.01E+13,HDFC0001361,Savings
+1131709,Asif Hakim,Khan,Asif Hakim Khan,Asif.Khan@shobizhavas.com,7977157542,Mumbai,MANAGER - OPERATIONS,AXFPK6896G,HDFC Bank,5.01E+13,HDFC0000836,Savings
+1131907,Shiva,Shankar,Shiva Shankar,shiva.shankar@shobizhavas.com,9620447793,Bangalore,Manager - Client Servicing,DIYPS9633G,HDFC Bank,5.01E+13,HDFC0002778,Savings
+1132253,Rahul,Luthra,Rahul Luthra,Rahul.Luthra@shobizhavas.com,8860065752,Delhi/ Gurgaon,Account Director,AEBPL9351A,HDFC Bank,5.01E+13,HDFC0001557,Savings
+1132254,Prerna,Tandon,Prerna Tandon,prerna.tandon@shobizhavas.com,9810930070,Delhi/ Gurgaon,Client Servicing Director,AGQPT1306C,Axis Bank,9.14E+14,UTIB0001363,Savings
+1132379,Samadrita,Mallick,Samadrita Mallick,samadrita.mallick@shobizhavas.com,8240343911,Delhi/ Gurgaon,Senior Executive - Copy,DBPPM1733K,Kotak Mahindra Bank,9445359797,KKBK0000328,Savings
+1132438,Sameer Kutubuddin,Shaikh,Sameer Kutubuddin Shaikh,Sameer.Shaikh@shobizhavas.com,9619980619,Mumbai,MANAGER - OPERATIONS,BQFPS4659K,HDFC Bank,1.43E+12,HDFC0001452,Savings
+1132687,Maitree,Dang,Maitree Dang,maitree.dang@shobizhavas.com,9099006219,Mumbai,Manager Client Servicing,CJFPD0353M,HDFC Bank,5.01E+13,HDFC0001333,Savings
+1132963,Anurag,Jadli,Anurag Jadli,anurag.jadli@shobizhavas.com,9654987967,Delhi/ Gurgaon,Associate Account Director,ARHPJ2454R,Axis Bank,9.15E+14,UTIB0001103,Savings
+1132968,Disha,Jindal,Disha Jindal,disha.jindal@shobizhavas.com,9990777600,Delhi/ Gurgaon,Associate Account Director,AZSPJ9736F,ICICI Bank,17701606545,ICIC0000177,Savings
+1133034,Pinky,Sharma,Pinky Sharma,Pinky.Sharma@shobizhavas.com,9167460011,Mumbai,Manager - Client Servicing,GFJPS5755C,ICICI Bank,26101516302,ICIC0000261,Savings
+1133037,Sagar,Dixit,Sagar Dixit,sagar.dixit@shobizhavas.com,9833123611,Mumbai,Manager CS & Ops,BCFPD1950G,HDFC Bank,4.71E+11,HDFC0000047,Savings
+1133146,Amit Kumar,Giri,Amit Kumar Giri,amit.giri@shobizhavas.com,9266620020,Delhi/ Gurgaon,Associate Director - MICE,AOFPG0251A,HDFC Bank,9.29E+12,HDFC0000929,Savings
+1133239,Lalit,Kumar,Lalit Kumar,lalit.kumar@shobizhavas.com,9971068808,Bangalore,Senior Manager - 3D,FFVPK4167K,Kotak Mahindra Bank,1812242947,KKBK0005295,Savings
+1133492,Aftab Mobin,Shaikh,Aftab Mobin Shaikh,Aftab.Shaikh@shobizhavas.com,9082338312,Mumbai,EXECUTIVE - OPERATIONS,KABPS5293E,Union Bank Of India,5.20E+14,UBIN0901741,Savings
+1133625,Prashanth,N,Prashanth N,Prashanth.N@shobizhavas.com,9036625731,Bangalore,Executive - Response (IEMS),AZZPN4184C,Kotak Mahindra Bank,4549309617,KKBK0000958,Savings
+1133626,Mervin,D,Mervin D,Mervin.D@shobizhavas.com,8951005268,Bangalore,Executive - Response (IEMS),HMSPM5240K,Kotak Mahindra Bank,1846782617,KKBK0008079,Savings
+1133800,Hemanshu,Sawan,Hemanshu Sawan,Hemanshu.Sawant@shobizhavas.com,7208942660,Mumbai,EXECUTIVE - OPERATIONS,GNCPS5754L,State Bank Of India,20219352638,SBIN0005800,Savings
+1133826,Shivani,Dhingra,Shivani Dhingra,Shivani.Dhingra@shobizhavas.com,9650222588,Delhi/ Gurgaon,Deputy General Manager - HR,AJHPD0333M,HDFC Bank,4.31E+11,HDFC0000043,Savings
+1133840,Srinivasa,Dasari,Srinivasa Dasari,srinivasa.dasari@shobizhavas.com,9880062645,Bangalore,Associate Director - Operations,BPTPS2494M,Axis Bank,9.15E+14,UTIB0000268,Savings
+1134030,Bhavya,Patel,Bhavya Patel,bhavya.patel@shobizhavas.com,9321407103,Mumbai,Brand Strategist,BJGPP6146L,Indusind Bank Ltd,1.60E+11,INDB0000008,Savings
+1134313,Om,Dhawan,Om Dhawan,om.dhawan@shobizhavas.com,6387522271,Delhi/ Gurgaon,Deputy Manager - Brand Strategy,EOUPD0302C,Kotak Mahindra Bank,1348537784,KKBK0000205,Savings
+1134314,Moumita,Samanta,Moumita Samanta,moumita.samanta@shobizhavas.com,9930028622,Mumbai,Director - Copy,BNOPS8350P,ICICI Bank,1.02E+11,ICIC0001022,Savings
+1134487,Tanoj,Tandel,Tanoj Tandel,tanoj.tandel@shobizhavas.com,8655657838,Mumbai,Lead Experience Designer,AXJPT0219Q,Central Bank Of India,3208699579,CBIN0281407,Savings
+1134672,Juhi,Rajpal,Juhi Rajpal,juhi.rajpal@shobizhavas.com,9503219223,Mumbai,Senior Manager - Business Development,BERPR3086P,HDFC Bank,5.01E+13,HDFC0000291,Savings
+1134693,Mrinanka,Das,Mrinanka Das,mrinanka.das@shobizhavas.com,8777519998,Mumbai,Deputy Manager - Marketing and Communication,CGHPD9492E,Axis Bank,9.14E+14,UTIB0000093,Savings
+1134856,Vyshnavi,PV,Vyshnavi PV,vyshnavi.p-v@shobizhavas.com,9731447261,Bangalore,Senior Executive - Copy,BQKPV8379J,Standard Chartered Bank,45010034782,SCBL0036102,Savings
+1134910,Rashmi,Khanna,Rashmi Khanna,rashmi.khanna@shobizhavas.com,9654003146,Bangalore,Associate Account Director,BHRPK6534N,HDFC Bank,3.37E+12,HDFC0000337,Savings
+1135012,Abhishek,Kumar,Abhishek Kumar,a.kumar@shobizhavas.com,9958125601,Delhi/ Gurgaon,Manager - IT,BEPPK4821K,Yes Bank Ltd,3.39E+13,YESB0000338,Savings
+1135015,Shruti,Gupta,Shruti Gupta,shruti.gupta@shobizhavas.com,9971366560,Delhi/ Gurgaon,Account Director,APNPG4481M,ICICI Bank,71901526694,ICIC0000719,Savings
+1135016,Vijay,Kumar,Vijay Kumar,vijay.kumar@shobizhavas.com,8527218147,Delhi/ Gurgaon,Associate Experience Design Director,BZYPK7163G,ICICI Bank,1.15E+11,ICIC0001145,Savings
+1135021,Priyadarshini,S,Priyadarshini S,priyadarshini.s@shobizhavas.com,7760370856,Bangalore,Senior Manager - Copy,DFVPP0966R,Yes Bank Ltd,6.00E+13,YESB0000599,Savings
+1135023,Ashwini,D,Ashwini D,ashwini.d@shobizhavas.com,9620522189,Bangalore,Deputy Manager - Client Servicing,BZKPD3208H,ICICI Bank,7.55E+11,ICIC0007550,Savings
+1135440,Ankur,Othiwal,Ankur Othiwal,ankur.othiwal@shobizhavas.com,9810377038,Delhi/ Gurgaon,Manager - Brand Strategy,ACDPO7124Q,State Bank Of India,39535441519,SBIN0013238,Savings
+1135466,Raghav,Bhardwaj,Raghav Bhardwaj,raghav.bhardwaj@shobizhavas.com,9958308778,Delhi/ Gurgaon,Manager - Client Servicing,DECPB0337A,State Bank Of India,55152838994,SBIN0051288,Savings
+1135480,Anuj,Sharma,Anuj Sharma,anuj.sharma@shobizhavas.com,9643574600,Delhi/ Gurgaon,Lead Graphic Designer,FBVPS4598Q,ICICI Bank,71701504574,ICIC0000717,Savings
+1135481,Rajesh,Patil,Rajesh Patil,rajesh.patil@shobizhavas.com,9975546989,Mumbai,Deputy Manager - IT,BERPP4466B,Kotak Mahindra Bank,3249436005,KKBK0000958,Savings
+1135483,Shailendra,Warrior,Shailendra Warrior,shailendra.warrior@shobizhavas.com,9845224108,Bangalore,Associate Account Director,ABEPW4463E,HDFC Bank,1.84E+12,HDFC0000184,Savings
+1135929,Farhan,Shariff,Farhan Shariff,f.shariff@shobizhavas.com,8660059976,Bangalore,SENIOR EXECUTIVE - OPERATIONS,GBTPS7227H,Union Bank Of India,4.58E+14,UBIN0545775,Savings
+1135947,Harsha,K,Harsha K,harsha.k@shobizhavas.com,9664280359,Bangalore,SENIOR GRAPHIC DESIGNER,AUPPH4565A,State Bank Of India,34297613528,SBIN0003114,Savings
+1136020,Mohammed Jala,Adil,Mohammed Jala Adil,adil.jala@shobizhavas.com,8356900039,Mumbai,Trainee - Experience Designer,COWPJ0794Q,State Bank Of India,41613808632,SBIN0003671,Savings
+1136197,Annuradha,Dey,Annuradha Dey,annuradha.dey@shobizhavas.com,9304014784,Mumbai,Manager - Copy,HHSPD9008K,HDFC Bank,5.01E+13,HDFC0004208,Savings
+1136236,Arun,More,Arun More,arun.more@shobizhavas.com,9326715140,Mumbai,Lead Graphic Designer,BTSPM2896N,State Bank Of India,20478702870,SBIN0001040,Savings
+1136511,Khushi,Khare,Khushi Khare,khushi.khare@shobizhavas.com,8650496461,Delhi/ Gurgaon,Senior Manager - Copy,HJEPK3130B,HDFC Bank,5.01E+13,HDFC0000655,Savings
+1136782,Raj,Ansari,Raj Ansari,Raj.Ansari@shobizhavas.com,7506058304,Mumbai,Lead Experience Designer,CKFPA6638B,State Bank Of India,40391190132,SBIN0060244,Savings
+1136810,Arunima,Sharma,Arunima Sharma,Arunima.Sharma@shobizhavas.com,9670245422,Delhi/ Gurgaon,Manager - Copy,FXNPS6255N,Bank Of Baroda,2.72E+13,BARB0BLYDEF,Savings
+1136820,Neha,Nayak,Neha Nayak,Neha.Nayak@shobizhavas.com,8879192294,Mumbai,Senior Executive - Brand Strategy,BJUPN0303B,HDFC Bank,5.01E+13,HDFC0000084,Savings
+1136947,Rachit,Jain,Rachit Jain,Rachit.Jain@shobizhavas.com,9868556235,Delhi/ Gurgaon,Manager - AV Studio,AGRPJ7919E,HDFC Bank,5.01E+13,HDFC0000337,Savings
+1137042,Venkatesh,Chikka,Venkatesh Chikka,Venkatesh.Chikka@shobizhavas.com,9029343804,Mumbai,Executive - Client Servicing,BQEPC9429C,Union Bank Of India,5.64E+14,UBIN0556432,Savings
+1137263,Rakesh,Kumar,Rakesh Kumar,Rakesh.Kumar@shobizhavas.com,9899527798,Delhi/ Gurgaon,Associate Experience Design Director,AEGPN6984E,HDFC Bank,2.71E+11,HDFC0003978,Savings
+1137271,Keval,Rajyaguru,Keval Rajyaguru,Keval.Rajyaguru@shobizhavas.com,9820528182,Mumbai,MANAGER - OPERATIONS,CEEPR6137R,ICICI Bank,26101516298,ICIC0000261,Savings
+1137303,Tripsha,Ghosh,Tripsha Ghosh,Tripsha.Ghosh@shobizhavas.com,8789886038,Mumbai,Senior Manager - Copy,BNWPG5991E,Axis Bank,9.19E+14,UTIB0000669,Savings
+1137304,Ananya,Mall,Ananya Mall,Ananya.Mall@shobizhavas.com,8299721388,Delhi/ Gurgaon,Manager - Client Servicing,DEXPM1632C,HDFC Bank,5.01E+13,HDFC0001070,Savings
+1137351,Sanya,Yadav,Sanya Yadav,Sanya.Yadav@shobizhavas.com,9625897278,Bangalore,Deputy Manager - Client Servicing,BDWPY1268A,IDFC First Bank Ltd,10089654220,IDFB0020132,Savings
+1137430,Keshav,Sargur,Keshav Sargur,Keshav.Sargur@shobizhavas.com,9870154489,Delhi/ Gurgaon,Manager - Audio -Visual Studio,JJCPS0902M,ICICI Bank,28601002336,ICIC0000286,Savings
+1137542,Tejindersingh,Nagi,Tejindersingh Nagi,Tejinder.Nagi@shobizhavas.com,9970159012,Mumbai,Business Head - Exhibitions,ABVPN9456H,ICICI Bank,2201504344,ICIC0000022,Savings
+1137768,Nitin,Kamble,Nitin Kamble,Nitin.Kamble@shobizhavas.com,8369887529,Mumbai,Deputy Manager - Operations,AMAPK9126D,Union Bank Of India,5.82E+14,UBIN0558222,Savings
+1137769,Rushabh,Upadhyay,Rushabh Upadhyay,Rushabh.Upadhyay@shobizhavas.com,9879929953,Mumbai,MANAGER - OPERATIONS,ADWPU7655G,State Bank Of India,33146825466,SBIN0003110,Savings
+1137790,Alok,Khanna,Alok Khanna,Alok.Khanna@shobizhavas.com,9818828000,Delhi/ Gurgaon,Senior Manager - MICE,ALCPK8578L,ICICI Bank,701202601,ICIC0000007,Savings
+1137861,Tamanna,Bahl,Tamanna Bahl,Tamanna.Bahl@shobizhavas.com,9870576924,Delhi/ Gurgaon,Manager - Client Servicing,EBPPB2493J,Indusind Bank Ltd,1.00E+11,INDB0000755,Savings
+1137927,Chahek,Poddar,Chahek Poddar,Chahek.Poddar@shobizhavas.com,9773325761,Mumbai,Executive - Client Servicing,EGXPP2238G,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1137929,Manoj,Joshi,Manoj Joshi,NoMail.Manoj@shobizhavas.com,9891883739,Delhi/ Gurgaon,Office Assistant,AIBPJ6678G,HDFC Bank,5.01E+13,HDFC0004754,Savings
+1137930,Karan,Sharma,Karan Sharma,NoMail.Karan@shobizhavas.com,9873049602,Delhi/ Gurgaon,Office Assistant,DHRPS4127K,HDFC Bank,5.01E+13,HDFC0001070,Savings
+1138054,Brijesh,CL,Brijesh CL,brijesh.cl@shobizhavas.com,9940188489,Chennai,Senior Manager - Operations,AMRPB4492L,HDFC Bank,6.76E+12,HDFC0000676,Savings
+1138082,Praveen,Kumar,Praveen Kumar,praveen.kumar@shobizhavas.com,9953247050,Delhi/ Gurgaon,Associate Vice President - Client Servicing,BHUPK1393L,HDFC Bank,5.01E+13,HDFC0000027,Savings
+1138111,Ashutosh,Sapkal,Ashutosh Sapkal,Ashutosh.Sapkal@shobizhavas.com,8828838830,Mumbai,Director - Sales,BMQPS9286K,Kotak Mahindra Bank,5913554503,KKBK0000635,Savings
+1138257,Subodh Kumar,Singh,Subodh Kumar Singh,Subodh.Singh@shobizhavas.com,7042563774,Delhi/ Gurgaon,Manager - AV Studio,FQAPS5639J,ICICI Bank,6.61E+11,ICIC0006614,Savings
+1138259,Leanne,Goulden,Leanne Goulden,Leanne.Goulden@shobizhavas.com,7977868793,Mumbai,Senior Manager - Sales,AKPPG3399B,Canara Bank,2.30E+11,CNRB0000230,Savings
+1138381,Naveen,Mandal,Naveen Mandal,Naveen.Mandal@shobizhavas.com,8076885050,Delhi/ Gurgaon,Deputy Manager - Operations,DFCPM8963N,Punjab National Bank,7.55E+15,PUNB0754600,Savings
+1138395,Ujjwal,Singh,Ujjwal Singh,Ujjwal.Singh@shobizhavas.com,7701811170,Delhi/ Gurgaon,SENIOR GRAPHIC DESIGNER,RAUPS6121R,Standard Chartered Bank,55212030419,SCBL0036095,Savings
+1138473,Rakesh,Vafelkar,Rakesh Vafelkar,Rakesh.Vafelkar@shobizhavas.com,8411858961,Mumbai,Lead Audio-Visual Studio,BGHPV7730C,State Bank Of India,34250631119,SBIN0011756,Savings
+1138541,Ravi,Kothari,Ravi Kothari,Ravi.Kothari@shobizhavas.com,8882379512,Delhi/ Gurgaon,Director - AV Studio,BKJPK0168B,ICICI Bank,6.61E+11,ICIC0006614,Savings
+1138598,Umesh,Sharma,Umesh Sharma,u.sharma@shobizhavas.com,8377846484,Delhi/ Gurgaon,Senior Manager - Client Servicing,AKEPU4863B,HDFC Bank,6.19E+12,HDFC0000619,Savings
+1138600,Virender,Singh,Virender Singh,Virender.Singh@shobizhavas.com,9818880812,Delhi/ Gurgaon,Senior Manager - MICE,BOHPS2631K,HDFC Bank,2.71E+12,HDFC0000271,Savings
+1138617,Tejas,Damania,Tejas Damania,Tejas.Damania@shobizhavas.com,9820542070,Mumbai,CREATIVE DIRECTOR,ABQPD5441D,HDFC Bank,8.61E+11,HDFC0000086,Savings
+1138645,Nikkie,Gargi,Nikkie Gargi,Nikkie.Gargi@shobizhavas.com,9437005253,Delhi/ Gurgaon,Senior Manager - Client Servicing,CDOPG2484B,HDFC Bank,5.01E+13,HDFC0000484,Savings
+1138646,Jayant,Joy,Jayant Joy,Jayant.Joy@shobizhavas.com,9717933445,Delhi/ Gurgaon,Account Director,AIWPJ6490K,HDFC Bank,5.01E+13,HDFC0003648,Savings
+1138730,Bitu,Kumar,Bitu Kumar,Bitu.Kumar@shobizhavas.com,7250574032,Delhi/ Gurgaon,Deputy Manager - Operations,HAQPK6061J,Bank Of Baroda,5.09E+13,BARB0NARKAT,Savings
+1138808,Ishan,Chhabra,Ishan Chhabra,Ishan.Chhabra@shobizhavas.com,7017965015,Delhi/ Gurgaon,Manager - Client Servicing,CMGPC7095H,HDFC Bank,5.01E+13,HDFC0007201,Savings
+1138809,Thirtha,Patil,Thirtha Patil,Thirtha.Patil@shobizhavas.com,9945809977,Bangalore,Associate Director - Operations,AJEPP7485M,HDFC Bank,2.86E+12,HDFC0000714,Savings
+1138930,Anandan,R,Anandan R,Anandan.R@shobizhavas.com,9884339526,Chennai,Deputy Manager - Operations,BSBPA2015H,ICICI Bank,6.02E+11,ICIC0006022,Savings
+1138989,Shaloo,Shukla,Shaloo Shukla,Shaloo.Shukla@shobizhavas.com,8700655931,Delhi/ Gurgaon,Manager - Brand Strategy,GNEPS1571K,State Bank Of India,20295122273,SBIN0005936,Savings
+1138991,Subdev,Bhagat,Subdev Bhagat,Subdev.Bhagat@shobizhavas.com,8860373243,Delhi/ Gurgaon,Associate Experience Design Director,BVPPB0991Q,ICICI Bank,3.85E+11,ICIC0003851,Savings
+1138993,Vishal,Vasani,Vishal Vasani,Vishal.Vasani@shobizhavas.com,9820194260,Mumbai,Associate Director - Operations,ACVPV4665K,Punjab National Bank,5.60E+12,PUNB0056010,Savings
+1139068,Raj,Latotra,Raj Latotra,Raj.Latotra@shobizhavas.com,9811670144,Bangalore,Account Director,ACBPL0671P,Kotak Mahindra Bank,6211143383,KKBK0008042,Savings
+1139222,Prashasti,Gupta,Prashasti Gupta,Prashasti.Gupta@shobizhavas.com,8800402498,Delhi/ Gurgaon,Senior Manager - Brand Strategy,BOIPG7567K,ICICI Bank,3101227087,ICIC0000031,Savings
+1139224,Rupesh,Soni,Rupesh Soni,Rupesh.Soni@shobizhavas.com,9654728226,Delhi/ Gurgaon,Graphic Design Manager,JBEPS8678N,ICICI Bank,1.58E+11,ICIC0001578,Savings
+1139231,Shrivalli,Kunder,Shrivalli Kunder,Shrivalli.Kunder@shobizhavas.com,7304477476,Mumbai,Senior Manager - Marketing & Communication,DNDPK8965F,The Shamrao Vithal Co-Operative Bank Ltd,1.08E+14,SVCB0000082,Savings
+1139286,Moinuddin Riyaz,Khan,Moinuddin Riyaz Khan,Moinuddin.Khan@shobizhavas.com,9867887146,Mumbai,SENIOR GRAPHIC DESIGNER,GDIPK8533B,Axis Bank,9.23E+14,UTIB0000020,Savings
+1139370,Ritesh,Talekar,Ritesh Talekar,Ritesh.Talekar@shobizhavas.com,8530538767,Mumbai,Lead Experience Designer,AVQPT9274N,HDFC Bank,5.01E+13,HDFC0000321,Savings
+1139406,Sadhika,Madaan,Sadhika Madaan,Sadhika.Madaan@shobizhavas.com,9953315413,Delhi/ Gurgaon,Associate Account Director,AVCPM5734A,ICICI Bank,6.30E+11,ICIC0006628,Savings
+1139448,Beena,Joseph,Beena Joseph,Beena.Joseph@shobizhavas.com,9003338491,Chennai,Senior Manager - Client Servicing,BVZPB4758F,HDFC Bank,5.01E+13,HDFC0001232,Savings
+1139529,Utkarsh,Luthra,Utkarsh Luthra,Utkarsh.Luthra@shobizhavas.com,8373977170,Delhi/ Gurgaon,Lead - AV Studio,ANIPU9337K,Axis Bank,9.23E+14,UTIB0004265,Savings
+1139550,Harsh,Arya,Harsh Arya,Harsh.Arya@shobizhavas.com,9540238891,Delhi/ Gurgaon,Manager - AV Studio,CYQPA0140R,ICICI Bank,6.61E+11,ICIC0006614,Savings
+1139551,Kapoor,Samarth,Kapoor Samarth,Kapoor.Samarth@shobizhavas.com,8446029760,Delhi/ Gurgaon,Manager - Client Servicing,BQWPK9657C,IDFC First Bank Ltd,10131846846,IDFB0041376,Savings
+1139552,Ayush,Tanwar,Ayush Tanwar,Ayush.Tanwar@shobizhavas.com,8130580375,Delhi/ Gurgaon,Manager - Audio -Visual Studio,BBCPT4000K,ICICI Bank,6.61E+11,ICIC0006614,Savings
+1139658,Pratiba,Maalpekar,Pratiba Maalpekar,pratiba.maalpekar@shobizhavas.com,9920887278,Mumbai,Vice President - HR Business Partnership,AKKPB6430F,HDFC Bank,6.01E+11,HDFC0000060,Savings
+1139665,Saiyam,Dhamija,Saiyam Dhamija,Saiyam.Dhamija@shobizhavas.com,7838760886,Delhi/ Gurgaon,Deputy Manager - Brand Strategy,HEGPD5248A,The Federal Bank Ltd,7.78E+13,FDRL0007777,Savings
+1139667,Himanshu,Negi,Himanshu Negi,Himanshu.Negi@shobizhavas.com,7678685717,Delhi/ Gurgaon,Lead Audio-Visual Studio,CFHPN1239Q,Axis Bank,9.23E+14,UTIB0004761,Savings
+1139707,Chintan,Shetty,Chintan Shetty,Chintan.Shetty@shobizhavas.com,7411615764,Bangalore,Deputy Manager - Operations,JXHPS6563K,Bank Of Baroda,7.38E+13,BARB0VJJEPP,Savings
+1140231,Abhishek,Jadhav,Abhishek Jadhav,Abhishek.Jadhav@shobizhavas.com,7977027468,Mumbai,Lead Experience Designer,BDXPJ7716D,Canara Bank,1.25E+11,CNRB0000125,Savings
+1140385,Zumar,Far,Zumar Far,Zumar.Far@shobizhavas.com,9999889745,Delhi/ Gurgaon,Graphic Design Manager,AAOPZ9153D,Kotak Mahindra Bank,3611198111,KKBK0000187,Savings
+1140427,Richa,Khurana,Richa Khurana,Richa.Khurana@shobizhavas.com,9999892506,Delhi/ Gurgaon,Manager - Copy,MEQPK3170M,Au Small Finance Bank,2.25E+15,AUBL0002538,Savings
+1140509,Justin,Francis,Justin Francis,Justin.Francis@shobizhavas.com,8879427995,Mumbai,Executive - Client Servicing,BQMPV3095H,Uco Bank,2.04E+13,UCBA0002035,Savings
+1140518,Tapish,Gupta,Tapish Gupta,Tapish.Gupta@shobizhavas.com,7506059088,Mumbai,Deputy Manager - Client Servicing,AZGPG1282M,HDFC Bank,5.01E+13,HDFC0000012,Savings
+1140645,Seemant,Mahalwal,Seemant Mahalwal,Seemant.Mahalwal@shobizhavas.com,9873564740,Delhi/ Gurgaon,Associate Director - Operations,AZNPM4483H,HDFC Bank,2.71E+11,HDFC0000027,Savings
+1140815,Rutika,Dhotre,Rutika Dhotre,Rutika.Dhotre@shobizhavas.com,8329899301,Mumbai,Executive - Client Servicing,FIIPD3528K,HDFC Bank,5.01E+13,HDFC0001573,Savings
+1140816,Anwesha,Nandi,Anwesha Nandi,Anwesha.Nandi@shobizhavas.com,9337100481,Mumbai,Executive - Brand Strategy,AYKPN4240P,State Bank Of India,42131348220,SBIN0014528,Savings
+1140822,Riya,Singhi,Riya Singhi,Riya.Singhi@shobizhavas.com,9704391414,Mumbai,Executive - Copy,OQLPS8172N,Kotak Mahindra Bank,1546137090,KKBK0007463,Savings
+1141189,Mayur,Mehra,Mayur Mehra,Mayur.Mehra@shobizhavas.com,9953015369,Delhi/ Gurgaon,Experience Design Manager,DXPPM2485E,ICICI Bank,28601001788,ICIC0000286,Savings
+1141235,Honey,Lalwani,Honey Lalwani,Honey.Lalwani@shobizhavas.com,7767925954,Mumbai,Manager - Client Servicing,ARFPL5189H,HDFC Bank,5.01E+13,HDFC0000012,Savings
+1141249,Vikas Kumar,Vishwakarma,Vikas Kumar Vishwakarma,Vikas.Vishwakarma@shobizhavas.com,9872838643,Delhi/ Gurgaon,Associate Director - Audio Visual Studio,AVKPV3193Q,ICICI Bank,3.75E+11,ICIC0006614,Savings
+1141331,Dileep,KP,Dileep KP,Dileep.KP@shobizhavas.com,8884380858,Bangalore,Associate Experience Design Director,CWPPP5378D,ICICI Bank,1.67E+11,ICIC0001668,Savings
+1141332,Dusi,Rao,Dusi Rao,Dusi.Rao@shobizhavas.com,9908562526,Bangalore,Senior Executive - Client Servicing,GBOPD4283H,HDFC Bank,5.01E+13,HDFC0003974,Savings
+1141333,Priyanka,Nagi,Priyanka Nagi,Priyanka.Nagi@shobizhavas.com,9958230568,Delhi/ Gurgaon,Associate Account Director,AYEPN1531H,HDFC Bank,5.01E+13,HDFC0000003,Savings
+1141370,Shyam,S,Shyam S,Shyam.S@shobizhavas.com,9003185024,Chennai,Experience Design Manager,DREPS2650J,Kotak Mahindra Bank,1345475195,KKBK0008487,Savings
+1141448,Gaurav Singh,Lakauriya,Gaurav Singh Lakauriya,Gaurav.Lakauriya@shobizhavas.com,9810025692,Delhi/ Gurgaon,Experience Design Manager,AMQPL3292D,Kotak Mahindra Bank,2811641847,KKBK0000261,Savings
+1141533,Kunwar Singh,Chauhan,Kunwar Singh Chauhan,Kunwar.Chauhan@shobizhavas.com,9873718856,Delhi/ Gurgaon,Senior Manager - Operations,AGUPC3219R,Indusind Bank Ltd,1.00E+11,INDB0000368,Savings
+1141537,Neel,Khakhar,Neel Khakhar,Neel.Khakhar@shobizhavas.com,7208210297,Mumbai,EXECUTIVE - OPERATIONS,DAQPK7695G,Bank Of Baroda,9.97E+13,BARB0DBVEST,Savings
+1141542,Prachi,Singal,Prachi Singal,Prachi.Singal@shobizhavas.com,9560965047,Delhi/ Gurgaon,Manager - Client Servicing,HVCPS1704M,Kotak Mahindra Bank,6947206628,KKBK0000220,Savings
+1141663,Pushkar,Singh,Pushkar Singh,Pushkar.Singh@shobizhavas.com,7503509346,Delhi/ Gurgaon,Graphic Design Manager,HERPS0458J,HDFC Bank,5.01E+13,HDFC0003654,Savings
+1141730,Cinderella,S,Cinderella S,Cinderella.S@shobizhavas.com,6366838877,Bangalore,Executive - Client Servicing,CJWPC0005Q,Canara Bank,1.10E+11,CNRB0010458,Savings
+1141783,Pratham,Karnani,Pratham Karnani,Pratham.Karnani@shobizhavas.com,9929542327,Mumbai,Senior Executive - Client Servicing,LOFPK0348H,HDFC Bank,5.01E+13,HDFC0002838,Savings
+1141840,Sanjay Datt,Dobriyal,Sanjay Datt Dobriyal,Sanjay.Dobriyal@shobizhavas.com,9911364847,Delhi/ Gurgaon,Senior Manager - Operations,CFIPD2999N,Punjab National Bank,4.94E+15,PUNB0493700,Savings
+1141960,Himanshi,Sharma,Himanshi Sharma,Himanshi.Sharma@shobizhavas.com,9560385358,Delhi/ Gurgaon,Senior Manager - Client Servicing,FUGPS9436F,State Bank Of India,40100404592,SBIN0009370,Savings
+1141982,Ajeet,Singh,Ajeet Singh,Ajeet.Singh@shobizhavas.com,9873022898,Delhi/ Gurgaon,Senior Manager - Operations,EWGPS1108R,HDFC Bank,5.01E+13,HDFC0000440,Savings
+1142031,Tanisha,Agarwala,Tanisha Agarwala,Tanisha.Agarwala@shobizhavas.com,7047179002,Bangalore,Executive - Client Servicing,DZUPA0454A,Union Bank Of India,6.08E+14,UBIN0560847,Savings
+1142032,Hansa,Srivastava,Hansa Srivastava,Hansa.Srivastava@shobizhavas.com,8791887456,Delhi/ Gurgaon,Deputy Manager - Client Servicing,KXQPS5355P,State Bank Of India,38127350972,SBIN0017066,Savings
+1142071,Komal,Vajpai,Komal Vajpai,Komal.Vajpai@shobizhavas.com,9555048141,Delhi/ Gurgaon,Associate Account Director,BAUPV5463K,State Bank Of India,20213290256,SBIN0016537,Savings
+1142072,Damini,Chadha,Damini Chadha,Damini.Chadha@shobizhavas.com,9870414488,Delhi/ Gurgaon,Deputy Manager - Administration,BBFPC5589M,Kotak Mahindra Bank,9145821778,KKBK0004626,Savings
+1142075,Vincent,Fulwari,Vincent Fulwari,Vincent.Fulwari@shobizhavas.com,9755867188,Bangalore,SENIOR EXPERIENCE DESIGNER,ABEPF5423B,Axis Bank,9.20E+14,UTIB0000785,Savings
+1142259,Evangelin,Dominiic,Evangelin Dominiic,Evangelin.Dominiic@shobizhavas.com,8220167014,Chennai,Manager - Client Servicing,ADYPE5921B,HDFC Bank,5.01E+13,HDFC0001871,Savings
+1142277,Sunil,Kumar,Sunil Kumar,s.kumar@shobizhavas.com,9811920830,Delhi/ Gurgaon,Associate Graphic Design Director,AVXPK6976D,Canara Bank,2.68E+11,CNRB0000268,Savings
+1142358,Satheesh,U,Satheesh U,Satheesh.V@shobizhavas.com,8105122526,Bangalore,Lead Graphic Designer,EDDPS4097H,Axis Bank,9.18E+14,UTIB0003271,Savings
+1142363,Anu Kumar,S,Anu Kumar S,Anu.Kumar@shobizhavas.com,8971557071,Bangalore,Senior Manager - Client Servicing,AWWPK7237P,HDFC Bank,5.01E+13,HDFC0000353,Savings
+1142365,Neha,Khemka,Neha Khemka,Neha.Khemka@shobizhavas.com,9538079688,Bangalore,Associate Director - Business Development,AFZPK5926R,IDBI Bank Ltd,1.55E+15,IBKL0001545,Savings
+1142456,Naman,Kapuria,Naman Kapuria,Naman.Kapuria@shobizhavas.com,7597474263,Delhi/ Gurgaon,Senior Manager - Brand Strategy,CUKPK5722R,Standard Chartered Bank,53111308792,SCBL0036025,Savings
+1142457,Samika,Daga,Samika Daga,Samika.Daga@shobizhavas.com,9742114043,Bangalore,Associate Director - Brand Strategy,DJIPD0034D,HDFC Bank,5.01E+13,HDFC0001755,Savings
+1142458,Bharat,Sharma,Bharat Sharma,Bharat.Sharma@shobizhavas.com,9873191992,Delhi/ Gurgaon,Associate Director - Operations,FUZPS0438G,HDFC Bank,5.01E+13,HDFC0000280,Savings
+1142460,Vishal,Lokhande,Vishal Lokhande,Vishal.Lokhande@shobizhavas.com,7678083437,Mumbai,Senior Manager - Brand Strategy,AHEPL3380K,ICICI Bank,1.03E+11,ICIC0001028,Savings
+1142465,Amir,Ahmed,Amir Ahmed,Amir.Ahmed@shobizhavas.com,9967290700,Mumbai,Associate Vice President - Client Servicing,ANBPA3993N,Axis Bank,9.15E+14,UTIB0002776,Savings
+1142486,Jatin,Arora,Jatin Arora,jatin.arora@shobizhavas.com,9873400732,Delhi/ Gurgaon,Associate Director - Operations,AGEPA1160D,HDFC Bank,1.66E+13,HDFC0001662,Savings
+1142567,Puja,Myne,Puja Myne,Puja.Myne@shobizhavas.com,9818306145,Delhi/ Gurgaon,Associate Vice President - Client Servicing,AFKPP5902K,HDFC Bank,1.29E+13,HDFC0001292,Savings
+1142625,Veeresh,P,Veeresh P,Veeresh.p@shobizhavas.com,8970047043,Bangalore,Lead Graphic Designer,BBVPV6953N,HDFC Bank,5.01E+13,HDFC0002778,Savings
+1142635,Nikhil,I,Nikhil I,nikhil.i@shobizhavas.com,9655710767,Bangalore,Junior Experience Designer,CLSPN0585J,IDBI Bank Ltd,1.38E+15,IBKL0001378,Savings
+1143158,Bhavika,Vig,Bhavika Vig,Bhavika.Vig@shobizhavas.com,6362267271,Bangalore,Executive - Client Servicing,BROPV2477C,HDFC Bank,5.01E+13,HDFC0000708,Savings
+1143165,Karan,Nischal,Karan Nischal,Karan.Nischal@shobizhavas.com,9654380230,Delhi/ Gurgaon,Senior Manager - Operations,AFTPN9638R,HDFC Bank,5.01E+13,HDFC0003830,Savings
+1143179,Prabhuti,Tarphe,Prabhuti Tarphe,Prabhuti.Tarphe@shobizhavas.com,8082026420,Mumbai,Manager - Client Servicing,AJRPT9023C,HDFC Bank,5.01E+13,HDFC0000146,Savings
+1143192,Rohan,Oberoi,Rohan Oberoi,Rohan.Oberoi@shobizhavas.com,9888090570,Delhi/ Gurgaon,Executive - Client Servicing,AFAPO0144A,State Bank Of India,40460081704,SBIN0011966,Savings
+1143193,Sachin,Kumar,Sachin Kumar,sachin.kumar1@shobizhavas.com,7042282896,Delhi/ Gurgaon,Associate Experience Design Director,BJGPK8752F,HDFC Bank,5.01E+13,HDFC0000503,Savings
+1143212,Gaurav,Sharma,Gaurav Sharma,Gaurav.Sharma@shobizhavas.com,7011687830,Delhi/ Gurgaon,Associate Experience Design Director,CAKPS7203P,IDFC First Bank Ltd,10161146033,IDFB0021271,Savings
+1143225,Aalhad,Bavkar,Aalhad Bavkar,Aalhad.Bavkar@shobizhavas.com,9004591006,Mumbai,Executive - Client Servicing,FSPPB4580J,Axis Bank,9.15E+14,UTIB0000341,Savings
+1143349,Dhanush,Prashanth,Dhanush Prashanth,Dhanush.Prashanth@shobizhavas.com,9036679505,Bangalore,Executive - Client Servicing,FJRPP2924R,Union Bank Of India,5.20E+14,UBIN0912271,Savings
+1143399,Maher,Rustomji,Maher Rustomji,Maher.Rustomji@shobizhavas.com,9886891677,Delhi/ Gurgaon,Account Director,AKBPR5360D,Axis Bank,9.16E+14,UTIB0002903,Savings
+1143401,Sakshi,Gupta,Sakshi Gupta,sakshi.gupta1@shobizhavas.com,9015163273,Delhi/ Gurgaon,Graphic Design Manager,AHPPG9609K,Kotak Mahindra Bank,3711238595,KKBK0000261,Savings
+1143403,Aishwarya,Sakshi,Aishwarya Sakshi,Aishwarya.Sakshi@shobizhavas.com,8910871326,Delhi/ Gurgaon,Senior Manager - Brand Strategy,IUMPS8278C,HDFC Bank,5.01E+13,HDFC0003654,Savings
+1143561,Akhil,Nair,Akhil Nair,Akhil.Nair@shobizhavas.com,9870526628,Mumbai,Associate Director - Brand Strategy,ATKPN5110F,ICICI Bank,26301531323,ICIC0000263,Savings
+1143562,Sagar,Chandnani,Sagar Chandnani,Sagar.Chandnani@shobizhavas.com,9820131172,Mumbai,Manager - Client Servicing,BMQPC3601J,HDFC Bank,5.01E+13,HDFC0000060,Savings
+1143576,Nidansh,Kaul,Nidansh Kaul,Nidansh.Kaul@shobizhavas.com,9910956198,Delhi/ Gurgaon,EXECUTIVE - OPERATIONS,KYWPK7915Q,ICICI Bank,28801007513,ICIC0000288,Savings
+1143588,Gulfaam,Shaikh,Gulfaam Shaikh,Gulfaam.Shaikh@shobizhavas.com,9987125898,Mumbai,Associate Graphic Design Director,CWMPS5316K,State Bank Of India,39624205468,SBIN0014748,Savings
+1143618,Vishal,Chandran,Vishal Chandran,Vishal.Chandran@shobizhavas.com,7259615448,Bangalore,Lead Experience Designer,CDAPC4329M,HDFC Bank,5.01E+13,HDFC0002729,Savings
+1143682,Ashok,Raj,Ashok Raj,Ashok.Raj@shobizhavas.com,7019871203,Bangalore,SENIOR EXECUTIVE - OPERATIONS,APOPA3812K,Indian Bank,7739134286,IDIB000C122,Savings
+1143735,Arun Kumar,M,Arun Kumar M,Arun.M@shobizhavas.com,9538630133,Bangalore,Deputy Manager - Operations,IQHPK1582G,IDFC First Bank Ltd,10164140866,IDFB0080176,Savings
+1143742,Mohammad,Danish,Mohammad Danish,Mohammad.Danish@shobizhavas.com,9892548644,Mumbai,EXECUTIVE - OPERATIONS,BYFPD9822F,Bank Of Baroda,8.38E+13,BARB0VJBHND,Savings
+1143927,Sarthak,Khapare,Sarthak Khapare,Sarthak.Khapare@shobizhavas.com,9867276426,Mumbai,Graphic Designer,EEFPK4140L,Saraswat Co-Operative Bank Ltd,6.92E+13,SRCB0000069,Savings
+1143949,Krisha,Chheda,Krisha Chheda,Krisha.Chheda@shobizhavas.com,9892728877,Mumbai,Executive - Client Servicing,DEPPC8249B,Bank Of Baroda,9.97E+13,BARB0DBMULE,Savings
+1143987,Kausik,Bose,Kausik Bose,Kausik.Bose@shobizhavas.com,9886751605,Bangalore,Associate Account Director - Business Development,AMVPB3578M,The South Indian Bank Limited,3.99E+14,SIBL0000399,Savings
+1143988,Nishant,Tiwari,Nishant Tiwari,Nishant.Tiwari@shobizhavas.com,9819639617,Mumbai,Associate Director - Business Development,AJSPT6339A,HDFC Bank,5.01E+13,HDFC0000592,Savings
