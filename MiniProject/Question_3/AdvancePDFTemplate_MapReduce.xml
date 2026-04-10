@@ -1,0 +1,182 @@
+<?xml version="1.0"?><!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd">
+<pdf>
+<head>
+	<link name="NotoSans" type="font" subtype="truetype" src="${nsfont.NotoSans_Regular}" src-bold="${nsfont.NotoSans_Bold}" src-italic="${nsfont.NotoSans_Italic}" src-bolditalic="${nsfont.NotoSans_BoldItalic}" bytes="2" />
+	<#if .locale == "zh_CN">
+		<link name="NotoSansCJKsc" type="font" subtype="opentype" src="${nsfont.NotoSansCJKsc_Regular}" src-bold="${nsfont.NotoSansCJKsc_Bold}" bytes="2" />
+	<#elseif .locale == "zh_TW">
+		<link name="NotoSansCJKtc" type="font" subtype="opentype" src="${nsfont.NotoSansCJKtc_Regular}" src-bold="${nsfont.NotoSansCJKtc_Bold}" bytes="2" />
+	<#elseif .locale == "ja_JP">
+		<link name="NotoSansCJKjp" type="font" subtype="opentype" src="${nsfont.NotoSansCJKjp_Regular}" src-bold="${nsfont.NotoSansCJKjp_Bold}" bytes="2" />
+	<#elseif .locale == "ko_KR">
+		<link name="NotoSansCJKkr" type="font" subtype="opentype" src="${nsfont.NotoSansCJKkr_Regular}" src-bold="${nsfont.NotoSansCJKkr_Bold}" bytes="2" />
+	<#elseif .locale == "th_TH">
+		<link name="NotoSansThai" type="font" subtype="opentype" src="${nsfont.NotoSansThai_Regular}" src-bold="${nsfont.NotoSansThai_Bold}" bytes="2" />
+	</#if>
+    <macrolist>
+        <macro id="nlfooter">
+            <table align="right" border="0" class="footer"><tr>
+	<td><#if companyInformation.companyname?length != 0>${companyInformation.companyname}</#if></td>
+	</tr></table>
+        </macro>
+    </macrolist>
+    <style type="text/css">table {
+				<#if .locale == "zh_CN">
+				  font-family: stsong, sans-serif;
+        <#elseif .locale == "zh_TW">
+          font-family: msung, sans-serif;
+        <#elseif .locale == "ja_JP">
+          font-family: heiseimin, sans-serif;
+        <#elseif .locale == "ko_KR">
+          font-family: hygothic, sans-serif;
+        <#elseif .locale == "ru_RU">
+          font-family: verdana;
+        <#else>
+          font-family: sans-serif;
+        </#if>
+				font-size: 9pt;
+				margin-top: 10px;
+				table-layout: fixed;
+				width: 100%;
+			}
+			th {
+				font-weight: bold;
+				font-size: 9pt;
+				vertical-align: middle;
+				padding-right: 8px;
+				padding-left: 8px;
+				padding-bottom: 3px;
+				padding-top: 5px;
+                background-color: #4682B4;
+				color: #ffffff;
+
+			}
+			td {
+				padding-right: 6px;
+				padding-left: 6px;
+				padding-bottom: 4px;
+				padding-top: 4px;
+
+			}
+			b {
+			   font-weight: bold;
+			   color: #333333;
+			}
+
+                        body {
+                           background-color: #ffffff;
+                        }
+
+                        table.border_bottom tr{
+                           border-bottom: 3px solid #black;
+                        }
+
+                        table.header{
+                           <!--background-color: #eaeaea;-->
+                           border-bottom: 4px solid #666666;
+                        }
+
+			table.header td {
+				padding: 0px;
+				font-size: 10pt;
+			}
+
+                        table.footer{
+                           width: 92%;
+                           font-size: 5pt;
+                           color: #ffffff;
+                        }
+
+			table.footer td {
+				padding: 0px;
+				font-size: 8pt;
+			}
+			table.itemtable th {
+				padding-bottom: 5px;
+				padding-top: 5px;
+			}
+                        table.itemtable td {
+				border: .5px solid #e0e0e0;
+			}
+			table.body td {
+				padding-top: 2px;
+      }
+
+			td.addressheader {
+				font-size: 8pt;
+      }
+      td.companyaddressheader{
+        padding-bottom : 1px;
+        font-size: 9pt;
+      }
+
+                        td.item {
+				padding-top: 0px;
+                                border: 0px solid #ffffff;
+			}
+			hr {
+				width: 100%;
+				color: #d3d3d3;
+				background-color: #d3d3d3;
+				height: 1px;
+			}
+</style>
+</head>
+<body footer="nlfooter" footer-height="20pt" padding="0.5in 0.5in 0.5in 0.5in" size="Letter">
+    <table><tr>
+	<td class="companyaddressheader" colspan="1"><b style="color:#4682B4; font-size: 18px">${companyInformation.companyname}</b><br />${companyInformation.mainaddress_text}<br />${companyInformation.email}</td>
+	<td align="right"><img height="100px" src="${companyInformation.logoUrl}" width="150px" /></td>
+	</tr></table>
+<hr />
+
+  <table align="left" border="0" class="itemtable" width="100%">
+<thead>
+	<tr>
+	<th colspan="8" style="align: left;">CUSTOMER NAME</th>
+	<th colspan="9" style="align: left;">FROM</th>
+	<th colspan="7" style="align: left;">TO</th>
+	<td class="item" colspan="13">&nbsp;</td>
+	</tr>
+</thead>
+    <#list resultKey.customerInput as resultK>
+    <tr>
+	<td colspan="8" style="align: left;"><span style="color:#666666;">${resultK[0].name}</span></td>
+	<td colspan="9" style="align: left;"><span style="color:#666666;">${resultK[0].from}</span></td>
+	<td colspan="7" style="align: left;"><span style="color:#666666;">${resultK[0].to}</span></td>
+	<td class="item" colspan="13">&nbsp;</td>
+	</tr>
+    </#list>
+    </table>
+
+<hr />
+
+<#assign line_no = 0>
+  <table align="left" class="itemtable" style="padding-top: 20px" width="100%"><!-- start items -->
+    <thead>
+      <tr>
+	<th colspan="8" style="align: left;">SALES ORDER NUMBER</th>
+	<th colspan="9" style="align: left;">DATE</th>
+	<th colspan="5" style="align: left;">AMOUNT</th>
+	<th colspan="6" style="align: left;">STATUS</th>
+	</tr>
+      </thead>
+     <#list results.customers as result>
+      <tr style="background-color: ${((line_no % 2)==0)?string('#ffffff', '#f0f0f0')};">
+        <td colspan="8" style="align: left; color:#666666;">${result[line_no].id}</td>
+        <td colspan="9" style="align: left;color:#666666;">${result[line_no].date}</td>
+        <td colspan="5" style="align: left; color:#666666;">${result[line_no].amount}</td>
+        <td colspan="6" style="align: left; color:#666666;">${result[line_no].status}</td>
+      </tr>
+      </#list>
+</table>
+<#assign line_no = line_no + 1>
+
+
+
+
+
+
+<hr />
+
+</body>
+</pdf>
